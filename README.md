@@ -4,6 +4,7 @@ Lista de projetos ativos no servidor no discord do [SouJunior Lab](https://disco
 
 ----------------
 
+## Lista
 Nome do projeto: DrD2 Infinite Community  
 Link no github: https://github.com/DrD2-Infinite-Community  
 Nome do responsavel: Simeone Johnson  
@@ -16,3 +17,9 @@ Link no github: -
 Nome do responsavel: Wouerner Brandão    
 Contato do responsavel: https://www.linkedin.com/in/wouerner/   
 **Descrição**: Vamos criar uma plataforma que organiza videos por tag e caterias, criando assim acervo de video de fácil localização.  
+
+
+
+## Sugestão de projetos
+
+* Criar um projeto de site que liste todos os projetos ativos nesse repositorio. Ex: https://empresas-usando-vuejs.netlify.app/
