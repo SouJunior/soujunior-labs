@@ -15,7 +15,9 @@ Contato do responsavel: https://github.com/Johnson49
 Nome do projeto: Organize Videos    
 Link no github: -  
 Nome do responsavel: Wouerner Brandão    
-Contato do responsavel: https://www.linkedin.com/in/wouerner/   
+Contato do responsavel:   
+https://www.linkedin.com/in/wouerner/     
+https://www.linkedin.com/in/amaryllismota/   
 **Descrição**: Vamos criar uma plataforma que organiza videos por tag e caterias, criando assim acervo de video de fácil localização.  
 
 
