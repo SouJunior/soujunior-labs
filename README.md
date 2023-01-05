@@ -19,8 +19,11 @@ Contato do responsavel:
 https://www.linkedin.com/in/wouerner/     
 https://www.linkedin.com/in/amaryllismota/   
 **Descrição**: Vamos criar uma plataforma que organiza videos por tag e caterias, criando assim acervo de video de fácil localização.  
-
-
+Equipe:
+* Wouerner - Stackholder
+* amaryllismota - Produto
+* https://www.linkedin.com/in/aleclima-/ - Dev Frontend
+* https://www.linkedin.com/in/mari-moraes - 
 
 ## Sugestão de projetos
 
