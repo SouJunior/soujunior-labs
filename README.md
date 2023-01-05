@@ -7,18 +7,18 @@ Lista de projetos ativos no servidor no discord do [SouJunior Lab](https://disco
 ## Lista
 Nome do projeto: DrD2 Infinite Community  
 Link no github: https://github.com/DrD2-Infinite-Community  
-Nome do responsavel: Simeone Johnson  
-Contato do responsavel: https://github.com/Johnson49  
+Nome do responsável: Simeone Johnson  
+Contato do responsável: https://github.com/Johnson49  
 
 ---------------
 
 Nome do projeto: Organize Videos    
 Link no github: -  
-Nome do responsavel: Wouerner Brandão    
-Contato do responsavel:   
+Nome do responsável: Wouerner Brandão    
+Contato do responsável:   
 https://www.linkedin.com/in/wouerner/     
 https://www.linkedin.com/in/amaryllismota/   
-**Descrição**: Vamos criar uma plataforma que organiza videos por tag e caterias, criando assim acervo de video de fácil localização.  
+**Descrição**: Vamos criar uma plataforma que organiza videos por tag e categorias, criando assim um acervo de vídeos de fácil localização.   
 Equipe:
 * Wouerner - Stackholder
 * amaryllismota - Produto
