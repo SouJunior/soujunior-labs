@@ -25,6 +25,16 @@ Equipe:
 * https://www.linkedin.com/in/aleclima-/ - Dev Frontend
 * https://www.linkedin.com/in/mari-moraes - 
 
-## Sugestão de projetos
+---------------
 
-* Criar um projeto de site que liste todos os projetos ativos nesse repositorio. Ex: https://empresas-usando-vuejs.netlify.app/
+
+Nome do projeto: Sou Junior | Projetos Ativos  
+Nome do responsável: Antonio Bordignon  
+**Descrição**  
+Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade sou júnior. Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
+Equipe:  
+Dev Frontend: Antonio Bordignon  
+UX/ UI: a definir  
+Product Manager: a definir  
+Mentor: a definir  
+QA: a definir  
