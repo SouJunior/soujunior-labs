@@ -33,8 +33,8 @@ Nome do responsável: Antonio Bordignon
 **Descrição**  
 Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade sou júnior. Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
 Equipe:  
-Dev Frontend: Antonio Bordignon  
-UX/ UI: a definir  
-Product Manager: a definir  
-Mentor: a definir  
-QA: a definir  
+* Dev Frontend: Antonio Bordignon  
+* UX/ UI: a definir  
+* Product Manager: a definir  
+* Mentor: a definir  
+* QA: a definir  
