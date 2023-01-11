@@ -28,7 +28,7 @@ Equipe:
 ---------------
 
 
-Nome do projeto: Sou Junior | Projetos Ativos  
+Nome do projeto: Sou Junior | Projetos Ativos   
 Nome do responsável: Antonio Bordignon  
 **Descrição**  
 Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade sou júnior. Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
@@ -42,7 +42,23 @@ Equipe:
 
 ---------------
 
-Nome do projeto: Pet Journal
+Nome do projeto: Pet Journal   
+Link no GitHub: https://github.com/PetJournal   
+Nome do responsável: Danrley Senegalha Pires  
+**Descrição**  
+Desenvolvimento de um produto para registro de informações referentes aos nossos pets.
+Registrando informações relevantes como datas de vacinas, datas em que foi aplicado vermífugo com detalhes, histórico de compras de ração, integração com Google Agenda, etc.  
+Equipe:  
+* Responsável / Mentor / Stakeholder: https://www.linkedin.com/in/dansenpir  
+* Agil: https://www.linkedin.com/in/leticiatrandrade  
+* Product Manager: a definir  
+* UX: https://www.linkedin.com/in/amanda-castanheira-746811a7  
+* QA: a definir  
+* BackEnd: a definir  
+* FrontEnd: a definir  
+* Mobile: a definir  
+
+Nome do projeto: Pet Journal    
 Nome do responsável: Danrley Senegalha Pires
 **Descrição**:
 Desenvolvimento de um produto para registro de informações referentes aos nossos pets.
