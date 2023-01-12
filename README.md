@@ -26,6 +26,7 @@ Equipe:
 * https://www.linkedin.com/in/mari-moraes - 
 * https://www.linkedin.com/in/leonardo-martins-developer/
 * https://www.linkedin.com/in/anic4cio/
+* https://www.linkedin.com/in/heloiza-mendes-785708214
 
 ---------------
 
