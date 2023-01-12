@@ -20,10 +20,11 @@ https://www.linkedin.com/in/wouerner/
 https://www.linkedin.com/in/amaryllismota/   
 **Descrição**: Vamos criar uma plataforma que organiza videos por tag e categorias, criando assim um acervo de vídeos de fácil localização.   
 Equipe:
-* Wouerner - Stackholder
-* amaryllismota - Produto
+* Wouerner - https://www.linkedin.com/in/wouerner/ - Stackholder
+* amaryllismota - https://www.linkedin.com/in/amaryllismota/  - Produto
 * https://www.linkedin.com/in/aleclima-/ - Dev Frontend
 * https://www.linkedin.com/in/mari-moraes - 
+* https://www.linkedin.com/in/leonardo-martins-developer/
 
 ---------------
 
