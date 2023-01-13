@@ -7,11 +7,11 @@
 <hr/>
 
 ## Projetos Ativos
--  <a href="#-pet-journal">Controle de corrida</a>
--  <a href="#-drd2-infinite">DrD2 Infinite Community</a>
--  <a href="#-organize-videos">Organize Videos</a>
--  <a href="#-pet-journal">Pet Journal</a>
--  <a href="#-projetos-ativos">Projetos Ativos</a>
+-  <a href="#controle-de-corrida">Controle de Corrida</a>
+-  <a href="#drd2-infinite-community">DrD2 Infinite Community</a>
+-  <a href="#organize-videos">Organize Videos</a>
+-  <a href="#pet-journal">Pet Journal</a>
+-  <a href="#projetos-ativos-site">Projetos Ativos</a>
 
 <hr/>
 
@@ -27,7 +27,7 @@
     - UX: *a definir*  
     - QA: *a definir*  
     - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a>, <a href="https://www.linkedin.com/in/myllenametzker/">Myllena M.</a> 
+    - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a> | <a href="https://www.linkedin.com/in/myllenametzker/">Myllena M.</a> 
 
 <hr/>
 
@@ -35,11 +35,11 @@
 **Repositório**: https://github.com/DrD2-Infinite-Community  
 **Responsável**: <a href="https://github.com/Johnson49">Simeone Johnson</a>  
 **Equipe**:  
-    - Frontend: *a definir* 
+    - Frontend: *a definir*
     - UX/ UI: *a definir*  
     - Product Manager: *a definir*  
     - Mentor: *a definir*  
-    - QA: *a definir*  
+    - QA: *a definir*
    
 <hr/>
 
@@ -49,11 +49,8 @@
     - Stakeholder: <a href="https://www.linkedin.com/in/wouerner/">Wouerner Brandão</a>  
     - Product Manager: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
     - Frontend: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a>  
-    - Backend: <a href="https://www.linkedin.com/in/leonardo-martins-developer/">Leonardo Martins</a> 
-    <!-- Esses abaixo eu não achei a área> -->
-    - <a href="https://www.linkedin.com/in/mari-moraes">Mari Moraes</a>   
-    - <a href="https://www.linkedin.com/in/anic4cio/">Vinicius Anicácio</a> 
-    - <a href="https://www.linkedin.com/in/heloiza-mendes-785708214">Heloiza Mendes</a> 
+    - Backend: <a href="https://www.linkedin.com/in/leonardo-martins-developer/">Leonardo Martins</a> | <a href="https://www.linkedin.com/in/anic4cio/">Vinicius Anicácio</a>   
+    - *Aguardando*: <a href="https://www.linkedin.com/in/heloiza-mendes-785708214">Heloiza Mendes</a> 
 
 <hr/>
 
