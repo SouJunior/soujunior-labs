@@ -15,19 +15,19 @@
 <hr/>
 
 ## DrD2 Infinite Community  
-1. **Repositório**: https://github.com/DrD2-Infinite-Community  
-2. **Responsável**: <a href="https://github.com/Johnson49">Simeone Johnson</a>
+**Repositório**: https://github.com/DrD2-Infinite-Community  
+**Responsável**: <a href="https://github.com/Johnson49">Simeone Johnson</a>
 
 <hr/>
 
 ## Organize Videos 
-1. **Repositório**: *a definir*  
-2. **Responsáveis**: 
+**Repositório**: *a definir*  
+**Responsáveis**: 
     - <a href="https://www.linkedin.com/in/wouerner/">Wouerner Brandão</a>
     - <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>
 
-3. **Descrição do projeto**: Vamos criar uma plataforma que organiza vídeos por tag e categorias, criando assim um acervo de vídeos de fácil localização.   
-4. **Equipe**:
+**Descrição do projeto**: Vamos criar uma plataforma que organiza vídeos por tag e categorias, criando assim um acervo de vídeos de fácil localização.   
+**Equipe**:
     - Stakeholder: <a href="https://www.linkedin.com/in/wouerner/">Wouerner Brandão</a>
     - Product Manager: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>
     - Frontend: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a>
@@ -40,9 +40,9 @@
 <hr/>
 
 ## Projetos Ativos [Site]
-1. **Responsável**: Antonio Bordignon
-2. **Descrição do projeto**: Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade <a href="https://www.soujunior.tech/">Sou Júnior</a>. Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
-3. **Equipe**:  
+**Responsável**: Antonio Bordignon
+**Descrição do projeto**: Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade <a href="https://www.soujunior.tech/">Sou Júnior</a>. Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
+**Equipe**:  
     - Frontend: Antonio Bordignon  
     - UX/ UI: *a definir*  
     - Product Manager: *a definir*  
@@ -52,11 +52,11 @@
 <hr/>
 
 ## Pet Journal
-1. **Repositório**: https://github.com/PetJournal   
-2. **Responsável**: Danrley Senegalha Pires  
-3. **Descrição do projeto**: Desenvolvimento de um produto para registro de informações referentes aos nossos pets.
+**Repositório**: https://github.com/PetJournal   
+**Responsável**: Danrley Senegalha Pires  
+**Descrição do projeto**: Desenvolvimento de um produto para registro de informações referentes aos nossos pets.
 Registrando informações relevantes como datas de vacinas, datas em que foi aplicado vermífugo com detalhes, histórico de compras de ração, integração com Google Agenda, etc.  
-4. **Equipe**:  
+**Equipe**:  
     - Responsável | Mentor | Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>
     - Agil: <a href="https://www.linkedin.com/in/leticiatrandrade">Letícia Andrade</a> 
     - Product Manager: *a definir*  
