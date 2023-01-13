@@ -79,7 +79,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 <hr/>
 
 ## Controle de Corrida 
-**Repositório**: https://github.com/Controledecorrida   
+**Repositório**: *a definir*  
 **Responsável**: Attila Monteiro de Abreu 
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.
  
