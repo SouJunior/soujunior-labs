@@ -13,14 +13,11 @@
 -  <a href="#-pet-journal">Pet Journal</a>
 -  <a href="#-projetos-ativos">Projetos Ativos</a>
 
-
-
-
 <hr/>
 
 ## Controle de Corrida 
 **Repositório**: *a definir*  
-**Responsável**: Attila Monteiro de Abreu  
+**Responsável**: <a href="https://www.linkedin.com/in/attilamec">Attila Monteiro de Abreu</a>  
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
 **Equipe**:  
     - Responsável: *a definir*  
@@ -31,7 +28,6 @@
     - QA: *a definir*  
     - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a>  
     - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a>, <a href="https://www.linkedin.com/in/myllenametzker/">Myllena M.</a> 
-
 
 <hr/>
 
@@ -86,6 +82,4 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - UX/ UI: *a definir*  
     - Product Manager: *a definir*  
     - Mentor: *a definir*  
-    - QA: *a definir*  
-
-
+    - QA: *a definir*
