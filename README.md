@@ -7,11 +7,31 @@
 <hr/>
 
 ## Projetos Ativos
+-  <a href="#-pet-journal">Controle de corrida</a>
 -  <a href="#-drd2-infinite">DrD2 Infinite Community</a>
 -  <a href="#-organize-videos">Organize Videos</a>
--  <a href="#-projetos-ativos">Projetos Ativos</a>
 -  <a href="#-pet-journal">Pet Journal</a>
--  <a href="#-pet-journal">Controle de corrida</a>
+-  <a href="#-projetos-ativos">Projetos Ativos</a>
+
+
+
+
+<hr/>
+
+## Controle de Corrida 
+**Repositório**: *a definir*  
+**Responsável**: Attila Monteiro de Abreu  
+**Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
+**Equipe**:  
+    - Responsável: *a definir*  
+    - Mentor Front-end: <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a>  
+    - Agil: *a definir*  
+    - Product Manager: *a definir*  
+    - UX: *a definir*  
+    - QA: *a definir*  
+    - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a>  
+    - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a>, <a href="https://www.linkedin.com/in/myllenametzker/">Myllena M.</a> 
+
 
 <hr/>
 
@@ -41,18 +61,6 @@
 
 <hr/>
 
-## Projetos Ativos [Site]
-**Responsável**: Antonio Bordignon  
-**Descrição do projeto**: Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade <a href="https://www.soujunior.tech/">Sou Júnior</a>. Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
-**Equipe**:  
-    - Frontend: Antonio Bordignon  
-    - UX/ UI: *a definir*  
-    - Product Manager: *a definir*  
-    - Mentor: *a definir*  
-    - QA: *a definir*  
-
-<hr/>
-
 ## Pet Journal
 **Repositório**: https://github.com/PetJournal   
 **Responsável**: Danrley Senegalha Pires  
@@ -67,19 +75,17 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - Backend: *a definir*  
     - Frontend: *a definir*  
     - Mobile: *a definir*
-    
+
 <hr/>
 
-## Controle de Corrida 
-**Repositório**: *a definir*  
-**Responsável**: Attila Monteiro de Abreu  
-**Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
+ ## Projetos Ativos [Site]
+**Responsável**: Antonio Bordignon  
+**Descrição do projeto**: Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade <a href="https://www.soujunior.tech/">Sou Júnior</a>. Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
 **Equipe**:  
-    - Responsável: *a definir*  
-    - Mentor Front-end: <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a>  
-    - Agil: *a definir*  
+    - Frontend: Antonio Bordignon  
+    - UX/ UI: *a definir*  
     - Product Manager: *a definir*  
-    - UX: *a definir*  
+    - Mentor: *a definir*  
     - QA: *a definir*  
-    - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a>, <a href="https://www.linkedin.com/in/myllenametzker/">Myllena M.</a> 
+
+
