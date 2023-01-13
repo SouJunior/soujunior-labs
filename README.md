@@ -35,7 +35,7 @@
 **Repositório**: https://github.com/DrD2-Infinite-Community  
 **Responsável**: <a href="https://github.com/Johnson49">Simeone Johnson</a>  
 **Equipe**:  
-    - Frontend: *a definir*
+    - Frontend: *a definir* <br/>
     - UX/ UI: *a definir*  
     - Product Manager: *a definir*  
     - Mentor: *a definir*  
@@ -48,9 +48,8 @@
 **Equipe**:  
     - Stakeholder: <a href="https://www.linkedin.com/in/wouerner/">Wouerner Brandão</a>  
     - Product Manager: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a>  
+    - Frontend: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a>  | <a href="https://www.linkedin.com/in/heloiza-mendes-785708214">Heloiza Mendes</a> <br/>
     - Backend: <a href="https://www.linkedin.com/in/leonardo-martins-developer/">Leonardo Martins</a> | <a href="https://www.linkedin.com/in/anic4cio/">Vinicius Anicácio</a>   
-    - *Aguardando*: <a href="https://www.linkedin.com/in/heloiza-mendes-785708214">Heloiza Mendes</a> 
 
 <hr/>
 
