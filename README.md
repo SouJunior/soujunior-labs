@@ -64,9 +64,9 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - Product Manager: <a href="https://www.linkedin.com/in/joaosilvavictor">João Victor Santos</a>  
     - UX: <a href="https://www.linkedin.com/in/amanda-castanheira-746811a7">Amanda Castanheira</a>  
     - QA: <a href="https://www.linkedin.com/in/karoline-ibrodrigues">Karoline Rodrigues<a/> - <a href="https://www.linkedin.com/in/lucas-medeiros-233328221">Lucas Medeiros</a>  
-    - Backend: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a> - <a href="https://www.linkedin.com/in/juliomasson/">Júlio Masson</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/mateuscarvalhodev/">Mateus Carvalho</a> - <a href="https://www.linkedin.com/in/pedro-henrique-271257244/">Pedro Henrique</a>  
-    - Mobile (Kotlin): <a href="https://www.linkedin.com/in/gusoliveira21">Gustavo Oliveira</a>  
+    - Backend: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a> - <a href="https://www.linkedin.com/in/juliomasson">Júlio Masson</a>  
+    - Frontend: <a href="https://www.linkedin.com/in/mateuscarvalhodev">Mateus Carvalho</a> - <a href="https://www.linkedin.com/in/pedro-henrique-271257244">Pedro Henrique</a>  
+    - Mobile (Kotlin): <a href="https://www.linkedin.com/in/gusoliveira21">Gustavo Oliveira</a> - <a href="https://www.linkedin.com/in/Leozinhozd">Leonardo Santos</a>  
     - Mobile (Swift): <a href="https://www.linkedin.com/mwlite/in/daiane-gon%C3%A7alves-4a946b94">Daiane Gonçalves</a> - <a href="https://www.linkedin.com/in/marcylene-barreto">Marcylene Barreto</a>  
 
 <hr/>
