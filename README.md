@@ -8,7 +8,7 @@
 
 ## Projetos Ativos
 -  <a href="#controle-de-corrida">Controle de Corrida</a>
--  <a href="#drd2-infinite-community">DrD2 Infinite Community</a>
+-  <a href="#wizer">Wizer</a>
 -  <a href="#organize-videos">Organize Videos</a>
 -  <a href="#pet-journal">Pet Journal</a>
 -  <a href="#projetos-ativos-site">Projetos Ativos</a>
@@ -31,15 +31,19 @@
 
 <hr/>
 
-## DrD2 Infinite Community  
-**Repositório**: https://github.com/DrD2-Infinite-Community  
-**Responsável**: <a href="https://github.com/Johnson49">Simeone Johnson</a>  
-**Equipe**:  
-    - Frontend: *a definir* <br/>
-    - UX/ UI: *a definir*  
-    - Product Manager: *a definir*  
-    - Mentor: *a definir*  
-    - QA: *a definir*
+ <a href=""></a>
+ 
+## Wizer
+**Repositório**:  <a href="https://github.com/Wizer-Community">Wizer Community</a> <br>
+**Responsável**: <a href="https://github.com/Sjhns">Simeone Johnson</a>  
+**Equipe**: <br>
+    - Frontend: <a href="https://www.linkedin.com/in/lucas-alves-476b281aa/">Lucas Alves</a>  |  <a href="https://www.linkedin.com/in/andrelcnunes/">André Luiz</a> |  <a href="https://www.linkedin.com/in/antoniolmcandido/">Antonio Candido</a>  <br>
+    - Backend: <a href="https://www.linkedin.com/in/simeone-johnson/">Simeone Johnson</a> | <a href="https://www.linkedin.com/in/jessica-santana-developer/">Jessica Santana</a> | <a href="https://www.linkedin.com/in/pedrohteles/">Pedro Teles</a> <br>
+    - UX/ UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a>  <br>
+    - Product Manager: Midi <br>
+    - Agilista: <a href="https://www.linkedin.com/in/mari-moraes/">Mari Moraes</a>  <br>
+    - Mentor: *a definir* <br>
+    - QA: *a definir* <br>
    
 <hr/>
 
