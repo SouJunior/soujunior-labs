@@ -82,7 +82,6 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Repositório**: *a definir*  
 **Responsável**: Attila Monteiro de Abreu 
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.
- 
 **Equipe**:  
     - Responsável: *a definir*  
     - Mentor Front-end: <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a>
@@ -92,4 +91,3 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - QA: *a definir*  
     - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a>  
     - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a>, <a href="https://www.linkedin.com/in/myllenametzker/">Myllena M.</a> 
- 
