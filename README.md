@@ -86,7 +86,6 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Equipe**:  
     - Responsável: *a definir*  
     - Mentor Front-end: <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a>
-    - Stakeholder: *a definir*  
     - Agil: *a definir* 
     - Product Manager: *a definir*  
     - UX: *a definir*  
