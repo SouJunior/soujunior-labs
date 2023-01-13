@@ -2,7 +2,7 @@
   <img alt="SouJunior Logo" src="https://user-images.githubusercontent.com/34722707/212139037-f0f862b6-4370-48b1-bdf5-84704e9f01cb.png" width="120px" />
 </h1>
 
-#### Repositório que contém a lista de projetos ativos no servidor no discord do [SouJunior Lab](https://discord.gg/soujunior-community-759176734460346423).
+#### Repositório que contém a lista de projetos ativos no servidor no Discord do [SouJunior Lab](https://discord.gg/soujunior-community-759176734460346423).
 
 <hr/>
 
