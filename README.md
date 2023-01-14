@@ -73,12 +73,13 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
 **Equipe**:  
     - Mentor Front-end: <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a>  
-    - Agil: *a definir*  
+    - Agil: <a href="https://www.linkedin.com/in/joao-m-seabra/">João Seabra</a>    
     - Product Manager: <a href="https://www.linkedin.com/in/guilhermeganhito/">Guilherme Ganhito</a>    
-    - UX: *a definir*  
+    - UX: <a href="https://www.linkedin.com/in/faelux/">Rafael Claudino</a>    
     - QA: <a href="https://www.linkedin.com/in/julissytocachelo/">Julissy Tocachelo</a>   
-    - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a> | <a href="https://www.linkedin.com/in/danielmatuoka">Daniel Matuoka Kobayashi</a> | <a href="https://xxxxx">xxxx</a>  
+    - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a> | <a href="https://www.linkedin.com/in/danielmatuoka">Daniel Matuoka Kobayashi</a> | <a href="https://www.linkedin.com/in/vinicius-grandi/">Vinícius Grandi</a>  
     - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a> | <a href="https://www.linkedin.com/in/myllenametzker/">Myllena M.</a> | <a href="https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/ ">Fernanda Lima Kagami</a>   
+    - Data: <a href="https://www.linkedin.com/in/suelytohm-oliveira-057a32a9/">Suelytohm Oliveira</a>   
     - Mobile: <a href="https://https://www.linkedin.com/in/manoeliranilson/">Manoel Iranilson Vieira</a>  
 <hr/>
 
