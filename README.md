@@ -6,7 +6,7 @@
 
 <hr/>
 
-## Projetos Ativos
+## Lista de Projetos Ativos
 -  <a href="#01-wizer">Wizer</a>
 -  <a href="#02-organize-videos">Organize Videos</a>
 -  <a href="#03-site-projetos-ativos">Projetos Ativos</a>
