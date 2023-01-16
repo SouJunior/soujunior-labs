@@ -15,23 +15,7 @@
 
 <hr/>
 
-## Controle de Corrida 
-**Repositório**: *a definir*  
-**Responsável**: <a href="https://www.linkedin.com/in/attilamec">Attila Monteiro de Abreu</a>  
-**Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
-**Equipe**:  
-    - Responsável: *a definir*  
-    - Mentor Front-end: <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a>  
-    - Agil: *a definir*  
-    - Product Manager: *a definir*  
-    - UX: *a definir*  
-    - QA: *a definir*  
-    - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a> | <a href="https://www.linkedin.com/in/myllenametzker/">Myllena M.</a> 
-
-<hr/>
- 
-## Wizer
+## 01. Wizer
 **Repositório**:  <a href="https://github.com/Wizer-Community">Wizer Community</a> <br>
 **Responsável**: <a href="https://www.linkedin.com/in/simeone-johnson/">Simeone Johnson</a>  
 **Equipe**: <br>
@@ -43,15 +27,6 @@
     - Mentor: *a definir* <br>
     - QA: *a definir* <br>
   
-<hr/>
-  
-## Lista de Projetos Ativos
--  <a href="#01-wizer">Wizer</a>
--  <a href="#02-organize-videos">Organize Videos</a>
--  <a href="#03-site-projetos-ativos">Projetos Ativos</a>
--  <a href="#04-pet-journal">Pet Journal</a>
--  <a href="#05-controle-de-corrida">Controle de Corrida</a>
-
 <hr/>
 
 ## 02. Organize Videos  
