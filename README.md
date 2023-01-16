@@ -44,8 +44,8 @@
     - Frontend: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/) | [Elton Campos](https://www.linkedin.com/in/eltonapcampos/)  
     - UX/ UI: [João Gabriel](https://www.linkedin.com/in/jgsilvadeoliveira/) | [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)   
     - Mentor: [Joana D'arc](https://www.linkedin.com/in/joanadarc2233/)  
-    - QA: [Joelson Junior](http://linkedin.com/in/joelson-júnior-67760b238)
-    
+    - QA: [Joelson Junior](http://linkedin.com/in/joelson-júnior-67760b238/)  
+    - Product Manager: [Rafaela Blavatsky](https://www.linkedin.com/in/rafaela-blavatsky/)  
 <hr/> 
 
 ## 04. Pet Journal
