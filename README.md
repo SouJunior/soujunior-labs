@@ -38,7 +38,7 @@
     - Frontend: <a href="https://www.linkedin.com/in/lucas-alves-476b281aa/">Lucas Alves</a>  |  <a href="https://www.linkedin.com/in/andrelcnunes/">André Luiz</a> | <a href="https://www.linkedin.com/in/antoniolmcandido/">Antonio Candido</a>  <br>
     - Backend: <a href="https://www.linkedin.com/in/simeone-johnson/">Simeone Johnson</a> | <a href="https://www.linkedin.com/in/jessica-santana-developer/">Jessica Santana</a> | <a href="https://www.linkedin.com/in/pedrohteles/">Pedro Teles</a> <br>
     - UX/ UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a> |  <a href="https://www.linkedin.com/in/vinioliveirasilva/">Vinicius Oliveira </a>   <br>
-    - Product Manager: Midi <br>
+    - Product Manager:  <a href="https://www.linkedin.com/in/midiã-galvão-361431169/">Midiã Galvão</a> <br>
     - Agilista: <a href="https://www.linkedin.com/in/mari-moraes/">Mari Moraes</a>  <br>
     - Mentor: *a definir* <br>
     - QA: *a definir* <br>
