@@ -12,6 +12,7 @@
 -  <a href="#03-site-projetos-ativos">Projetos Ativos</a>
 -  <a href="#04-pet-journal">Pet Journal</a>
 -  <a href="#05-controle-de-corrida">Controle de Corrida</a>
+-  <a href="#06-junior-4-job">Junior 4 Job</a>
 
 <hr/>
 
@@ -85,6 +86,21 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - Mobile: <a href="https://www.linkedin.com/in/manoeliranilson/">Manoel Iranilson Vieira</a>  
 <hr/>
 
-
+## 06. Junior 4 Job    
+**Responsável**: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a>  
+**Descrição do projeto**: Site para juniores cadastrarem os currículos e empresas terem acesso a eles.   
+Para os juniores será um local único para enviar o currículo.   
+Para as empresas será um facilitador na hora da busca pelo candidato ideal, visto não precisarem de banco de talentos interno.   
+**Equipe**:  
+    - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/vitormatiasf">Vitor Matias</a>  
+    - Mentor: *a definir*  
+    - Product Manager: *a definir*  
+    - Agilista: *a definir*  
+    - UX/UI: *a definir*  
+    - Frontend: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a> | *a definir*  
+    - Backend: *a definir*  
+    - Mobile: *a definir*  
+    - QA: *a definir*  
+<hr/>
 
 
