@@ -116,7 +116,7 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
     - Product Manager: *a definir*  
     - Agilista: *a definir*  
     - UX/UI: *a definir*  
-    - Frontend: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a> | *a definir*  
+    - Frontend: *a definir*  
     - Backend: *a definir*  
     - Mobile: *a definir*  
     - QA: *a definir*  
