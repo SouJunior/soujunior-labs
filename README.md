@@ -103,4 +103,22 @@ Para as empresas será um facilitador na hora da busca pelo candidato ideal, vis
     - QA: *a definir*  
 <hr/>
 
+## 07. Cartão Fidelidade Digital   
+**Responsável**: <a href="https://www.linkedin.com/in/adrianoangeli/">Adriano Angeli</a>  
+**Descrição do projeto**: O aplicativo (PWA) será um cartão de fidelidade digital, ou seja, várias lojas podem se cadastrar e dar pontos ou criar regras de pontuação para o clientes. Sendo assim, o cliente terá acesso no aplicativo e poderá verificar quais lojas e quantos pontos tem, até mesmo ver a quantidade de pontos que falta para ganhar algum prêmio ou desconto da loja.
+
+Sendo assim, o sistema terá 2 visões, a visão da Loja, Restaurante, Bar e Etc. Nessa visão pode ser cadastrado o cliente, regras de pontuação e aplicar pontuação.
+
+A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuação.   
+**Equipe**:  
+    - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/adrianoangeli/">Adriano Angeli</a>  
+    - Mentor: *a definir*  
+    - Product Manager: *a definir*  
+    - Agilista: *a definir*  
+    - UX/UI: *a definir*  
+    - Frontend: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a> | *a definir*  
+    - Backend: *a definir*  
+    - Mobile: *a definir*  
+    - QA: *a definir*  
+<hr/>
 
