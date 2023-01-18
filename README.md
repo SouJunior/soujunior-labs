@@ -25,7 +25,7 @@
     - Product Manager:  <a href="https://www.linkedin.com/in/midiã-galvão-361431169/">Midiã Galvão</a> <br>
     - Agilista: <a href="https://www.linkedin.com/in/mari-moraes/">Mari Moraes</a>  <br>
     - Mentor: *a definir* <br>
-    - QA: *a definir* <br>
+    - QA:  <a href="https://www.linkedin.com/in/karoline-ibrodrigues/">Karoline Rodrigues</a> <br>
   
 <hr/>
 
