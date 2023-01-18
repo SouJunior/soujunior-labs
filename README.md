@@ -93,7 +93,14 @@ Para os juniores será um local único para enviar o currículo.
 Para as empresas será um facilitador na hora da busca pelo candidato ideal, visto não precisarem de banco de talentos interno.   
 **Equipe**:  
     - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/vitormatiasf">Vitor Matias</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a>
+    - Mentor: *a definir*  
+    - Product Manager: *a definir*  
+    - Agilista: *a definir*  
+    - UX/UI: *a definir*  
+    - Frontend: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a> | *a definir*  
+    - Backend: *a definir*  
+    - Mobile: *a definir*  
+    - QA: *a definir*  
 <hr/>
 
 
