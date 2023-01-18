@@ -13,6 +13,7 @@
 -  <a href="#04-pet-journal">Pet Journal</a>
 -  <a href="#05-controle-de-corrida">Controle de Corrida</a>
 -  <a href="#06-junior-4-job">Junior 4 Job</a>
+-  <a href="#07-cartão-fidelidade-digital">Cartão Fidelidade Digital</a>
 
 <hr/>
 
