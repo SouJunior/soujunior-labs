@@ -31,13 +31,16 @@
   
 <hr/>
 
-## 02. Organize Videos  
+## 02. Video4Me  
 **Descrição do projeto**: Vamos criar uma plataforma que organiza vídeos por tag e categorias, criando assim um acervo de vídeos de fácil localização.  
 **Equipe**:  
-    - Stakeholder: <a href="https://www.linkedin.com/in/wouerner/">Wouerner Brandão</a>  
-    - Product Manager: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a>  | <a href="https://www.linkedin.com/in/heloiza-mendes-785708214">Heloiza Mendes</a> <br/>
-    - Backend: <a href="https://www.linkedin.com/in/leonardo-martins-developer/">Leonardo Martins</a> | <a href="https://www.linkedin.com/in/anic4cio/">Vinicius Anicácio</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/wouerner/">Wouerner Brandão</a>  <br>
+    - Product Manager: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  <br>
+    - Agilista: <a href="https://www.linkedin.com/in/vanessa-patricia/">Vanêssa Santana</a> <br>
+    - Tech Lead: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a> <br>
+    - Frontend: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a> | <a href="https://www.linkedin.com/in/heloiza-mendes-785708214">Heloiza Mendes</a> | <a href="https://www.linkedin.com/in/leonardo-martins-developer/">Leonardo Martins</a> <br/>
+    - UX/ UI: <a href="https://www.linkedin.com/in/marcosparanhos/">Marcos Paranhos</a> | <a href="https://www.linkedin.com/in/jadylay-santos/">Jadylay Sousa</a> <br>
+    - Backend: <a href="https://www.linkedin.com/in/anic4cio/">Vinicius Anicácio</a>  
     
 <hr/>
 
