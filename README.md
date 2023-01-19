@@ -14,6 +14,7 @@
 -  <a href="#05-controle-de-corrida">Controle de Corrida</a>
 -  <a href="#06-junior-4-job">Junior 4 Job</a>
 -  <a href="#07-cartão-fidelidade-digital">Cartão Fidelidade Digital</a>
+-  <a href="#08-animania">Animania</a>
 
 <hr/>
 
@@ -126,3 +127,13 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
     - QA: *a definir*  
 <hr/>
 
+## 08. Animania
+**Responsável**: <a href="www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
+**Descrição do projeto**: Um aplicativo para acompanhamento e organização centralizada de animes, contendo como principal funcionalidade uma lista de acompanhamento dos animes com os episódios e temporadas já assistidas, calendário de lançamento de animes que o usuário deseja assistir, lista de todos os lançamentos anteriores divido por gênero (shounen, ...), e feed de notícias para os usuários compartilharem informações relevantes para a comunidade. <br/>
+**Equipe**: <br/>
+    - Agilista: <a href="https://www.linkedin.com/in/product-owner-sidnei-almeida/">Sidnei Almeida</a> <br/>
+    - Product Manager: <a href="https://www.linkedin.com/in/akira-shimazu-2577b2192/">Akira Shimazu</a> <br/>
+    - Frontend: <a href="www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
+    - Backend: *a definir* <br/>
+    - UX/UI: *a definir* <br/>
+<hr/>
