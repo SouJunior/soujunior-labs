@@ -15,6 +15,7 @@
 -  <a href="#06-junior-4-job">Junior 4 Job</a>
 -  <a href="#07-cartão-fidelidade-digital">Cartão Fidelidade Digital</a>
 -  <a href="#08-animania">Animania</a>
+-  <a href="#09-minnemi">Minnemi</a>
 
 <hr/>
 
@@ -136,4 +137,22 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
     - Frontend: <a href="www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
     - Backend: *a definir* <br/>
     - UX/UI: *a definir* <br/>
+<hr/>
+
+## 09. Minnemi
+**Responsável**: <a href="www.linkedin.com/in/hugoversiani">Hugo Versiani</a> <br/>
+**Descrição do projeto**: Uma plataforma web onde pessoas pudessem enviar "cartas" (que na verdade seriam e-mails) para si mesmas, porém definindo uma data especifica para receber-las no futuro, como se fosse uma "capsula do tempo". 
+
+Por exemplo, você escreve um e-mail com seus planos para os proximos 12 meses. Apos definir o texto da sua "carta", você definiria a data que deseja receber o e-mail. Decorrido o tempo (nesse exemplo 12 meses), você recebe o e-mail que enviou um ano atrás.
+
+A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada para diversos fins, como por exemplo professores com alunos no inicio do ano ano letivo, para receberem ao final. Ou psicólogos com seus pacientes. Enfim, qualquer pessoa que queira registrar algo que se gostaria de ler no futuro. <br/>
+**Equipe**: <br/>
+    -Responsável: <a href="www.linkedin.com/in/hugoversiani">Hugo Versiani</a> <br/>
+    - Mentor: *a definir*  <br/>
+    - Agilista: *a definit*<br/>
+    - Product Manager: *a definir*<br/>
+    - Frontend: *a definir* <br/>
+    - Backend: *a definir* <br/>
+    - UX/UI: *a definir* <br/>
+    - QA: *a definir* <br />
 <hr/>
