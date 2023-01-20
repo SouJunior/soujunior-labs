@@ -98,14 +98,14 @@ Para os juniores será um local único para enviar o currículo.
 Para as empresas será um facilitador na hora da busca pelo candidato ideal, visto não precisarem de banco de talentos interno.   
 **Equipe**:  
     - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/vitormatiasf">Vitor Matias</a>  
-    - Mentor: *a definir*  
-    - Product Manager: *a definir*  
-    - Agilista: *a definir*  
-    - UX/UI: *a definir*  
-    - Frontend: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a> | *a definir*  
-    - Backend: *a definir*  
-    - Mobile: *a definir*  
-    - QA: *a definir*  
+    - Mentor: <a href="https://www.linkedin.com/in/fellipyferreira">Fellipy Ferreira</a>  
+    - Product Manager: <a href="https://www.linkedin.com/in/guilhermedvicz/">Guilherme D.</a>  
+    - Agilista: <a href="#">Arlindo Neto</a>  
+    - UX/UI: <a href="https://www.linkedin.com/in/chrysthianprudencio/">Chrysthian Prudencio</a> | <a href="#">Pamela</a>   
+    - Frontend: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a> | <a href="https://www.linkedin.com/in/mariolucas00/">Mario Lucas</a>  
+    - Backend: <a href="https://www.linkedin.com/in/camila-marchi-b901b2151/">Camila Marchi</a> | <a href="https://www.linkedin.com/in/emerson-moreira/">Emerson Moreira</a>   
+    - Mobile: <a href="https://www.linkedin.com/in/lucaspachecoandrade/">Lucas Andrade</a> | <a href="#">Diogo Moreira</a>   
+    - QA: <a href="https://www.linkedin.com/in/la%C3%ADne-andrade-b5538719b/">Laíne Andrade</a> | <a href="https://www.linkedin.com/in/tatianamouracapel/">Tatiana Moura</a>   
 <hr/>
 
 ## 07. Cartão Fidelidade Digital   
