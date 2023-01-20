@@ -26,9 +26,9 @@
     - Frontend: <a href="https://www.linkedin.com/in/lucas-alves-476b281aa/">Lucas Alves</a>  |  <a href="https://www.linkedin.com/in/andrelcnunes/">André Luiz</a> | <a href="https://www.linkedin.com/in/antoniolmcandido/">Antonio Candido</a>  <br>
     - Backend: <a href="https://www.linkedin.com/in/simeone-johnson/">Simeone Johnson</a> | <a href="https://www.linkedin.com/in/jessica-santana-developer/">Jessica Santana</a> | <a href="https://www.linkedin.com/in/pedrohteles/">Pedro Teles</a> <br>
     - UX/ UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a> |  <a href="https://www.linkedin.com/in/vinioliveirasilva/">Vinicius Oliveira </a>   <br>
-    - Product Manager:  <a href="https://www.linkedin.com/in/midiã-galvão-361431169/">Midiã Galvão</a> <br>
+    - Product Manager: <a href="https://www.linkedin.com/in/victoria-oiticica/">Victória Oiticica</a> <br>
     - Agilista: <a href="https://www.linkedin.com/in/mari-moraes/">Mari Moraes</a>  <br>
-    - Mentor: *a definir* <br>
+    - Mentor: <a href="https://www.linkedin.com/in/joao-m-seabra/">João Seabra</a> <br>
     - QA:  <a href="https://www.linkedin.com/in/karoline-ibrodrigues/">Karoline Rodrigues</a> <br>
   
 <hr/>
