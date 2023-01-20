@@ -133,7 +133,8 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 **Equipe**: <br/>
     - Agilista: <a href="https://www.linkedin.com/in/product-owner-sidnei-almeida/">Sidnei Almeida</a> <br/>
     - Product Manager: <a href="https://www.linkedin.com/in/akira-shimazu-2577b2192/">Akira Shimazu</a> <br/>
-    - Frontend: <a href="www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
-    - Backend: *a definir* <br/>
-    - UX/UI: *a definir* <br/>
+    - Frontend: <a href="#">Darlan Bomfim</a> | <a href="https://www.linkedin.com/in/mauricio-bruno-da-silva/">Maurício Bruno</a> <br/>
+    - Mobile: <a href="www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
+    - Backend:  <a href="#">Mateus</a> <br/>
+    - UX/UI: <a href="#">Pedro Henrique</a> <br/>
 <hr/>
