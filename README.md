@@ -22,7 +22,7 @@
 ## 01. Wizer
 **Repositório**:  <a href="https://github.com/Wizer-Community">Wizer Community</a> <br>
 **Responsável**: <a href="https://www.linkedin.com/in/simeone-johnson/">Simeone Johnson</a>  
-**Descrição do projeto**: Somos uma plataforma de Streaming Educacional, com conteúdo de qualidade disponibilizado de forma gratuita. Unimos educação e tecnologia, para transformar a forma de aprendizagem, tornando simples e acessível a todos que querem aprender. <br>
+**Descrição do projeto**: Somos uma plataforma de Streaming Educacional, com conteúdo de qualidade disponibilizado de forma gratuita. Unimos educação e tecnologia, para transformar a forma de aprendizagem, tornando simples e acessível a todos que querem aprender.
 
 **Equipe**: <br>
     - Frontend: <a href="https://www.linkedin.com/in/lucas-alves-476b281aa/">Lucas Alves</a>  |  <a href="https://www.linkedin.com/in/andrelcnunes/">André Luiz</a> | <a href="https://www.linkedin.com/in/antoniolmcandido/">Antonio Candido</a>  <br>
