@@ -83,7 +83,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
 **Equipe**:  
     - Mentor Front-end: <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a>  
-    - Agil: <a href="https://www.linkedin.com/in/joao-m-seabra/">João Seabra</a>    
+    - Agil: <a href="https://www.linkedin.com/in/hedpodepaula/">Hédpo Silva De Paula</a>    
     - Product Manager: <a href="https://www.linkedin.com/in/guilhermeganhito/">Guilherme Ganhito</a>    
     - UX: <a href="https://www.linkedin.com/in/faelux/">Rafael Claudino</a> | <a href="https://linkedin.com/in/douglaspereira4">Douglas Pereira</a>  
     - QA: <a href="https://www.linkedin.com/in/julissytocachelo/">Julissy Tocachelo</a>   
