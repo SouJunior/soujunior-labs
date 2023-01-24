@@ -60,7 +60,7 @@
 
 ## 04. Pet Journal
 **Repositório**: <a href="https://github.com/PetJournal">Organização Pet Journal</a>   
-**Responsável**: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
+**Responsável**:  
 **Descrição do projeto**: Desenvolvimento de um produto para registro de informações referentes aos nossos pets.
 Registrando informações relevantes como datas de vacinas, datas em que foi aplicado vermífugo com detalhes, histórico de compras de ração, integração com Google Agenda, etc.  
 **Equipe**:  
