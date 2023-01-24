@@ -118,7 +118,7 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
     - Agilista: <a href="https://www.linkedin.com/in/hedpodepaula/">Hédpo Silva De Paula</a>  
     - QA: <a href="https://www.linkedin.com/in/tatianamouracapel/">Tatiana Moura Capel</a> | <a href="https://www.linkedin.com/in/jana%C3%ADna-andrade-lima-pereira-88b05421b/">Janaína Andrade Lima Pereira</a>  
     - UX/UI: <a href="https://www.linkedin.com/in/crislanecosta/">Cris Costa</a> | <a href="https://www.linkedin.com/in/leticiaribeirodesign/">Leticia Ribeiro</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/luvoir/">Denise Pereira</a> | <a href="">Bianca Leal</a>  
+    - Frontend: <a href="https://www.linkedin.com/in/luvoir/">Denise Pereira</a> | <a href="https://www.linkedin.com/in/bianca-leall/">Bianca Leal</a>  
     - Backend: <a href="https://www.linkedin.com/in/joao-fuzeto/">João Fuzeto</a> | <a href="https://www.linkedin.com/in/moniquecwopereis/">Monique Candido Wopereis</a>
 <hr/>
 
