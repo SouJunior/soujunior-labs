@@ -121,14 +121,13 @@ Sendo assim, o sistema terá 2 visões, a visão da Loja, Restaurante, Bar e Etc
 A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuação.   
 **Equipe**:  
     - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/adrianoangeli/">Adriano Angeli</a>  
-    - Mentor: *a definir*  
-    - Product Manager: *a definir*  
-    - Agilista: *a definir*  
-    - UX/UI: *a definir*  
-    - Frontend: *a definir*  
-    - Backend: *a definir*  
-    - Mobile: *a definir*  
-    - QA: *a definir*  
+    - Mentores: <a href="https://www.linkedin.com/in/adrianoangeli/">Adriano Angeli</a> *(Mentor do Projeto em Geral)* | <a href="https://www.linkedin.com/in/sabrina-nader/">Sabrina Nader</a> *(Mentora Ágil)*   
+    - Product Manager: <a href="Solicitado o linkedin">halineds</a> | <a href="https://www.linkedin.com/in/renata-mmachado/">Renata Machado</a>  
+    - Agilista: <a href="https://www.linkedin.com/in/hedpodepaula/">Hédpo Silva De Paula</a>  
+    - QA: <a href="https://www.linkedin.com/in/tatianamouracapel/">Tatiana Moura Capel</a> | <a href="https://www.linkedin.com/in/jana%C3%ADna-andrade-lima-pereira-88b05421b/">Janaína Andrade Lima Pereira</a>  
+    - UX/UI: <a href="https://www.linkedin.com/in/crislanecosta/">Cris Costa</a> | <a href="https://www.linkedin.com/in/leticiaribeirodesign/">Leticia Ribeiro</a>  
+    - Frontend: <a href="https://www.linkedin.com/in/luvoir/">Denise Pereira</a> | <a href="https://www.linkedin.com/in/bianca-leall/">Bianca Leal</a>  
+    - Backend: <a href="https://www.linkedin.com/in/joao-fuzeto/">João Fuzeto</a> | <a href="https://www.linkedin.com/in/moniquecwopereis/">Monique Candido Wopereis</a>
 <hr/>
 
 ## 08. Animania
