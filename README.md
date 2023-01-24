@@ -43,7 +43,7 @@
     - Tech Lead: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a> <br>
     - Frontend: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a> | <a href="https://www.linkedin.com/in/heloiza-mendes-785708214">Heloiza Mendes</a> | <a href="https://www.linkedin.com/in/leonardo-martins-developer/">Leonardo Martins</a> <br/>
     - UX/ UI: <a href="https://www.linkedin.com/in/marcosparanhos/">Marcos Paranhos</a> | <a href="https://www.linkedin.com/in/jadylay-santos/">Jadylay Sousa</a> <br>
-    - Backend: <a href="https://www.linkedin.com/in/anic4cio/">Vinicius Anicácio</a>  
+    - Backend: <a href="https://www.linkedin.com/in/anic4cio/">Vinicius Anicácio</a> | <a href="https://www.linkedin.com/in/savio-nascimento-gomes/">Savio Nascimento</a>
     
 <hr/>
 
