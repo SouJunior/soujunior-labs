@@ -102,7 +102,7 @@ Para as empresas será um facilitador na hora da busca pelo candidato ideal, vis
     - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/vitormatiasf">Vitor Matias</a>  
     - Mentor: <a href="https://www.linkedin.com/in/fellipyferreira">Fellipy Ferreira</a>  
     - Product Manager: <a href="https://www.linkedin.com/in/guilhermedvicz/">Guilherme D.</a>  
-    - Agilista: <a href="#">Arlindo Neto</a>  
+    - Agilista: <a href="https://www.linkedin.com/in/mari-moraes/">Mari Moraes</a>  
     - UX/UI: <a href="https://www.linkedin.com/in/chrysthianprudencio/">Chrysthian Prudencio</a> | <a href="#">Pamela</a>   
     - Frontend: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a> | <a href="https://www.linkedin.com/in/mariolucas00/">Mario Lucas</a>  
     - Backend: <a href="https://www.linkedin.com/in/camila-marchi-b901b2151/">Camila Marchi</a> | <a href="https://www.linkedin.com/in/emerson-moreira/">Emerson Moreira</a>   
