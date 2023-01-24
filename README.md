@@ -117,7 +117,7 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
     - Product Manager: <a href="Solicitado o linkedin">halineds</a>  
     - Agilista: <a href="https://www.linkedin.com/in/hedpodepaula/">Hédpo Silva De Paula</a>  
     - QA: <a href="https://www.linkedin.com/in/tatianamouracapel/">Tatiana Moura Capel</a>  
-    - UX/UI: <a href="Solicitado o linkedin">Cris Costa</a>  
+    - UX/UI: <a href="https://www.linkedin.com/in/crislanecosta/">Cris Costa</a>  
     - Frontend: <a href="https://www.linkedin.com/in/luvoir/">Denise Pereira</a>  
     - Backend: <a href="https://www.linkedin.com/in/joao-fuzeto/">João Fuzeto</a> | <a href="https://www.linkedin.com/in/moniquecwopereis/">Monique Candido Wopereis</a>
 <hr/>
