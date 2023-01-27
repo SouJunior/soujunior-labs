@@ -35,7 +35,8 @@
 <hr/>
 
 ## 02. Video4Me  
-**Descrição do projeto**: Vamos criar uma plataforma que organiza vídeos por tag e categorias, criando assim um acervo de vídeos de fácil localização.  
+**Descrição do projeto**: Vamos criar uma plataforma que organiza vídeos por tag e categorias, criando assim um acervo de vídeos de fácil localização. <br>
+**Repositório**:  <a href="https://github.com/Video4Me">Video4Me</a> <br> 
 **Equipe**:  
     - Stakeholder: <a href="https://www.linkedin.com/in/wouerner/">Wouerner Brandão</a>  <br>
     - APM: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  <br>
