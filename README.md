@@ -12,7 +12,7 @@
 -  <a href="#03-site-projetos-ativos">Projetos Ativos</a>
 -  <a href="#04-pet-journal">Pet Journal</a>
 -  <a href="#05-controle-de-corrida">Controle de Corrida</a>
--  <a href="#06-junior-4-job">Junior 4 Job</a>
+-  <a href="#06-findy">Findy</a>
 -  <a href="#07-cartão-fidelidade-digital">Cartão Fidelidade Digital</a>
 -  <a href="#08-animania">Animania</a>
 -  <a href="#09-minnemi">Minnemi</a>
@@ -98,11 +98,9 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - Mobile: <a href="https://www.linkedin.com/in/manoeliranilson/">Manoel Iranilson Vieira</a>  
 <hr/>
 
-## 06. Junior 4 Job    
+## 06. Findy    
 **Responsável**: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a>  
-**Descrição do projeto**: Site para juniores cadastrarem os currículos e empresas terem acesso a eles.   
-Para os juniores será um local único para enviar o currículo.   
-Para as empresas será um facilitador na hora da busca pelo candidato ideal, visto não precisarem de banco de talentos interno.   
+**Descrição do projeto**: Aplicação para conectar candidatos juniores a empresas recrutadoras de forma eficiente e inovadora proporcionando uma transição suave para o mercado de trabalho. Nossa prioridade é desenvolver um produto com propósito, que possa ser usado como uma ferramenta real para auxiliar os candidatos juniores na busca por emprego e as empresas na busca pelos melhores candidatos.   
 **Equipe**:  
     - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/vitormatiasf">Vitor Matias</a>  
     - Mentor: <a href="https://www.linkedin.com/in/fellipyferreira">Fellipy Ferreira</a>  
