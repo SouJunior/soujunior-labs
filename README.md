@@ -148,11 +148,11 @@ Por exemplo, você escreve um e-mail com seus planos para os proximos 12 meses. 
 A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada para diversos fins, como por exemplo professores com alunos no inicio do ano ano letivo, para receberem ao final. Ou psicólogos com seus pacientes. Enfim, qualquer pessoa que queira registrar algo que se gostaria de ler no futuro. <br/>
 **Equipe**: <br/>
     -Responsável: <a href="www.linkedin.com/in/hugoversiani">Hugo Versiani</a> <br/>
-    - Mentor: *a definir*  <br/>
-    - Agilista: *a definit*<br/>
-    - Product Manager: *a definir*<br/>
-    - Frontend: *a definir* <br/>
-    - Backend: *a definir* <br/>
-    - UX/UI: *a definir* <br/>
-    - QA: *a definir* <br />
+    - Mentor: <a href="#">João Seabra</a> <br/> 
+    - Agilista: <a href="www.linkedin.com/in/hedpodepaula">Hédpo de Paula</a> <br/> 
+    - Product Manager: <a href="www.linkedin.com/in/manuela-vinhas-87b6959b/">Manuela Vinhas</a> <br/> 
+    - Frontend:  <a href="www.linkedin.com/in/vinicius-cosmo-me/">Vinicius Cosmo</a> e  <a href="#">Biancardi</a> <br/>
+    - Backend:  <a href="www.linkedin.com/in/hugoversiani">Hugo Versiani</a> e <a href="www.linkedin.com/in/joaomesquitadev/">João Pedro</a> e <a href="www.linkedin.com/in/fabiosilvaalves90/">Fábio Silva</a> <br/> 
+    - UX/UI:  <a href="www.linkedin.com/in/rafamsantana/">Rafaela Santana</a> e <a href="#"> Gabriel Matheus</a><br/> 
+    - QA: <a href="www.linkedin.com/in/beatriz-franco-testes">Beatriz Franco</a> <br/> 
 <hr/>
