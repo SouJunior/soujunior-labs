@@ -17,6 +17,8 @@
 -  <a href="#08-animania">Animania</a>
 -  <a href="#09-minnemi">Minnemi</a>
 -  <a href="#10-terapia-em-foco">Terapia em Foco</a>
+-  <a href="#11-comparador-de-preços">Comparador de Preços</a>
+
 
 <hr/>
 
@@ -163,10 +165,16 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 <hr/>
 
 ## 10. Terapia em Foco
-**Responsável**: <a href="https://www.linkedin.com/in/haline-dias">Haline Dias</a>  
 **Descrição do projeto**:A proposta é permitir unir pessoas que procuram terapia online a psicólogos que precisam preencher seus horários de atendimento. Além de permitir esse contato, o app deve ter uma permissão para o usuário acompanhar seus medicamentos (em caso de uso) e registrar seus pensamentos do dia (diário das emoções). Já o psicólogo deve ter acesso a um cadastro de pacientes e seus relatórios de atendimentos (privado).  
 **Equipe**:  
     - Responsável: <a target="_blank" href="https://www.linkedin.com/in/haline-dias">Haline Dias</a>  
     - Product Manager: <a target="_blank" href="https://www.linkedin.com/in/haline-dias">Haline Dias</a>  
+<hr/>
+
+## 11. Comparador de Preços
+**Descrição do projeto**: Desenvolver um aplicativo que pegue preços de hipermercados e os compare, retornando ao usuário o melhor local de compra e demais informações relevantes.  
+**Equipe**:  
+    - Responsável: <a target="_blank" href="https://br.linkedin.com/in/matheus-santos-1910101a0">Matheus Santos</a>  
+    - QA: <a target="_blank" href="https://br.linkedin.com/in/matheus-santos-1910101a0">Matheus Santos</a>  
 <hr/>
 
