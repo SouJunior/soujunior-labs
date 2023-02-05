@@ -18,7 +18,7 @@
 -  <a href="#09-minnemi">Minnemi</a>
 -  <a href="#10-terapia-em-foco">Terapia em Foco</a>
 -  <a href="#11-comparador-de-preços">Comparador de Preços</a>
--  <a href="#12-anota-ai">AnotaAí</a>
+-  <a href="#12-anota-aí">Anota Aí</a>
 
 
 <hr/>
@@ -179,7 +179,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
     - QA: <a target="_blank" href="https://br.linkedin.com/in/matheus-santos-1910101a0">Matheus Santos</a>  
 <hr/>
 
-## 12. AnotaAí
+## 12. Anota Aí
 **Descrição do projeto**: Uma plataforma para anotações, focada no estudo. Sendo possível registrar a fonte dos estudos, tipo de conteúdo, progresso, notas importantes, etc.
 Servindo de portal para que o usuário, através da plataforma, pudesse se organizar e se engajar mais em seus estudos.  
 **Equipe**:  
