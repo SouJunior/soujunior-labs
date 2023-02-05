@@ -8,7 +8,7 @@
 
 ## Lista de Projetos Ativos
 -  <a href="#01-wizer">Wizer</a>
--  <a href="#02-Video4Me">Video4Me</a>
+-  <a href="#02-video4me">Video4Me</a>
 -  <a href="#03-site-projetos-ativos">Projetos Ativos</a>
 -  <a href="#04-pet-journal">Pet Journal</a>
 -  <a href="#05-controle-de-corrida">Controle de Corrida</a>
@@ -16,6 +16,7 @@
 -  <a href="#07-cartão-fidelidade-digital">Cartão Fidelidade Digital</a>
 -  <a href="#08-animania">Animania</a>
 -  <a href="#09-minnemi">Minnemi</a>
+-  <a href="#10-terapia-em-foco">Terapia em Foco</a>
 
 <hr/>
 
@@ -151,7 +152,7 @@ Por exemplo, você escreve um e-mail com seus planos para os proximos 12 meses. 
 
 A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada para diversos fins, como por exemplo professores com alunos no inicio do ano ano letivo, para receberem ao final. Ou psicólogos com seus pacientes. Enfim, qualquer pessoa que queira registrar algo que se gostaria de ler no futuro. <br/>
 **Equipe**: <br/>
-    -Responsável: <a target="_blank" href="https://www.linkedin.com/in/hugoversiani">Hugo Versiani</a> <br/>
+    - Responsável: <a target="_blank" href="https://www.linkedin.com/in/hugoversiani">Hugo Versiani</a> <br/>
     - Mentor: <a href="#">João Seabra</a> <br/> 
     - Agilista: <a  target="_blank" href="https://www.linkedin.com/in/hedpodepaula">Hédpo de Paula</a> <br/> 
     - Product Manager: <a target="_blank"  href="https://www.linkedin.com/in/manuela-vinhas-87b6959b/">Manuela Vinhas</a> <br/> 
@@ -160,3 +161,12 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
     - UX/UI:  <a  target="_blank" href="https://www.linkedin.com/in/rafamsantana/">Rafaela Santana</a> e <a href="#"> Gabriel Matheus</a><br/> 
     - QA: <a target="_blank"  href="https://www.linkedin.com/in/beatriz-franco-testes">Beatriz Franco</a> <br/> 
 <hr/>
+
+## 10. Terapia em Foco
+**Responsável**: <a href="https://www.linkedin.com/in/haline-dias">Haline Dias</a>  
+**Descrição do projeto**:A proposta é permitir unir pessoas que procuram terapia online a psicólogos que precisam preencher seus horários de atendimento. Além de permitir esse contato, o app deve ter uma permissão para o usuário acompanhar seus medicamentos (em caso de uso) e registrar seus pensamentos do dia (diário das emoções). Já o psicólogo deve ter acesso a um cadastro de pacientes e seus relatórios de atendimentos (privado).  
+**Equipe**:  
+    - Responsável: <a target="_blank" href="https://www.linkedin.com/in/haline-dias">Haline Dias</a>  
+    - Product Manager: <a target="_blank" href="https://www.linkedin.com/in/haline-dias">Haline Dias</a>  
+<hr/>
+
