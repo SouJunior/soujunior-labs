@@ -90,7 +90,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - Mentores: <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a> *(Mentor Front-end)* | <a href="https://www.linkedin.com/in/paru369/">Paulo Pinheiro</a> *(Mentor Quality Assurance)*  
     - Agil: <a href="https://www.linkedin.com/in/hedpodepaula/">Hédpo Silva De Paula</a>    
     - Product Manager: <a href="https://www.linkedin.com/in/guilhermeganhito/">Guilherme Ganhito</a>    
-    - UX: <a href="https://www.linkedin.com/in/faelux/">Rafael Claudino</a> | <a href="https://linkedin.com/in/douglaspereira4">Nicholas Pinheiro</a> | <a href="https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/"> | <a href="https://www.linkedin.com/in/wiliandev/">Wilian Nascimento da Silva</a>
+    - UX: <a href="https://www.linkedin.com/in/faelux/">Rafael Claudino</a> | <a href="https://linkedin.com/in/douglaspereira4">Douglas Pereira</a> | <a href="www.linkedin.com/in/nicholas-pinheiro-32b3a4247">Nicholas Pinheiro</a> | <a href="https://www.linkedin.com/in/wiliandev/">Wilian Nascimento da Silva</a>    
     - QA: <a href="https://www.linkedin.com/in/julissytocachelo/">Julissy Tocachelo</a>   
     - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a> | <a href="https://www.linkedin.com/in/danielmatuoka">Daniel Matuoka Kobayashi</a> | <a href="https://www.linkedin.com/in/vinicius-grandi/">Vinícius Grandi</a>  
     - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a> | <a href="https://www.linkedin.com/in/myllenametzker/">Myllena M.</a> | <a href="https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/ ">Fernanda Lima Kagami</a>   
