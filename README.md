@@ -32,7 +32,7 @@
     - Backend: <a href="https://www.linkedin.com/in/simeone-johnson/">Simeone Johnson</a> | <a href="https://www.linkedin.com/in/jessica-santana-developer/">Jessica Santana</a> | <a href="https://www.linkedin.com/in/pedrohteles/">Pedro Teles</a> <br>
     - UX/ UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a> |  <a href="https://www.linkedin.com/in/vinioliveirasilva/">Vinicius Oliveira </a>   <br>
     - Product Manager: <a href="https://www.linkedin.com/in/victoria-oiticica/">Victória Oiticica</a> <br>
-    - Agilista: <a href="">em aberto</a>  <br>
+    - Agilista: <a href="https://www.linkedin.com/in/odilo-junior/">Odilo Junior</a>  <br>
     - Mentor: <a href="https://www.linkedin.com/in/joao-m-seabra/">João Seabra</a> <br>
     - QA:  <a href="https://www.linkedin.com/in/karoline-ibrodrigues/">Karoline Rodrigues</a> <br>
   
