@@ -210,5 +210,5 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 **Descrição do projeto**: A aplicação Routinely é uma ferramenta projetada para ajudar as pessoas a manter uma rotina saudável e equilibrada. Ela permite ao usuário criar uma conta e registrar suas atividades diárias, incluindo trabalho, exercícios, hobbies e tarefas domésticas. A aplicação usa algoritmos para equilibrar essas atividades ao longo do tempo, garantindo que o usuário tenha tempo suficiente para cada atividade importante. Além disso, a Routinely oferece recursos de lembrete para manter o usuário na rotina e relatórios de progresso para motivação adicional.  
 **Equipe**:  
 - Responsável: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>
-- Stakeholder: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>
+- Frontend: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>
 <hr/>
