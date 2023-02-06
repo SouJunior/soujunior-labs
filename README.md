@@ -21,6 +21,7 @@
 -  <a href="#12-anota-aí">Anota Aí</a>
 -  <a href="#13-neuro-kids">Neuro Kids</a>
 -  <a href="#14-connect-tattoo">Connect Tattoo</a>
+-  <a href="#15-jobjr">JobJR</a>
 
 <hr/>
 
@@ -203,4 +204,12 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
+<hr/>
+
+## 15. JobJR
+**Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas.  
+**Equipe**:  
+    - Responsável: <a href="https://www.linkedin.com/in/felipe-morais-javarez">Felipe Morais Javarez </a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/felipe-morais-javarez">Felipe Morais Javarez </a>  
+    - Agilista: <a href="https://www.linkedin.com/in/felipe-morais-javarez">Felipe Morais Javarez </a>  
 <hr/>
