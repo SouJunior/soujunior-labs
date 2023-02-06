@@ -20,7 +20,7 @@
 -  <a href="#11-comparador-de-preços">Comparador de Preços</a>
 -  <a href="#12-anota-aí">Anota Aí</a>
 -  <a href="#13-neuro-kids">Neuro Kids</a>
--  <a href="#14-connect-tattoo">Neuro Kids</a>
+-  <a href="#14-connect-tattoo">Connect Tattoo</a>
 
 <hr/>
 
