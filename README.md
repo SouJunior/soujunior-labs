@@ -20,7 +20,7 @@
 -  <a href="#11-comparador-de-preços">Comparador de Preços</a>
 -  <a href="#12-anota-aí">Anota Aí</a>
 -  <a href="#13-neuro-kids">Neuro Kids</a>
-
+-  <a href="#14-connect-tattoo">Neuro Kids</a>
 
 <hr/>
 
@@ -194,4 +194,12 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
     - Responsável: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
     - Product Manager: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
+<hr/>
+
+## 14. Connect Tattoo
+**Descrição do projeto**: Tatuadores e apaixonados por Tattoo conectados!
+O Connect Tattoo será um hub para localizar um tatuador através de filtros como Cidade, gênero ou linha de trabalho (old school, pontilhismo, minimalismo, etc. Desta forma, o cliente terá acesso a diversos profissionais, fotos dos seus trabalhos e avaliações para fazer a melhor escolha.  
+**Equipe**:  
+    - Responsável: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
 <hr/>
