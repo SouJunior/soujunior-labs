@@ -21,7 +21,7 @@
 -  <a href="#12-anota-aí">Anota Aí</a>
 -  <a href="#13-neuro-kids">Neuro Kids</a>
 -  <a href="#14-connect-tattoo">Connect Tattoo</a>
--  <a href="#14-routinely">Routinely</a>
+-  <a href="#15-routinely">Routinely</a>
 
 <hr/>
 
@@ -208,7 +208,7 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 
 ## 15. Routinely
 **Descrição do projeto**: A aplicação Routinely é uma ferramenta projetada para ajudar as pessoas a manter uma rotina saudável e equilibrada. Ela permite ao usuário criar uma conta e registrar suas atividades diárias, incluindo trabalho, exercícios, hobbies e tarefas domésticas. A aplicação usa algoritmos para equilibrar essas atividades ao longo do tempo, garantindo que o usuário tenha tempo suficiente para cada atividade importante. Além disso, a Routinely oferece recursos de lembrete para manter o usuário na rotina e relatórios de progresso para motivação adicional.
-**Equipe**:
+**Equipe**:  
 - Responsável: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>
 - Stakeholder: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>
 <hr/>
