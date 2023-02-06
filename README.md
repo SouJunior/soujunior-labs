@@ -22,6 +22,7 @@
 -  <a href="#13-neuro-kids">Neuro Kids</a>
 -  <a href="#14-connect-tattoo">Connect Tattoo</a>
 -  <a href="#15-jobjr">JobJR</a>
+-  <a href="#16-routinely">Routinely</a>
 
 <hr/>
 
@@ -207,9 +208,17 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 <hr/>
 
 ## 15. JobJR
-**Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas.  
+**Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas. 
 **Equipe**:  
-    - Responsável: <a href="https://www.linkedin.com/in/felipe-morais-javarez">Felipe Morais Javarez </a>  
-    - Stakeholder: <a href="https://www.linkedin.com/in/felipe-morais-javarez">Felipe Morais Javarez </a>  
-    - Agilista: <a href="https://www.linkedin.com/in/felipe-morais-javarez">Felipe Morais Javarez </a>  
+    - Responsável: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>
+    - Stakeholder: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>
+    - Agilista: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>
+<hr/>
+
+## 16. Routinely
+**Descrição do projeto**: A aplicação Routinely é uma ferramenta projetada para ajudar as pessoas a manter uma rotina saudável e equilibrada. Ela permite ao usuário criar uma conta e registrar suas atividades diárias, incluindo trabalho, exercícios, hobbies e tarefas domésticas. A aplicação usa algoritmos para equilibrar essas atividades ao longo do tempo, garantindo que o usuário tenha tempo suficiente para cada atividade importante. Além disso, a Routinely oferece recursos de lembrete para manter o usuário na rotina e relatórios de progresso para motivação adicional.  
+**Equipe**:  
+    - Responsável: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>  
+    - Frontend: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>  
 <hr/>
