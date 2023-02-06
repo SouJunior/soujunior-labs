@@ -19,6 +19,7 @@
 -  <a href="#10-terapia-em-foco">Terapia em Foco</a>
 -  <a href="#11-comparador-de-preços">Comparador de Preços</a>
 -  <a href="#12-anota-aí">Anota Aí</a>
+-  <a href="#13-neuro-kids">Neuro Kids</a>
 
 
 <hr/>
@@ -43,7 +44,7 @@
 **Repositório**:  <a href="https://github.com/Video4Me">Video4Me</a> <br> 
 **Equipe**:  
     - Stakeholder: <a href="https://www.linkedin.com/in/wouerner/">Wouerner Brandão</a>  <br>
-    - APM: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  <br>
+    - Product Manager: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  <br>
     - Head de Produtos: <a href="https://www.linkedin.com/in/vanessa-patricia/">Vanêssa Santana</a> <br>
     - Tech Lead: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a> <br>
     - Frontend: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a> | <a href="https://www.linkedin.com/in/heloiza-mendes-785708214">Heloiza Mendes</a> | <a href="https://www.linkedin.com/in/leonardo-martins-developer/">Leonardo Martins</a> <br/>
@@ -185,4 +186,12 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
 **Equipe**:  
     - Responsável: <a target="_blank" href="https://br.linkedin.com/in/devaguiar">Max Aguiar</a>  
     - Back-end: <a target="_blank" href="https://br.linkedin.com/in/devaguiar">Max Aguiar</a>  
+<hr/>
+
+## 13. Neuro Kids
+**Descrição do projeto**: Aplicativo (com potencial para desktop) para crianças na primeira infância (Até 6 anos. O que não implica excluir crianças até os 11 anos), para ajudar no desenvolvimento neuro cognitivo de forma complementar a agenda de atividades (escola, terapia, psicoterapia, etc.). A ideia é que a plataforma seja bem interativa com músicas, histórias e atividades. O "Neuro Kids" pode ser um parceiro dos pais nos momentos de ociosidade e ansiedade dessas crianças. É um estímulo extra ao que eles já são submetidos para ajudar no desenvolvimento.  
+**Equipe**:  
+    - Responsável: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
+    - Product Manager: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
 <hr/>
