@@ -23,6 +23,7 @@
 -  <a href="#14-connect-tattoo">Connect Tattoo</a>
 -  <a href="#15-jobjr">JobJR</a>
 -  <a href="#16-routinely">Routinely</a>
+-  <a href="#17-social-crm">Social CRM</a>
 
 <hr/>
 
@@ -98,7 +99,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - Mentores: <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a> *(Mentor Front-end)* | <a href="https://www.linkedin.com/in/paru369/">Paulo Pinheiro</a> *(Mentor Quality Assurance)*  
     - Agil: <a href="https://www.linkedin.com/in/hedpodepaula/">Hédpo Silva De Paula</a>    
     - Product Manager: <a href="https://www.linkedin.com/in/guilhermeganhito/">Guilherme Ganhito</a>    
-    - UX: <a href="https://www.linkedin.com/in/faelux/">Rafael Claudino</a> | <a href="https://linkedin.com/in/douglaspereira4">Douglas Pereira</a> | <a href="www.linkedin.com/in/nicholas-pinheiro-32b3a4247">Nicholas Pinheiro</a> | <a href="https://www.linkedin.com/in/wiliandev/">Wilian Nascimento da Silva</a>    
+    - UX: <a href="https://www.linkedin.com/in/faelux/">Rafael Claudino</a> | <a href="https://linkedin.com/in/douglaspereira4">Douglas Pereira</a> | <a href="https://www.linkedin.com/in/wiliandev/">Wilian Nascimento da Silva</a>    
     - QA: <a href="https://www.linkedin.com/in/julissytocachelo/">Julissy Tocachelo</a>   
     - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a> | <a href="https://www.linkedin.com/in/danielmatuoka">Daniel Matuoka Kobayashi</a> | <a href="https://www.linkedin.com/in/vinicius-grandi/">Vinícius Grandi</a>  
     - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a> | <a href="https://www.linkedin.com/in/myllenametzker/">Myllena M.</a> | <a href="https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/ ">Fernanda Lima Kagami</a>   
@@ -210,9 +211,9 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 ## 15. JobJR
 **Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas. 
 **Equipe**:  
-    - Responsável: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>
-    - Stakeholder: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>
-    - Agilista: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>
+    - Responsável: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>  
+    - Agilista: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>  
 <hr/>
 
 ## 16. Routinely
@@ -223,5 +224,19 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
     - Frontend: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a> | <a href="https://www.linkedin.com/in/luissoaresdeveloper/">Luis Soares</a> </br>
     - QA: <a target="_blank"  href="https://www.linkedin.com/in/milena-r-8b8414127/">Milena Rocha</a> | <a target="_blank"  href="https://www.linkedin.com/in/josi-moraes/">Jose Moraes</a> </br>
     - Backend: <a  target="_blank" href="https://www.linkedin.com/in/ana-elisa-alexandre/">Ana Elisa</a> | <a  target="_blank" href="https://www.linkedin.com/in/vinicius-cosmo-me/">Vinicios Cosmo</a> </br>
+    - Product Manager: <a target="_blank"  href="https://www.linkedin.com/in/nathsm/">Nathália</a>
+    - UI/UX: <a target="_blank"  href="https://www.linkedin.com/in/nicolebuen/">Nicole Bueno</a>
 
+<hr/>
+
+## 17. Social CRM
+**Descrição do projeto**:
+
+Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência. As instituições sociais carecem de um sistema que o acompanhe desde sua abertura até sua ascensão. Como um diferencial no mercado, além de fornecer recursos gratuitos para instituições sociais que o auxiliam do início ao fim, teremos um sistema com uma centralização de dados sociais públicos, dados que são transparentes que podem ser utilizados para análises de dados sociais, territoriais auxiliando todo o terceiro setor nas suas tomadas de decisões e projeção de futuras ações sociais. 
+
+**Equipe**:  
+ - Responsável: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
+ - Stakeholder: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
+ - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
+ - Backend: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
 <hr/>
