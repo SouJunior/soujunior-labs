@@ -225,7 +225,7 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
     - QA: <a target="_blank"  href="https://www.linkedin.com/in/milena-r-8b8414127/">Milena Rocha</a> | <a target="_blank"  href="https://www.linkedin.com/in/josi-moraes/">Jose Moraes</a> </br>
     - Backend: <a  target="_blank" href="https://www.linkedin.com/in/ana-elisa-alexandre/">Ana Elisa</a> | <a  target="_blank" href="https://www.linkedin.com/in/vinicius-cosmo-me/">Vinicios Cosmo</a> </br>
     - Product Manager: <a target="_blank"  href="https://www.linkedin.com/in/nathsm/">Nathália</a> </br>
-    - UI/UX: <a target="_blank"  href="https://www.linkedin.com/in/nicolebuen/">Nicole Bueno</a>
+    - Agilista: <a target="_blank"  href="www.linkedin.com/in/anap-maldonado">Ana Paula</a> </br>
 
 <hr/>
 
