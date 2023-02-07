@@ -222,6 +222,6 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
     - Stakeholder: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>  
     - Frontend: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a> | <a href="https://www.linkedin.com/in/luissoaresdeveloper/">Luis Soares</a> </br>
     - QA: <a target="_blank"  href="https://www.linkedin.com/in/milena-r-8b8414127/">Milena Rocha</a> | <a target="_blank"  href="https://www.linkedin.com/in/josi-moraes/">Jose Moraes</a> </br>
-    Backend: <a  target="_blank" href="https://www.linkedin.com/in/ana-elisa-alexandre/">Ana Elisa</a> | <a  target="_blank" href="https://www.linkedin.com/in/vinicius-cosmo-me/">Vinicios Cosmo</a> </br>
+    - Backend: <a  target="_blank" href="https://www.linkedin.com/in/ana-elisa-alexandre/">Ana Elisa</a> | <a  target="_blank" href="https://www.linkedin.com/in/vinicius-cosmo-me/">Vinicios Cosmo</a> </br>
 
 <hr/>
