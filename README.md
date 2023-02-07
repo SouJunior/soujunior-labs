@@ -221,11 +221,11 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a> | <a href="https://www.linkedin.com/in/luissoaresdeveloper/">Luis Soares</a> </br>
-    - QA: <a target="_blank"  href="https://www.linkedin.com/in/milena-r-8b8414127/">Milena Rocha</a> | <a target="_blank"  href="https://www.linkedin.com/in/josi-moraes/">Jose Moraes</a> </br>
-    - Backend: <a  target="_blank" href="https://www.linkedin.com/in/ana-elisa-alexandre/">Ana Elisa</a> | <a  target="_blank" href="https://www.linkedin.com/in/vinicius-cosmo-me/">Vinicios Cosmo</a> </br>
-    - Product Manager: <a target="_blank"  href="https://www.linkedin.com/in/nathsm/">Nathália</a> </br>
-    - Agilista: <a target="_blank"  href="www.linkedin.com/in/anap-maldonado">Ana Paula</a> </br>
+    - Frontend: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a> | <a href="https://www.linkedin.com/in/luissoaresdeveloper/">Luis Soares</a>  
+    - QA: <a target="_blank"  href="https://www.linkedin.com/in/milena-r-8b8414127/">Milena Rocha</a> | <a target="_blank"  href="https://www.linkedin.com/in/josi-moraes/">Jose Moraes</a>  
+    - Backend: <a  target="_blank" href="https://www.linkedin.com/in/ana-elisa-alexandre/">Ana Elisa</a> | <a  target="_blank" href="https://www.linkedin.com/in/vinicius-cosmo-me/">Vinicios Cosmo</a>  
+    - Product Manager: <a target="_blank"  href="https://www.linkedin.com/in/nathsm/">Nathália</a>  
+    - Agilista: <a target="_blank"  href="www.linkedin.com/in/anap-maldonado">Ana Paula</a>
 
 <hr/>
 
