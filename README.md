@@ -23,6 +23,7 @@
 -  <a href="#14-connect-tattoo">Connect Tattoo</a>
 -  <a href="#15-jobjr">JobJR</a>
 -  <a href="#16-routinely">Routinely</a>
+-  <a href="#17-sistema-de-gestão-para-organizações-sociais">Sistema de Gestão para Organizações Sociais</a>
 
 <hr/>
 
@@ -221,4 +222,27 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
     - Responsável: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>  
     - Frontend: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>  
+<hr/>
+
+## 17. Sistema de Gestão para Organizações Sociais
+**Descrição do projeto**:
+
+Um sistema de gestão com módulos focado no terceiro setor, as organizações sociais hoje ainda são muito carentes de recursos financeiros e técnicos para automatizar seus processos de gestão e transparência. 
+
+Existem sistemas no mercado, porém o custo é inviável para uma instituição social que se encontra em um processo inicial. O mercado carece de um sistema que acompanhe a instituição desde sua abertura até sua ascensão. 
+
+Como um diferencial no mercado, além de fornecer recursos gratuitos para instituições sociais que o auxiliam do início ao fim, teremos um sistema com uma centralização de dados sociais públicos, dados que são transparentes que podem ser utilizados para análises de dados sociais, territoriais auxiliando todo o terceiro setor nas suas tomadas de decisões e projeção de futuras ações sociais. 
+
+As características são:
+Registro de beneficiários, funcionários, voluntários, doadores, projetos, parceiros, frota...
+
+**Equipe**:  
+ - Responsáveis: 
+      - [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
+      - [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
+ - Stakeholders: 
+      - [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
+      - [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
+ - Backend: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
+ - APM: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
 <hr/>
