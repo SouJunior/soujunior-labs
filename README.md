@@ -240,7 +240,7 @@ Um sistema de gestão focado no terceiro setor, automatizando seus processos de 
 ## 18. Care4You
 **Descrição do projeto**:
 
-O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e profissionais de saúde. Como intermediador, pretendemos agilizar o processo de procura e torná-lo mais fácil tanto para o usuário quanto para o profissional. Focaremos em três tipos de profissionais: nutricionista, psicólogo e educador físico. Atualmente, há uma grande procura por profissionais nesta área, mas poucas maneiras de encontrá-los rapidamente e com segurança. Normalmente, as pessoas só conseguem encontrar profissionais por indicação ou pesquisando no Google. No entanto, com a Care4You, teremos uma maneira mais fácil e segura de encontrar o profissional perfeito para nossas necessidades, sejam elas de saúde mental ou física. Além da conexão entre profissional e usuário, também focaremos em ferramentas para agilizar o trabalho do profissional, como cadastro de exercícios, rotina de alimentação, etc. 
+O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e profissionais de saúde. Como intermediador, pretendemos agilizar o processo de procura e torná-lo mais fácil tanto para o usuário quanto para o profissional. Focaremos em três tipos de profissionais: nutricionista, psicólogo e educador físico. Além da conexão entre profissional e usuário, também focaremos em ferramentas para agilizar o trabalho do profissional, como cadastro de exercícios, rotina de alimentação, etc.
 
 **Equipe**:  
  - Responsável: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
