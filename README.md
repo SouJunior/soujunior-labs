@@ -24,6 +24,7 @@
 -  <a href="#15-jobjr">JobJR</a>
 -  <a href="#16-routinely">Routinely</a>
 -  <a href="#17-social-crm">Social CRM</a>
+-  <a href="#18-care4you">Care4You</a>
 
 <hr/>
 
@@ -237,4 +238,15 @@ Um sistema de gestão focado no terceiro setor, automatizando seus processos de 
  - Stakeholder: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
  - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
  - Backend: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
+<hr/>
+
+## 18. Care4You
+**Descrição do projeto**:
+
+O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e profissionais de saúde. Como intermediador, pretendemos agilizar o processo de procura e torná-lo mais fácil tanto para o usuário quanto para o profissional. Focaremos em três tipos de profissionais: nutricionista, psicólogo e educador físico. Além da conexão entre profissional e usuário, também focaremos em ferramentas para agilizar o trabalho do profissional, como cadastro de exercícios, rotina de alimentação, etc.
+
+**Equipe**:  
+ - Responsável: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
+ - Stakeholder: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
+ - Back End: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
 <hr/>
