@@ -248,5 +248,5 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 **Equipe**:  
  - Responsável: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
  - Stakeholder: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
- - Back End: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
+ - Backend: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
 <hr/>
