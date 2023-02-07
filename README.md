@@ -233,5 +233,5 @@ Um sistema de gestão focado no terceiro setor, automatizando seus processos de 
  - Responsável: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
  - Stakeholder: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
  - Backend: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
- - APM: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
+ - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
 <hr/>
