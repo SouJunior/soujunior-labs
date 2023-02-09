@@ -248,7 +248,8 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
  - Frontend: <a href="https://www.linkedin.com/in/jonathan-lucas-dos-santos">Jonathan</a>  |  <a href="https://www.linkedin.com/in/samuel-silva-de-carvalho/">Samuel</a>
  - Backend: <a href="https://www.linkedin.com/in/gdsrj/">Gabriel Dias</a> 
  - UX/ UI: <a href="https://www.linkedin.com/in/gabrieloliveiraaa/">Gabriel Oliveira</a> | <a href="https://www.linkedin.com/in/marcelo-sousa-7a844b254">Marcelo Sousa</a>
- - Product Manager: <a href="https://www.linkedin.com/in/catarinavivacqua">Catarina Vivacqua</a>
+ - Mobile: <a href="https://www.linkedin.com/in/thiagorhrt/">Thiago Rodrigues</a> | <a href="https://www.linkedin.com/in/lucasfillypeg/">Lucas Fillype</a> 
+- Product Manager: <a href="https://www.linkedin.com/in/catarinavivacqua">Catarina Vivacqua</a>
  - Agilista: <a href="https://www.linkedin.com/in/juliatnunes">Julia Nunes</a> | <a href="https://www.linkedin.com/in/caiquefonseca/">Caique Fonseca</a>
  - QA: <a href="https://www.linkedin.com/in/patricia-monteiro-carvalho">Patricia Monteiro</a> | <a href="https://www.linkedin.com/in/rebeca-ponciano">Rebeca Ponciano</a>
 <hr/>
