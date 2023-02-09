@@ -109,16 +109,17 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 <hr/>
 
 ## 06. Findy    
+**Repositório**: <a href="https://github.com/Findy-U">Findy</a>  
 **Responsável**: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a>  
 **Descrição do projeto**: Aplicação para conectar candidatos juniores a empresas recrutadoras de forma eficiente e inovadora proporcionando uma transição suave para o mercado de trabalho. Nossa prioridade é desenvolver um produto com propósito, que possa ser usado como uma ferramenta real para auxiliar os candidatos juniores na busca por emprego e as empresas na busca pelos melhores candidatos.   
 **Equipe**:  
-    - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/vitormatiasf">Vitor Matias</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/leandro-bertolose/">Leandro Bertolose</a>  
     - Mentor: <a href="https://www.linkedin.com/in/fellipyferreira">Fellipy Ferreira</a>  
-    - Product Manager: <a href="https://www.linkedin.com/in/guilhermedvicz/">Guilherme D.</a>  
+    - Product Manager: <a href="https://www.linkedin.com/in/guilhermedvicz/">Guilherme Davedovicz</a>  
     - Agilista: <a href="https://www.linkedin.com/in/mari-moraes/">Mari Moraes</a>  
     - UX/UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a> | <a href="#">Pamela</a> | <a href="https://www.linkedin.com/in/hugo-aragaor/">Hugo Aragão</a>     
     - Frontend: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a> | <a href="https://www.linkedin.com/in/mariolucas00/">Mario Lucas</a>  
-    - Backend: <a href="https://www.linkedin.com/in/camila-marchi-b901b2151/">Camila Marchi</a> | <a href="https://www.linkedin.com/in/emerson-moreira/">Emerson Moreira</a>   
+    - Backend: <a href="https://www.linkedin.com/in/emerson-moreira/">Emerson Moreira</a>   
     - Mobile: <a href="https://www.linkedin.com/in/lucaspachecoandrade/">Lucas Andrade</a> | <a href="#">Diogo Moreira</a>   
     - QA: <a href="https://www.linkedin.com/in/la%C3%ADne-andrade-b5538719b/">Laíne Andrade</a> | <a href="https://www.linkedin.com/in/tatianamouracapel/">Tatiana Moura</a>   
 <hr/>
