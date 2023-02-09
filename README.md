@@ -238,12 +238,17 @@ Um sistema de gestão focado no terceiro setor, automatizando seus processos de 
 <hr/>
 
 ## 18. Care4You
-**Descrição do projeto**:
+**Repositório**:  <a href="https://github.com/Care-4U">Care4You</a><br>
 
+**Descrição do projeto**:
 O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e profissionais de saúde. Como intermediador, pretendemos agilizar o processo de procura e torná-lo mais fácil tanto para o usuário quanto para o profissional. Focaremos em três tipos de profissionais: nutricionista, psicólogo e educador físico. Além da conexão entre profissional e usuário, também focaremos em ferramentas para agilizar o trabalho do profissional, como cadastro de exercícios, rotina de alimentação, etc.
 
 **Equipe**:  
  - Responsável: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
- - Stakeholder: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
- - Back End: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
+ - Frontend: <a href="https://www.linkedin.com/in/jonathan-lucas-dos-santos">Jonathan</a>  |  <a href="https://www.linkedin.com/in/samuel-silva-de-carvalho/">Samuel</a>
+ - Backend: <a href="https://www.linkedin.com/in/gdsrj/">Gabriel Dias</a> 
+ - UX/ UI: <a href="https://www.linkedin.com/in/gabrieloliveiraaa/">Gabriel Oliveira</a> | <a href="https://www.linkedin.com/in/marcelo-sousa-7a844b254">Marcelo Sousa</a>
+ - Product Manager: <a href="https://www.linkedin.com/in/catarinavivacqua">Catarina Vivacqua</a>
+ - Agilista: <a href="https://www.linkedin.com/in/juliatnunes">Julia Nunes</a> | <a href="https://www.linkedin.com/in/caiquefonseca/">Caique Fonseca</a>
+ - QA: <a href="https://www.linkedin.com/in/patricia-monteiro-carvalho">Patricia Monteiro</a> | <a href="https://www.linkedin.com/in/rebeca-ponciano">Rebeca Ponciano</a>
 <hr/>
