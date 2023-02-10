@@ -274,12 +274,10 @@ Organizaçãos da Sociedade Civil (OSC)
 </details>
   
 <hr/>
-
-<details>
-  <summary>SITE PRÓPRIO</summary>
-</details>
 <details>
   <summary>API</summary>
+  <li>API institucional: fornecer dados especificos da instituição possibilitando que ela use essas informações em suas proprias mídias de divulgação, sites e redes sociais por exemplo</li>
+  <li>API Público: fornecer ao público dados e insights de transparência de todas as OSC cadastradas.</li>
 </details>
 
 </details>
