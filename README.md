@@ -218,11 +218,11 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
     - Mentor: <a target="_blank" href="https://www.linkedin.com/in/marcosparanhos/">Marcos Paranhos</a>  
     - Stakeholder: <a target="_blank" href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
     - Agilista: <a target="_blank" href="https://www.linkedin.com/in/vanessa-correia-570198147">Vanessa Correia</a>  
-    - APM: <a target="_blank" href="https://www.linkedin.com/in/alessandroos1/">Alessandro</a>  
+    - Product Manager: <a target="_blank" href="https://www.linkedin.com/in/alessandroos1/">Alessandro Oliveira</a>  
     - Frontend: <a target="_blank" href="https://www.linkedin.com/in/matheus-c-4b2aa6213/"> Matheus C.</a> | <a target="_blank" href="https://www.linkedin.com/in/geyzoncosta/">Erikles Costa</a>  
     - Backend: <a target="_blank" href="https://www.linkedin.com/in/dev-mario-cesar/">Mário Cesar</a> | <a target="_blank" href="https://www.linkedin.com/in/natanaelsc/">Natanael Silva</a>  
-    - Mobile: <a target="_blank" href="https://www.linkedin.com/in/leonardo-martins-developer/">Leo Martins</a> | <a target="_blank" href="https://www.linkedin.com/in/eliabecruzsilva/">helyab_$ilva</a> | <a target="_blank" href="https://www.linkedin.com/in/vitor-rafaelk1/">Vitor Rafael </a>  
-    - QA: <a target="_blank" href="http://www.linkedin.com/in/thamirisarruda">Tamy</a>  
+    - Mobile: <a target="_blank" href="https://www.linkedin.com/in/leonardo-martins-developer/">Leo Martins</a> | <a target="_blank" href="https://www.linkedin.com/in/eliabecruzsilva/">Eliabe Silva</a> | <a target="_blank" href="https://www.linkedin.com/in/vitor-rafaelk1/">Vitor Rafael </a>  
+    - QA: <a target="_blank" href="http://www.linkedin.com/in/thamirisarruda">Thamiris Arruda</a>  
     - UX: <a target="_blank" href="https://br.linkedin.com/in/marcell-herrera-4568b925a">Marcell Herrera</a> | <a target="_blank" href="https://www.linkedin.com/in/alanleao/">Alan Leão</a>  
 <hr/>
 
