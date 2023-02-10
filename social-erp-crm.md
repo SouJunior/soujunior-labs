@@ -1,9 +1,18 @@
-## 17. Social CRM
+## 17. Social ERP/CRM
 **Descrição do projeto**:
 <p align="justify">
 Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência. 
 As instituições sociais carecem de um sistema que o acompanhe desde sua abertura até sua ascensão. Como um diferencial no mercado, além de fornecer recursos gratuitos para instituições sociais que o auxiliam do início ao fim, teremos um sistema com uma centralização de dados sociais públicos, dados que são transparentes que podem ser utilizados para análises de dados sociais e territoriais, auxiliando todo o terceiro setor nas suas tomadas de decisões, seus projeção e futuras ações sociais. 
 </p>
+
+**Público Alvo**:
+<p align="justify">
+Organizaçãos da Sociedade Civil (OSC)
+</p>
+
+[Saiba mais](https://www.gov.br/receitafederal.login/pt-br/acesso-a-informacao/acoes-e-programas/cidadania-fiscal/extensao/osc)
+
+<hr/>
 
 <details>
 <summary>RECURSOS</summary>
