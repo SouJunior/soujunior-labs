@@ -202,11 +202,11 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
     - Stakeholder: <a target="_blank" href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
     - Head de Produtos: <a target="_blank" href="https://www.linkedin.com/in/vanessa-patricia/"> Vânessa Santana</a>  
     - Agilista: <a target="_blank" href="https://www.linkedin.com/in/julianobessa/"> Juliano Bessa</a>   
-    - APM: <a target="_blank" href="https://www.linkedin.com/in/amaryllismota/"> Amaryllis Mota</a> e <a target="_blank" href="https://www.linkedin.com/in/eufeoliveira/"> Fê Oliveira</a>  
-    - Desenvolvedor(a) FrontEnd: <a target="_blank" href="https://www.linkedin.com/in/renato-ac-lacerda">Renato Lacerda</a> e <a target="_blank" href="https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/"> Nicholas Pinheiro</a>  
-    - Desenvolvedor(a) BackEnd: <a target="_blank" href="https://www.linkedin.com/in/jricardo10/"> Jefferson Ricardo</a>  
-    - Dev Mobile: <a target="_blank" href="https://www.linkedin.com/in/suelen-cristina-vaz-9527b8229/"> Suelen Cristina</a> e <a target="_blank" href="https://www.linkedin.com/in/paulo-vitor-de-oliveira-fonseca-659aa31bb/"> Paulo Vitor </a>  
-    - Quality Assurance : <a target="_blank" href="https://www.linkedin.com/in/janaina-andrade/"> Janaína Andrade </a> e <a target="_blank" href="https://www.linkedin.com/in/laizaschumaker"> Laiza Schumaker </a>  
+    - Product Manager: <a target="_blank" href="https://www.linkedin.com/in/amaryllismota/"> Amaryllis Mota</a> e <a target="_blank" href="https://www.linkedin.com/in/eufeoliveira/"> Fê Oliveira</a>  
+    - Frontend: <a target="_blank" href="https://www.linkedin.com/in/renato-ac-lacerda">Renato Lacerda</a> e <a target="_blank" href="https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/"> Nicholas Pinheiro</a>  
+    - Backend: <a target="_blank" href="https://www.linkedin.com/in/jricardo10/"> Jefferson Ricardo</a>  
+    - Mobile: <a target="_blank" href="https://www.linkedin.com/in/suelen-cristina-vaz-9527b8229/"> Suelen Cristina</a> e <a target="_blank" href="https://www.linkedin.com/in/paulo-vitor-de-oliveira-fonseca-659aa31bb/"> Paulo Vitor </a>  
+    - QA : <a target="_blank" href="https://www.linkedin.com/in/janaina-andrade/"> Janaína Andrade </a> e <a target="_blank" href="https://www.linkedin.com/in/laizaschumaker"> Laiza Schumaker </a>  
     - UX: <a target="_blank" href="https://www.linkedin.com/in/marcelojos%C3%A9/"> Marcelo José</a>, <a target="_blank" href="https://www.linkedin.com/in/thais-silva-7ab630186/">Thais Medeiros</a> e <a target="_blank" href="https://www.linkedin.com/in/nicolebuen/"> Nicole Bueno</a>  
 <hr/>
 
