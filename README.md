@@ -242,14 +242,23 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 
 ## 17. Social CRM
 **Descrição do projeto**:
+<p align="justify">
+Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência. 
+As instituições sociais carecem de um sistema que o acompanhe desde sua abertura até sua ascensão. Como um diferencial no mercado, além de fornecer recursos gratuitos para instituições sociais que o auxiliam do início ao fim, teremos um sistema com uma centralização de dados sociais públicos, dados que são transparentes que podem ser utilizados para análises de dados sociais e territoriais, auxiliando todo o terceiro setor nas suas tomadas de decisões, seus projeção e futuras ações sociais. 
+</p>
 
-Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência. As instituições sociais carecem de um sistema que o acompanhe desde sua abertura até sua ascensão. Como um diferencial no mercado, além de fornecer recursos gratuitos para instituições sociais que o auxiliam do início ao fim, teremos um sistema com uma centralização de dados sociais públicos, dados que são transparentes que podem ser utilizados para análises de dados sociais, territoriais auxiliando todo o terceiro setor nas suas tomadas de decisões e projeção de futuras ações sociais. 
 
-**Equipe**:  
- - Responsável: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
- - Stakeholder: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
+**Equipe**:
+ - Repositório:  
+ - Mentor: [Fellipy Ferreira]()
+ - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
  - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
- - Backend: [Weverton C. M de Campos](https://www.linkedin.com/in/wevertoncamposdev/)
+ - Agilista: [Amanda Boletti]()
+ - UX: [Jéssika]() | [DiogoCassel]()
+ - FrontEnd: [Bruno Brito](https://www.linkedin.com/in/brunos-brito/) | [Daniel Nogueira]()
+ - Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Betamaxx]()
+ - DevOps: [Daniel Tormin]() | [Lucas Nascimento]()
+ - Data: [Leandro Lopes]() | [Thalis Ruan]() 
 <hr/>
 
 ## 18. Care4You
