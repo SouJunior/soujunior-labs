@@ -288,7 +288,7 @@ Organizaçãos da Sociedade Civil (OSC)
 <summary>EQUIPE</Summary>
 
  - Repositório:  
- - Mentor: [Fellipy Ferreira]()
+ - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)
  - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
  - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
  - Agilista: [Amanda Boletti](https://www.linkedin.com/in/amanda-boletti)
