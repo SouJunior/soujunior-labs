@@ -254,8 +254,9 @@ Organizações da Sociedade Civil (OSC)
 
 [Saiba mais](https://www.gov.br/receitafederal.login/pt-br/acesso-a-informacao/acoes-e-programas/cidadania-fiscal/extensao/osc)
 
+<details>
+<summary>EQUIPE</Summary>
 
-**Equipe**:
  - Repositório:  
  - Mentor: [Fellipy Ferreira]()
  - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
@@ -266,6 +267,9 @@ Organizações da Sociedade Civil (OSC)
  - Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Betamaxx](https://www.linkedin.com/in/evel-ortega-74a390224/)
  - DevOps: [Daniel Tormin](https://www.linkedin.com/in/daniel-tormin-2a91b2173) | [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/)
  - Data: [Leandro Lopes](https://www.linkedin.com/in/leandrolopes86/) | [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) 
+
+</details>
+
 <hr/>
 
 ## 18. Care4You
