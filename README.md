@@ -240,7 +240,7 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 <hr/>
 
 
-## 17. Social ERP/CRM
+## 17. Social CRM
 **Descrição do projeto**:
 <p align="justify">
 Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência. 
