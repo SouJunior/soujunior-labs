@@ -247,15 +247,7 @@ Um sistema de gestão focado no terceiro setor, automatizando seus processos de 
 As instituições sociais carecem de um sistema de gestão que o acompanhe desde sua abertura até sua ascensão. Como um diferencial no mercado, além de fornecer recursos gratuitos para instituições sociais que o auxiliam do início ao fim, teremos um sistema com uma centralização de dados sociais públicos, dados que são transparentes que podem ser utilizados para análises de dados sociais e territoriais, auxiliando todo o terceiro setor nas suas tomadas de decisões, suas projeções e futuras ações sociais. 
 </p>
 
-**Público Alvo**:
-<p align="justify">
-Organizações da Sociedade Civil (OSC)
-</p>
-
-[Saiba mais](https://www.gov.br/receitafederal.login/pt-br/acesso-a-informacao/acoes-e-programas/cidadania-fiscal/extensao/osc)
-
-<details>
-<summary>EQUIPE</Summary>
+**Equipe**
 
  - Repositório:  
  - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)
@@ -268,7 +260,7 @@ Organizações da Sociedade Civil (OSC)
  - DevOps: [Daniel Tormin](https://www.linkedin.com/in/daniel-tormin-2a91b2173) | [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/)
  - Data: [Leandro Lopes](https://www.linkedin.com/in/leandrolopes86/) | [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) 
 
-</details>
+
 
 <hr/>
 
