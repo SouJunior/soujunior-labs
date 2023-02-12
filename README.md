@@ -44,15 +44,16 @@
 <hr/>
 
 ## 02. Video4Me  
+**Responsável**: <a href="https://www.linkedin.com/in/daviuezono/">Davi Kooji</a>  <br>
 **Descrição do projeto**: Vamos criar uma plataforma que organiza vídeos por tag e categorias, criando assim um acervo de vídeos de fácil localização. <br>
 **Repositório**:  <a href="https://github.com/Video4Me">Video4Me</a> <br> 
 **Equipe**:  
     - Stakeholder: <a href="https://www.linkedin.com/in/wouerner/">Wouerner Brandão</a>  <br>
-    - Product Manager: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  <br>
+    - Product Manager: <a href="https://www.linkedin.com/in/daviuezono/">Davi Kooji</a>  <br>
     - Head de Produtos: <a href="https://www.linkedin.com/in/vanessa-patricia/">Vanêssa Santana</a> <br>
     - Tech Lead: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a> <br>
     - Frontend: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a> | <a href="https://www.linkedin.com/in/heloiza-mendes-785708214">Heloiza Mendes</a> | <a href="https://www.linkedin.com/in/leonardo-martins-developer/">Leonardo Martins</a> <br/>
-    - Backend: <a href="https://www.linkedin.com/in/anic4cio/">Vinicius Anicácio</a> | <a href="https://www.linkedin.com/in/laisecvr/">Laíse Carvalho</a> | <a href="https://www.linkedin.com/in/savio-nascimento-gomes/">Savio nascimento</a> <br>
+    - Backend: <a href="https://www.linkedin.com/in/anic4cio/">Vinicius Anicácio</a> | <a href="https://www.linkedin.com/in/laisecvr/">Laíse Carvalho</a> <br>
     - UX/ UI: <a href="https://www.linkedin.com/in/marcosparanhos/">Marcos Paranhos</a> | <a href="https://www.linkedin.com/in/jadylay-santos/">Jadylay Sousa</a> <br>
     - QA: <a href="https://www.linkedin.com/in/janaina-andrade/">Janaína Andrade</a>
  
