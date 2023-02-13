@@ -59,8 +59,8 @@
  
  <hr/>
 
-    
  ## 03. Site Projetos Ativos
+**Repositório**: <a href="https://github.com/site-projetos-ativos-sou-junior">Site Projetos Ativos</a>  
 **Responsável**: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/)  
 **Descrição do projeto**: Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade <a href="https://www.soujunior.tech/">Sou Júnior</a>. Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
 **Equipe**:  
