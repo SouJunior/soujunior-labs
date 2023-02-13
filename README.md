@@ -44,22 +44,23 @@
 <hr/>
 
 ## 02. Video4Me  
+**Responsável**: <a href="https://www.linkedin.com/in/daviuezono/">Davi Kooji</a>  <br>
 **Descrição do projeto**: Vamos criar uma plataforma que organiza vídeos por tag e categorias, criando assim um acervo de vídeos de fácil localização. <br>
 **Repositório**:  <a href="https://github.com/Video4Me">Video4Me</a> <br> 
 **Equipe**:  
     - Stakeholder: <a href="https://www.linkedin.com/in/wouerner/">Wouerner Brandão</a>  <br>
-    - Product Manager: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  <br>
+    - Product Manager: <a href="https://www.linkedin.com/in/daviuezono/">Davi Kooji</a>  <br>
     - Head de Produtos: <a href="https://www.linkedin.com/in/vanessa-patricia/">Vanêssa Santana</a> <br>
     - Tech Lead: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a> <br>
     - Frontend: <a href="https://www.linkedin.com/in/aleclima-/">Alec Lima</a> | <a href="https://www.linkedin.com/in/heloiza-mendes-785708214">Heloiza Mendes</a> | <a href="https://www.linkedin.com/in/leonardo-martins-developer/">Leonardo Martins</a> <br/>
-    - Backend: <a href="https://www.linkedin.com/in/anic4cio/">Vinicius Anicácio</a> | <a href="https://www.linkedin.com/in/laisecvr/">Laíse Carvalho</a> | <a href="https://www.linkedin.com/in/savio-nascimento-gomes/">Savio nascimento</a> <br>
+    - Backend: <a href="https://www.linkedin.com/in/anic4cio/">Vinicius Anicácio</a> | <a href="https://www.linkedin.com/in/laisecvr/">Laíse Carvalho</a> |  <a href="https://www.linkedin.com/in/douglas-aguiar-alc/">Douglas Aguiar</a> <br>
     - UX/ UI: <a href="https://www.linkedin.com/in/marcosparanhos/">Marcos Paranhos</a> | <a href="https://www.linkedin.com/in/jadylay-santos/">Jadylay Sousa</a> <br>
     - QA: <a href="https://www.linkedin.com/in/janaina-andrade/">Janaína Andrade</a>
  
  <hr/>
 
-    
  ## 03. Site Projetos Ativos
+**Repositório**: <a href="https://github.com/site-projetos-ativos-sou-junior">Site Projetos Ativos</a>  
 **Responsável**: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/)  
 **Descrição do projeto**: Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade <a href="https://www.soujunior.tech/">Sou Júnior</a>. Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
 **Equipe**:  
@@ -214,8 +215,16 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
 **Descrição do projeto**: Tatuadores e apaixonados por Tattoo conectados!
 O Connect Tattoo será um hub para localizar um tatuador através de filtros como Cidade, gênero ou linha de trabalho (old school, pontilhismo, minimalismo, etc. Desta forma, o cliente terá acesso a diversos profissionais, fotos dos seus trabalhos e avaliações para fazer a melhor escolha.  
 **Equipe**:  
-    - Responsável: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
-    - Stakeholder: <a href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
+    - Responsável: <a target="_blank" href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
+    - Mentor: <a target="_blank" href="https://www.linkedin.com/in/marcosparanhos/">Marcos Paranhos</a>  
+    - Stakeholder: <a target="_blank" href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
+    - Agilista: <a target="_blank" href="https://www.linkedin.com/in/vanessa-correia-570198147">Vanessa Correia</a>  
+    - Product Manager: <a target="_blank" href="https://www.linkedin.com/in/alessandroos1/">Alessandro Oliveira</a>  
+    - Frontend: <a target="_blank" href="https://www.linkedin.com/in/matheus-c-4b2aa6213/"> Matheus C.</a> | <a target="_blank" href="https://www.linkedin.com/in/geyzoncosta/">Erikles Costa</a>  
+    - Backend: <a target="_blank" href="https://www.linkedin.com/in/dev-mario-cesar/">Mário Cesar</a> | <a target="_blank" href="https://www.linkedin.com/in/natanaelsc/">Natanael Silva</a>  
+    - Mobile: <a target="_blank" href="https://www.linkedin.com/in/leonardo-martins-developer/">Leo Martins</a> | <a target="_blank" href="https://www.linkedin.com/in/eliabecruzsilva/">Eliabe Silva</a> | <a target="_blank" href="https://www.linkedin.com/in/vitor-rafaelk1/">Vitor Rafael </a>  
+    - QA: <a target="_blank" href="http://www.linkedin.com/in/thamirisarruda">Thamiris Arruda</a>  
+    - UX: <a target="_blank" href="https://br.linkedin.com/in/marcell-herrera-4568b925a">Marcell Herrera</a> | <a target="_blank" href="https://www.linkedin.com/in/alanleao/">Alan Leão</a>  
 <hr/>
 
 ## 15. JobJR
@@ -232,7 +241,7 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
     - Responsável: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a>  
     - Frontend: <a href="https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/">Tharlles Kawã</a> | <a href="https://www.linkedin.com/in/luissoaresdeveloper/">Luis Soares</a>  
-    - Beckend: <a href="https://www.linkedin.com/in/ana-elisa-alexandre/">Ana Elisa</a> | <a href="https://www.linkedin.com/in/vinicius-cosmo-me/">Vinicius Cosmo</a>  
+    - Backend: <a href="https://www.linkedin.com/in/ana-elisa-alexandre/">Ana Elisa</a> | <a href="https://www.linkedin.com/in/vinicius-cosmo-me/">Vinicius Cosmo</a>  
     - Product Manager: <a href="https://www.linkedin.com/in/nathsm/">Nathália</a>  
     - QA: <a href="https://www.linkedin.com/in/milena-r-8b8414127/">Milena Rocha</a> | <a href="https://www.linkedin.com/in/josi-moraes/">Josi Moraes</a>  
     - Mobile: <a href="https://www.linkedin.com/in/andremoraesfilho/">Andre</a> | <a href="https://www.linkedin.com/in/jean-hartmann-50143465/">Jean</a>  
