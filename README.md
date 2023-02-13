@@ -234,11 +234,15 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 <hr/>
 
 ## 15. JobJR
-**Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas. 
+**Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas.  
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>  
     - Agilista: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>  
+    - Frontend: <a href="https://www.linkedin.com/in/pedrohrs/">Pedro Rodrigues</a>  
+    - Backend: <a href=" https://www.linkedin.com/in/lucianodasilvamartins">Luciano da Silva</a>  
+    - UX: <a href="https://www.linkedin.com/in/gabriela-santos-31ab111b2/">Gabriela Santos</a>  
+    - Product Manager: <a href="https://www.linkedin.com/in/juliacardozo/">Júlia Cardoso</a>  
 <hr/>
 
 ## 16. Routinely
