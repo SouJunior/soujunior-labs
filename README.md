@@ -253,7 +253,7 @@ As instituições sociais carecem de um sistema de gestão que o acompanhe desde
  - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)
  - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
  - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
- - Agilista: [Amanda Boletti](https://www.linkedin.com/in/amanda-boletti)
+ - Agilista: [Rodrigo Melão](https://www.linkedin.com/in/rodrigo-mel%C3%A3o-75506951/)
  - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
  - FrontEnd: [Bruno Brito](https://www.linkedin.com/in/brunos-brito/) | [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/)
  - Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Betamaxx](https://www.linkedin.com/in/evel-ortega-74a390224/)
