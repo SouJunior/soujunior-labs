@@ -294,7 +294,7 @@ Organizaçãos da Sociedade Civil (OSC)
  - Agilista: [Rodrigo Melão](https://www.linkedin.com/in/rodrigo-mel%C3%A3o-75506951/)
  - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
  - FrontEnd: [Bruno Brito](https://www.linkedin.com/in/brunos-brito/) | [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/)
- - Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Betamaxx](https://www.linkedin.com/in/evel-ortega-74a390224/)
+ - Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/)
  - DevOps: [Daniel Tormin](https://www.linkedin.com/in/daniel-tormin-2a91b2173) | [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/)
  - Data: [Leandro Lopes](https://www.linkedin.com/in/leandrolopes86/) | [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) 
 
