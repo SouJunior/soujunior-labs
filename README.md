@@ -218,7 +218,7 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
 <hr/>
 
 ## 14. Connect Tattoo
-**Repositório**: <a href="https://github.com/connectattoo">ConnecTattoo</a>
+**Repositório**: <a href="https://github.com/connectattoo">ConnecTattoo</a>  
 **Descrição do projeto**: Tatuadores e apaixonados por Tattoo conectados!
 O Connect Tattoo será um hub para localizar um tatuador através de filtros como Cidade, gênero ou linha de trabalho (old school, pontilhismo, minimalismo, etc. Desta forma, o cliente terá acesso a diversos profissionais, fotos dos seus trabalhos e avaliações para fazer a melhor escolha.  
 **Equipe**:  
