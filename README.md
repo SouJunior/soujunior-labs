@@ -218,11 +218,11 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
 <hr/>
 
 ## 14. Connect Tattoo
-**Repositório**: <a href="https://github.com/connectattoo">ConnecTattoo</a>  
+**Repositório**: <a href="https://github.com/connectattoo">ConnecTattoo</a>   
+**Responsável**: <a target="_blank" href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>   
 **Descrição do projeto**: Tatuadores e apaixonados por Tattoo conectados!
 O Connect Tattoo será um hub para localizar um tatuador através de filtros como Cidade, gênero ou linha de trabalho (old school, pontilhismo, minimalismo, etc. Desta forma, o cliente terá acesso a diversos profissionais, fotos dos seus trabalhos e avaliações para fazer a melhor escolha.  
-**Equipe**:  
-    - Responsável: <a target="_blank" href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
+**Equipe**:   
     - Mentor: <a target="_blank" href="https://www.linkedin.com/in/marcosparanhos/">Marcos Paranhos</a>  
     - Stakeholder: <a target="_blank" href="https://www.linkedin.com/in/amaryllismota">Amaryllis Mota</a>  
     - Agilista: <a target="_blank" href="https://www.linkedin.com/in/vanessa-correia-570198147">Vanessa Correia</a>  
