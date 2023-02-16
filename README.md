@@ -195,8 +195,9 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
     - Mentor: A definir   
     - Agilista: [Tatiana Rosa](https://www.linkedin.com/in/tatiana-rosa-cuimar)  
     - Product Manager: [Guilherme Pierre](https://www.linkedin.com/in/guilhermepierre/)  
-    - Quality Assurance: [Danielle Oliveira](https://www.linkedin.com/in/danielle-oliveira-96a6a5131/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)  
+    - Quality Assurance: [Danielle Oliveira](https://www.linkedin.com/in/danielle-oliveira-96a6a5131/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)   
     - UI/UX: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5) | [Thais]()  
+    - Front-End: [Jeverson Mozer](https://www.linkedin.com/in/jeversonmozer/) | [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)  
     - Back-end: [Max Aguiar](https://br.linkedin.com/in/devaguiar) | [Johab Vinicius](https://www.linkedin.com/in/johab-vinicius/)  
     - Mobile: [Rafael Arantes](https://www.linkedin.com/in/rafael-arantes-06a6325b/) | [Thiago Sousa](https://www.linkedin.com/in/thiagosousa-js/)
 <hr/>
