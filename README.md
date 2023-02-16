@@ -26,6 +26,7 @@
 -  <a href="#17-social-crm">Social CRM</a>
 -  <a href="#18-care4you">Care4You</a>
 -  <a href="#19-semente-embrião">Semente Embrião</a>
+-  <a href="#20-bora-rachar">Bora Rachar</a>
 
 <hr/>
 
@@ -310,3 +311,12 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
     - Product Manager: <a href="">Renata Machado</a>  
    
 <hr/>
+
+## 20. Bora Rachar
+**Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.
+**Equipe**:  
+    - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
+   
+<hr/>
+
