@@ -28,6 +28,7 @@
 -  <a href="#19-semente-embrião">Semente Embrião</a>
 -  <a href="#20-bora-rachar">Bora Rachar</a>
 -  <a href="#21-foxclass">FoxClass</a>
+-  <a href="#22-owlrange-notes">Owlrange Notes</a>
 
 <hr/>
 
@@ -328,3 +329,13 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 **Descrição do projeto**: Criar uma plataforma EAD para uma comunidade fechada em que os membros poderão aprender sobre diversos temas.
 A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<br>
 **Equipe**: 
+
+<hr/>
+
+## 22. Owlrange Notes
+**Descrição do projeto**: Aplicação para acompanhamento de estudos em diferentes plataformas.
+**Equipe**:  
+    - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
+   
+<hr/>
