@@ -333,7 +333,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 <hr/>
 
 ## 22. Owlrange Notes
-**Descrição do projeto**: Aplicação para acompanhamento de estudos em diferentes plataformas.
+**Descrição do projeto**: Aplicação para acompanhamento de estudos em diferentes plataformas.  
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
