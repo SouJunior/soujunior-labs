@@ -337,5 +337,5 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
-   
+    - UX: <a href="https://www.linkedin.com/in/raquelalribeiro">Raquel Ribeiro</a>  
 <hr/>
