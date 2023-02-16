@@ -260,7 +260,7 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 
 
 ## 17. Social CRM
-**Respositório:** https://github.com/SocialCRM 
+**Respositório:** [Social CRM](https://github.com/SocialCRM) 
 
 **Descrição do projeto**:
 <p align="justify">
