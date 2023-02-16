@@ -27,6 +27,7 @@
 -  <a href="#18-care4you">Care4You</a>
 -  <a href="#19-semente-embrião">Semente Embrião</a>
 -  <a href="#20-bora-rachar">Bora Rachar</a>
+-  <a href="#21-foxclass">FoxClass</a>
 
 <hr/>
 
@@ -320,3 +321,10 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
    
 <hr/>
 
+
+## 21. FoxClass
+**Repositório**:  pendente <br>
+**Responsável**: <a href="https://www.linkedin.com/in/jsalgues/">João Miguel Salgues</a>  <br>
+**Descrição do projeto**: Criar uma plataforma EAD para uma comunidade fechada em que os membros poderão aprender sobre diversos temas.
+A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<br>
+**Equipe**: 
