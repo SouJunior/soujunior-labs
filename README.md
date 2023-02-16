@@ -25,6 +25,8 @@
 -  <a href="#16-routinely">Routinely</a>
 -  <a href="#17-social-crm">Social CRM</a>
 -  <a href="#18-care4you">Care4You</a>
+-  <a href="#19-semente-embrião">Semente Embrião</a>
+-  <a href="#20-bora-rachar">Bora Rachar</a>
 
 <hr/>
 
@@ -195,8 +197,9 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
     - Mentor: A definir   
     - Agilista: [Tatiana Rosa](https://www.linkedin.com/in/tatiana-rosa-cuimar)  
     - Product Manager: [Guilherme Pierre](https://www.linkedin.com/in/guilhermepierre/)  
-    - Quality Assurance: [Danielle Oliveira](https://www.linkedin.com/in/danielle-oliveira-96a6a5131/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)  
+    - Quality Assurance: [Danielle Oliveira](https://www.linkedin.com/in/danielle-oliveira-96a6a5131/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)   
     - UI/UX: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5) | [Thais]()  
+    - Front-End: [Jeverson Mozer](https://www.linkedin.com/in/jeversonmozer/) | [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)  
     - Back-end: [Max Aguiar](https://br.linkedin.com/in/devaguiar) | [Johab Vinicius](https://www.linkedin.com/in/johab-vinicius/)  
     - Mobile: [Rafael Arantes](https://www.linkedin.com/in/rafael-arantes-06a6325b/) | [Thiago Sousa](https://www.linkedin.com/in/thiagosousa-js/)
 <hr/>
@@ -299,3 +302,21 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
  - Agilista: <a href="https://www.linkedin.com/in/juliatnunes">Julia Nunes</a> | <a href="https://www.linkedin.com/in/caiquefonseca/">Caique Fonseca</a>
  - QA: <a href="https://www.linkedin.com/in/patricia-monteiro-carvalho">Patricia Monteiro</a> | <a href="https://www.linkedin.com/in/rebeca-ponciano">Rebeca Ponciano</a>
 <hr/>
+
+## 19. Semente Embrião
+**Descrição do projeto**: Aplicativo e web para o gerenciamento das plantas da sua horta, desde a preparação do solo, adubação (Orgânica ou química), germinação, transplante, poda e dicas de venda. Se controlar todas essas variáveis de uma espécie é complicado, você imagine de N espécies diferentes.  
+**Equipe**:  
+    - Responsável: <a href="">Renata Machado</a>  
+    - Stakeholder: <a href="">Renata Machado</a>  
+    - Product Manager: <a href="">Renata Machado</a>  
+   
+<hr/>
+
+## 20. Bora Rachar
+**Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.
+**Equipe**:  
+    - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
+   
+<hr/>
+
