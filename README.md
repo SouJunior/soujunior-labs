@@ -191,8 +191,14 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 **Descrição do projeto**: Uma plataforma para anotações, focada no estudo. Sendo possível registrar a fonte dos estudos, tipo de conteúdo, progresso, notas importantes, etc.
 Servindo de portal para que o usuário, através da plataforma, pudesse se organizar e se engajar mais em seus estudos.  
 **Equipe**:  
-    - Responsável: <a target="_blank" href="https://br.linkedin.com/in/devaguiar">Max Aguiar</a>  
-    - Back-end: <a target="_blank" href="https://br.linkedin.com/in/devaguiar">Max Aguiar</a>  
+    - Responsável: [Max Aguiar](https://br.linkedin.com/in/devaguiar)  
+    - Mentor: A definir   
+    - Agilista: [Tatiana Rosa](https://www.linkedin.com/in/tatiana-rosa-cuimar)  
+    - Product Manager: [Guilherme Pierre](https://www.linkedin.com/in/guilhermepierre/)  
+    - Quality Assurance: [Danielle Oliveira](https://www.linkedin.com/in/danielle-oliveira-96a6a5131/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)  
+    - UI/UX: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5) | [Thais]()  
+    - Back-end: [Max Aguiar](https://br.linkedin.com/in/devaguiar) | [Johab Vinicius](https://www.linkedin.com/in/johab-vinicius/)  
+    - Mobile: [Rafael Arantes](https://www.linkedin.com/in/rafael-arantes-06a6325b/) | [Thiago Sousa](https://www.linkedin.com/in/thiagosousa-js/)
 <hr/>
 
 ## 13. Neuro Kids
@@ -228,11 +234,15 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 <hr/>
 
 ## 15. JobJR
-**Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas. 
+**Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas.  
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>  
     - Agilista: <a href="https://www.linkedin.com/in/felipe-morais-javarez/">Felipe Morais Javarez</a>  
+    - Frontend: <a href="https://www.linkedin.com/in/pedrohrs/">Pedro Rodrigues</a>  
+    - Backend: <a href=" https://www.linkedin.com/in/lucianodasilvamartins">Luciano da Silva</a>  
+    - UX: <a href="https://www.linkedin.com/in/gabriela-santos-31ab111b2/">Gabriela Santos</a>  
+    - Product Manager: <a href="https://www.linkedin.com/in/juliacardozo/">Júlia Cardoso</a>  
 <hr/>
 
 ## 16. Routinely
