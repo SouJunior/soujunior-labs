@@ -25,6 +25,7 @@
 -  <a href="#16-routinely">Routinely</a>
 -  <a href="#17-social-crm">Social CRM</a>
 -  <a href="#18-care4you">Care4You</a>
+-  <a href="#19-semente-embrião">Semente Embrião</a>
 
 <hr/>
 
@@ -299,4 +300,13 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
  - Product Manager: <a href="https://www.linkedin.com/in/catarinavivacqua">Catarina Vivacqua</a>
  - Agilista: <a href="https://www.linkedin.com/in/juliatnunes">Julia Nunes</a> | <a href="https://www.linkedin.com/in/caiquefonseca/">Caique Fonseca</a>
  - QA: <a href="https://www.linkedin.com/in/patricia-monteiro-carvalho">Patricia Monteiro</a> | <a href="https://www.linkedin.com/in/rebeca-ponciano">Rebeca Ponciano</a>
+<hr/>
+
+## 19. Semente Embrião
+**Descrição do projeto**: Aplicativo e web para o gerenciamento das plantas da sua horta, desde a preparação do solo, adubação (Orgânica ou química), germinação, transplante, poda e dicas de venda. Se controlar todas essas variáveis de uma espécie é complicado, você imagine de N espécies diferentes.  
+**Equipe**:  
+    - Responsável: <a href="">Renata Machado</a>  
+    - Stakeholder: <a href="">Renata Machado</a>  
+    - Product Manager: <a href="">Renata Machado</a>  
+   
 <hr/>
