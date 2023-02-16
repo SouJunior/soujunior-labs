@@ -250,15 +250,15 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 
 
 ## 17. Social CRM
+**Respositório:** https://github.com/SocialCRM 
+
 **Descrição do projeto**:
 <p align="justify">
 Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência. 
 As instituições sociais carecem de um sistema de gestão que o acompanhe desde sua abertura até sua ascensão. Como um diferencial no mercado, além de fornecer recursos gratuitos para instituições sociais que o auxiliam do início ao fim, teremos um sistema com uma centralização de dados sociais públicos, dados que são transparentes que podem ser utilizados para análises de dados sociais e territoriais, auxiliando todo o terceiro setor nas suas tomadas de decisões, suas projeções e futuras ações sociais. 
 </p>
 
-**Equipe**
-
- - Repositório:  
+**Equipe** 
  - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)
  - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
  - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
