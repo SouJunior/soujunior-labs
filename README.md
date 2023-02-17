@@ -160,21 +160,22 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 <hr/>
 
 ## 09. Minnemi
+**Repositório**: <a href="https://github.com/orgs/Minnemi/repositories">Minnemi</a>
 **Responsável**: <a href="https://www.linkedin.com/in/hugoversiani">Hugo Versiani</a> <br/>
-**Descrição do projeto**: Uma plataforma web onde pessoas pudessem enviar "cartas" (que na verdade seriam e-mails) para si mesmas, porém definindo uma data especifica para receber-las no futuro, como se fosse uma "capsula do tempo". 
+**Descrição do projeto**: Uma plataforma web onde pessoas pudem enviar "cartas" (que na verdade são e-mails) para si mesmas, porém definindo uma data especifica para receber-las no futuro, como se fosse uma "capsula do tempo". 
 
 Por exemplo, você escreve um e-mail com seus planos para os proximos 12 meses. Apos definir o texto da sua "carta", você definiria a data que deseja receber o e-mail. Decorrido o tempo (nesse exemplo 12 meses), você recebe o e-mail que enviou um ano atrás.
 
 A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada para diversos fins, como por exemplo professores com alunos no inicio do ano ano letivo, para receberem ao final. Ou psicólogos com seus pacientes. Enfim, qualquer pessoa que queira registrar algo que se gostaria de ler no futuro. <br/>
 **Equipe**: <br/>
-    - Responsável: <a target="_blank" href="https://www.linkedin.com/in/hugoversiani">Hugo Versiani</a> <br/>
     - Mentor: <a href="#">João Seabra</a> <br/> 
     - Agilista: <a  target="_blank" href="https://www.linkedin.com/in/hedpodepaula">Hédpo de Paula</a> <br/> 
     - Product Manager: <a target="_blank"  href="https://www.linkedin.com/in/manuela-vinhas-87b6959b/">Manuela Vinhas</a> <br/> 
     - Frontend:  <a target="_blank"  href="https://www.linkedin.com/in/vinicius-cosmo-me/">Vinicius Cosmo</a> e  <a href="#">Biancardi</a> <br/>
     - Backend:  <a  target="_blank" href="www.linkedin.com/in/hugoversiani">Hugo Versiani</a> e <a target="_blank"  href="https://www.linkedin.com/in/joaomesquitadev/">João Pedro</a> e <a  target="_blank" href="https://www.linkedin.com/in/fabiosilvaalves90/">Fábio Silva</a> <br/> 
-    - UX/UI:  <a  target="_blank" href="https://www.linkedin.com/in/rafamsantana/">Rafaela Santana</a> e <a href="#"> Gabriel Matheus</a><br/> 
-    - QA: <a target="_blank"  href="https://www.linkedin.com/in/beatriz-franco-testes">Beatriz Franco</a> <br/> 
+    - UX/UI:  <a  target="_blank" href="https://www.linkedin.com/in/rafamsantana/">Rafaela Santana</a>, <a href="#"> Gabriel Matheus</a> e <a href="#"> André.</a><br/> 
+    - QA: <a target="_blank"  href="https://www.linkedin.com/in/beatriz-franco-testes">Beatriz Franco</a> <br/>
+    - DevOps: <a href="#"> Hugo </a> e <a href="https://www.linkedin.com/in/joaofmds"> Joao Souza </a>.
 <hr/>
 
 ## 10. Terapia em Foco
