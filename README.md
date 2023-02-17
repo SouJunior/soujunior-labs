@@ -25,6 +25,10 @@
 -  <a href="#16-routinely">Routinely</a>
 -  <a href="#17-social-crm">Social CRM</a>
 -  <a href="#18-care4you">Care4You</a>
+-  <a href="#19-semente-embrião">Semente Embrião</a>
+-  <a href="#20-bora-rachar">Bora Rachar</a>
+-  <a href="#21-foxclass">FoxClass</a>
+-  <a href="#22-owlrange-notes">Owlrange Notes</a>
 
 <hr/>
 
@@ -195,8 +199,9 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
     - Mentor: A definir   
     - Agilista: [Tatiana Rosa](https://www.linkedin.com/in/tatiana-rosa-cuimar)  
     - Product Manager: [Guilherme Pierre](https://www.linkedin.com/in/guilhermepierre/)  
-    - Quality Assurance: [Danielle Oliveira](https://www.linkedin.com/in/danielle-oliveira-96a6a5131/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)  
+    - Quality Assurance: [Danielle Oliveira](https://www.linkedin.com/in/danielle-oliveira-96a6a5131/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)   
     - UI/UX: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5) | [Thais]()  
+    - Front-End: [Jeverson Mozer](https://www.linkedin.com/in/jeversonmozer/) | [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)  
     - Back-end: [Max Aguiar](https://br.linkedin.com/in/devaguiar) | [Johab Vinicius](https://www.linkedin.com/in/johab-vinicius/)  
     - Mobile: [Rafael Arantes](https://www.linkedin.com/in/rafael-arantes-06a6325b/) | [Thiago Sousa](https://www.linkedin.com/in/thiagosousa-js/)
 <hr/>
@@ -261,26 +266,24 @@ O Connect Tattoo será um hub para localizar um tatuador através de filtros com
 
 
 ## 17. Social CRM
+**Respositório:** [Social CRM](https://github.com/SocialCRM) 
+
 **Descrição do projeto**:
 <p align="justify">
 Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência. 
 As instituições sociais carecem de um sistema de gestão que o acompanhe desde sua abertura até sua ascensão. Como um diferencial no mercado, além de fornecer recursos gratuitos para instituições sociais que o auxiliam do início ao fim, teremos um sistema com uma centralização de dados sociais públicos, dados que são transparentes que podem ser utilizados para análises de dados sociais e territoriais, auxiliando todo o terceiro setor nas suas tomadas de decisões, suas projeções e futuras ações sociais. 
 </p>
 
-**Equipe**
-
- - Repositório:  
+**Equipe** 
  - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)
  - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
  - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
- - Agilista: [Amanda Boletti](https://www.linkedin.com/in/amanda-boletti)
- - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
- - FrontEnd: [Bruno Brito](https://www.linkedin.com/in/brunos-brito/) | [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/)
- - Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Betamaxx](https://www.linkedin.com/in/evel-ortega-74a390224/)
+ - Agilista: [Rodrigo Melão](https://www.linkedin.com/in/rodrigo-mel%C3%A3o-75506951/)
  - DevOps: [Daniel Tormin](https://www.linkedin.com/in/daniel-tormin-2a91b2173) | [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/)
  - Data: [Leandro Lopes](https://www.linkedin.com/in/leandrolopes86/) | [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) 
-
-
+ - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
+ - FrontEnd: [Bruno Brito](https://www.linkedin.com/in/brunos-brito/) | [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/)
+ - Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/)
 
 <hr/>
 
@@ -299,4 +302,41 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
  - Product Manager: <a href="https://www.linkedin.com/in/catarinavivacqua">Catarina Vivacqua</a>
  - Agilista: <a href="https://www.linkedin.com/in/juliatnunes">Julia Nunes</a> | <a href="https://www.linkedin.com/in/caiquefonseca/">Caique Fonseca</a>
  - QA: <a href="https://www.linkedin.com/in/patricia-monteiro-carvalho">Patricia Monteiro</a> | <a href="https://www.linkedin.com/in/rebeca-ponciano">Rebeca Ponciano</a>
+<hr/>
+
+## 19. Semente Embrião
+**Descrição do projeto**: Aplicativo e web para o gerenciamento das plantas da sua horta, desde a preparação do solo, adubação (Orgânica ou química), germinação, transplante, poda e dicas de venda. Se controlar todas essas variáveis de uma espécie é complicado, você imagine de N espécies diferentes.  
+**Equipe**:  
+    - Responsável: <a href="">Renata Machado</a>  
+    - Stakeholder: <a href="">Renata Machado</a>  
+    - Product Manager: <a href="">Renata Machado</a>  
+   
+<hr/>
+
+## 20. Bora Rachar
+**Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.
+**Equipe**:  
+    - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
+   
+<hr/>
+
+
+## 21. FoxClass
+**Repositório**:  pendente <br>
+**Responsável**: <a href="https://www.linkedin.com/in/jsalgues/">João Miguel Salgues</a>  <br>
+**Descrição do projeto**: Criar uma plataforma EAD para uma comunidade fechada em que os membros poderão aprender sobre diversos temas.
+A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<br>
+**Equipe**: 
+
+<hr/>
+
+## 22. Owlrange Notes
+**Descrição do projeto**: Aplicação para acompanhamento de estudos em diferentes plataformas.  
+**Repositório**: <a href="https://github.com/orgs/owlrangenotes/repositories">Owlrange Notes</a><br>
+**Equipe**:  
+    - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
+    - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
+    - UX: <a href="https://www.linkedin.com/in/raquelalribeiro">Raquel Ribeiro</a>
+    
 <hr/>
