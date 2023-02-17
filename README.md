@@ -30,6 +30,8 @@
 -  <a href="#21-foxclass">FoxClass</a>
 -  <a href="#22-owlrange-notes">Owlrange Notes</a>
 -  <a href="#23-spotistas">Spotistas</a>
+-  <a href="#24-techrate">TechRate</a>
+
 
 <hr/>
 
@@ -351,3 +353,12 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
     
 <hr/>
 
+
+## 24. TechRate
+**Descrição do projeto**: Plataforma para avaliação de empresas na área tech. Visando passar informações sobre stacks utilizadas, principais áreas de atuação, cultura da empresa, plano de carreira e informações relevantes para possíveis candidatos, com avaliações de funcionários.    
+**Repositório**: <a href="https://github.com">Pendente</a>  
+**Equipe**:  
+    - Responsável: <a href="">Luiz Bello</a>  
+    - Stakeholder: <a href="">Luiz Bello</a>  
+    
+<hr/>
