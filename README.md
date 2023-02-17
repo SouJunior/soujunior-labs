@@ -160,7 +160,7 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 <hr/>
 
 ## 09. Minnemi
-**Repositório**: <a href="https://github.com/orgs/Minnemi/repositories">Minnemi</a>
+**Repositório**: <a href="https://github.com/orgs/Minnemi/repositories">Minnemi</a> <br/>
 **Responsável**: <a href="https://www.linkedin.com/in/hugoversiani">Hugo Versiani</a> <br/>
 **Descrição do projeto**: Uma plataforma web onde pessoas pudem enviar "cartas" (que na verdade são e-mails) para si mesmas, porém definindo uma data especifica para receber-las no futuro, como se fosse uma "capsula do tempo". 
 
