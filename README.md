@@ -217,8 +217,8 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
     - UX: <a target="_blank" href="https://www.linkedin.com/in/marcelojos%C3%A9/"> Marcelo José</a>, <a target="_blank" href="https://www.linkedin.com/in/thais-silva-7ab630186/">Thais Medeiros</a> e <a target="_blank" href="https://www.linkedin.com/in/nicolebuen/"> Nicole Bueno</a>  
 <hr/>
 
-## 14. Connect Tattoo
-**Repositório**: <a href="https://github.com/connectattoo">ConnecTattoo</a>  
+## 14. Connectattoo
+**Repositório**: <a href="https://github.com/connectattoo">Connectattoo</a>  
 **Descrição do projeto**: Tatuadores e apaixonados por Tattoo conectados!
 O Connect Tattoo será um hub para localizar um tatuador através de filtros como Cidade, gênero ou linha de trabalho (old school, pontilhismo, minimalismo, etc. Desta forma, o cliente terá acesso a diversos profissionais, fotos dos seus trabalhos e avaliações para fazer a melhor escolha.  
 **Equipe**:  
