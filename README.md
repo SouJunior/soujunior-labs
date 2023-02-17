@@ -121,11 +121,10 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - Stakeholder: <a href="https://www.linkedin.com/in/leandro-bertolose/">Leandro Bertolose</a>  
     - Mentor: <a href="https://www.linkedin.com/in/fellipyferreira">Fellipy Ferreira</a>  
     - Product Manager: <a href="https://www.linkedin.com/in/guilhermedvicz/">Guilherme Davedovicz</a>  
-    - Agilista: <a href="https://www.linkedin.com/in/mari-moraes/">Mari Moraes</a>  
-    - UX/UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a> | <a href="#">Pamela</a> | <a href="https://www.linkedin.com/in/hugo-aragaor/">Hugo Aragão</a>     
+    - Agilista: <a href="#">a definir</a>  
+    - UX/UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a> | <a href="#">Pamela</a> | <a href="https://www.linkedin.com/in/debora-fonseca/">Débora Fonseca</a>     
     - Frontend: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a> | <a href="https://www.linkedin.com/in/mariolucas00/">Mario Lucas</a>  
-    - Backend: <a href="https://www.linkedin.com/in/emerson-moreira/">Emerson Moreira</a>   
-    - Mobile: <a href="https://www.linkedin.com/in/lucaspachecoandrade/">Lucas Andrade</a> | <a href="#">Diogo Moreira</a>   
+    - Backend: <a href="https://www.linkedin.com/in/emerson-moreira/">Emerson Moreira</a> | <a href="#">Wilson Moura</a> | <a href="#">Fernando D'luccas</a>   
     - QA: <a href="https://www.linkedin.com/in/la%C3%ADne-andrade-b5538719b/">Laíne Andrade</a> | <a href="https://www.linkedin.com/in/tatianamouracapel/">Tatiana Moura</a>   
 <hr/>
 
