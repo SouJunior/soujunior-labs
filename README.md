@@ -340,6 +340,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
     - UX: <a href="https://www.linkedin.com/in/raquelalribeiro">Raquel Ribeiro</a>
     
 <hr/>
+
 ## 23. Spotistas
 **Descrição do projeto**: Desenvolver uma plataforma que mostra dados e estatísticas de músicas que o usuário do spofity ouve, tais como Top 10 musicas mais ouvidas, artistas mais ouvidos, etc.    
 **Repositório**: <a href="https://github.com">Pendente</a>  
