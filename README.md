@@ -334,7 +334,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 
 ## 22. Studyn'ON
 **Descrição do projeto**: Aplicação para acompanhamento de estudos em diferentes plataformas.  
-**Repositório**: <a href="https://github.com/orgs/StudynON/repositories">Studyn'ON</a>  
+**Repositório**: <a href="https://github.com/orgs/StudynON/repositories">Organização Studyn'ON</a>  
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
