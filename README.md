@@ -316,7 +316,8 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 <hr/>
 
 ## 20. Bora Rachar
-**Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.
+**Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.  
+**Repositório**: <a href="https://github.com/orgs/BoraRachar/repositories">Organização BoraRachar</a> 
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
@@ -326,7 +327,7 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 
 ## 21. FoxClass
 **Repositório**:  pendente <br>
-**Responsável**: <a href="https://www.linkedin.com/in/jsalgues/">João Miguel Salgues</a>  <br>
+**Responsável**: <a href="https://www.linkedin.com/in/jsalgues/">João Miguel Salgues</a>  
 **Descrição do projeto**: Criar uma plataforma EAD para uma comunidade fechada em que os membros poderão aprender sobre diversos temas.
 A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<br>
 **Equipe**: 
