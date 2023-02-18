@@ -151,9 +151,9 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 
 ## 08. Animania
 **Repositório**: <a href="https://github.com/AnimaniaTeam">Organização Animania Team</a>   
-**Responsável**: <a href="https://www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
 **Descrição do projeto**: Aplicativo para listagem e organização de animes, contendo como principal funcionalidade o calendário de lançamentos da temporada, listagem de acompanhamento do usuário com o progresso e controle de episódios e temporadas assistidas, listagem completa de temporadas anteriores separadas por gênero. <br/>
 **Equipe**: <br/>
+    - Responsável: <a href="https://www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
     - Agilista: <a href="https://www.linkedin.com/in/product-owner-sidnei-almeida/">Sidnei Almeida</a> <br/>
     - Product Manager: <a href="https://www.linkedin.com/in/akira-shimazu-2577b2192/">Akira Shimazu</a> <br/>
     - Frontend: <a href="https://www.linkedin.com/in/darlan-bomfim-903582260/">Darlan Bomfim</a> | <a href="https://www.linkedin.com/in/mauricio-bruno-da-silva/">Maurício Bruno</a> <br/>
