@@ -150,15 +150,16 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 <hr/>
 
 ## 08. Animania
-**Responsável**: <a href="www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
-**Descrição do projeto**: Um aplicativo para acompanhamento e organização centralizada de animes, contendo como principal funcionalidade uma lista de acompanhamento dos animes com os episódios e temporadas já assistidas, calendário de lançamento de animes que o usuário deseja assistir, lista de todos os lançamentos anteriores divido por gênero (shounen, ...), e feed de notícias para os usuários compartilharem informações relevantes para a comunidade. <br/>
+**Repositório**: <a href="https://github.com/AnimaniaTeam">Organização Animania Team</a>   
+**Responsável**: <a href="https://www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
+**Descrição do projeto**: Aplicativo para listagem e organização de animes, contendo como principal funcionalidade o calendário de lançamentos da temporada, listagem de acompanhamento do usuário com o progresso e controle de episódios e temporadas assistidas, listagem completa de temporadas anteriores separadas por gênero. <br/>
 **Equipe**: <br/>
     - Agilista: <a href="https://www.linkedin.com/in/product-owner-sidnei-almeida/">Sidnei Almeida</a> <br/>
     - Product Manager: <a href="https://www.linkedin.com/in/akira-shimazu-2577b2192/">Akira Shimazu</a> <br/>
-    - Frontend: <a href="#">Darlan Bomfim</a> | <a href="https://www.linkedin.com/in/mauricio-bruno-da-silva/">Maurício Bruno</a> <br/>
-    - Mobile: <a href="www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
-    - Backend:  <a href="#">Mateus</a> <br/>
-    - UX/UI: <a href="#">Pedro Henrique</a> <br/>
+    - Frontend: <a href="https://www.linkedin.com/in/darlan-bomfim-903582260/">Darlan Bomfim</a> | <a href="https://www.linkedin.com/in/mauricio-bruno-da-silva/">Maurício Bruno</a> <br/>
+    - Mobile: <a href="https://www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> | <a href="https://www.linkedin.com/in/bumaruf/">Otávio Bumaruf</a> <br/>
+    - Backend:  <a href="https://www.linkedin.com/in/matteus-santos-backend/">Mateus</a> <br/>
+    - UX/UI: <a href="https://www.linkedin.com/in/pedro-henrique-martins-75618720b/">Pedro Henrique</a> <br/>
 <hr/>
 
 ## 09. Minnemi
