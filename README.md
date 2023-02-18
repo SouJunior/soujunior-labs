@@ -361,5 +361,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
     - Responsável: <a href="">Luiz Bello</a>  
     - Stakeholder: <a href="">Luiz Bello</a>  
     - QA : <a href='https://www.linkedin.com/in/j%C3%BAlia-ferreira-38a881b9/'>Julia Ferreira</a>
+    - Frontend: <a href='https://www.linkedin.com/in/rilton-bispo-460069198/'>Rildo Bispo</a>
+    - Mentor Frontend: <a href='https://www.linkedin.com/in/ricardo-pereira-lima/'>Ricardo Lima</a>
     
 <hr/>
