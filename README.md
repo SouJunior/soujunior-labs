@@ -317,7 +317,7 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 
 ## 20. Bora Rachar
 **Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.  
-**Repositório**: <a href="https://github.com/orgs/BoraRachar/repositories">Organização BoraRachar</a> 
+**Repositório**: <a href="https://github.com/orgs/BoraRachar/repositories">Organização BoraRachar</a>  
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
