@@ -28,7 +28,7 @@
 -  <a href="#19-semente-embrião">Semente Embrião</a>
 -  <a href="#20-bora-rachar">Bora Rachar</a>
 -  <a href="#21-foxclass">FoxClass</a>
--  <a href="#22-owlrange-notes">Owlrange Notes</a>
+-  <a href="#22-studynon">Studyn'ON</a>
 -  <a href="#23-spotistas">Spotistas</a>
 -  <a href="#24-techrate">TechRate</a>
 
@@ -333,9 +333,9 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 
 <hr/>
 
-## 22. Owlrange Notes
+## 22. Studyn'ON
 **Descrição do projeto**: Aplicação para acompanhamento de estudos em diferentes plataformas.  
-**Repositório**: <a href="https://github.com/orgs/owlrangenotes/repositories">Owlrange Notes</a><br>
+**Repositório**: <a href="https://github.com/orgs/StudynON/repositories">Studyn'ON</a>  
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
