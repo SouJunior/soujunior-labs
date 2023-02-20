@@ -359,8 +359,8 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 **Repositório**: <a href="https://github.com">Pendente</a>  
 **Equipe**:  
 
- - Responsável: [Luiz Bello]
- - Frontend: <a href="https://www.linkedin.com/in/rilton-bispo-460069198/">Rildo Bispo </a>  |  <a href="">Aberlado</a> | <a href="">Luiz Bello</a>
+ - Responsável: <a href='https://www.linkedin.com/in/luiz-paulo-a98a61238/'>Luiz Bello</a>
+ - Frontend: <a href="https://www.linkedin.com/in/rilton-bispo-460069198/">Rildo Bispo </a>  |  <a href="">Aberlado</a> | <a href="https://www.linkedin.com/in/luiz-paulo-a98a61238/">Luiz Bello</a>
  - Backend: <a href="">Thiago</a> 
  - UX/ UI: <a href="">Alynne Martins</a> 
  - Mentor: <a href="https://www.linkedin.com/in/ricardo-pereira-lima">Ricardo Lima</a>
