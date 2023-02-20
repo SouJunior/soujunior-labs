@@ -31,6 +31,7 @@
 -  <a href="#22-studynon">Studyn'ON</a>
 -  <a href="#23-spotistas">Spotistas</a>
 -  <a href="#24-techrate">TechRate</a>
+-  <a href="#25-Onde-é-o-rolé">Onde é o Rolé</a>
 
 
 <hr/>
@@ -362,4 +363,15 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
     - Responsável: <a href="">Luiz Bello</a>  
     - Stakeholder: <a href="">Luiz Bello</a>  
     
+<hr/>
+
+## 25. Onde é o rolé
+**Descrição do projeto**: Aplicativo que auxilia a pessoa decidir para onde ela irá sair.
+
+**Repositório**: <a href="https://github.com">Pendente</a>
+
+**Equipe**:
+  - Responsável: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>  
+  - Stakeholder: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>
+
 <hr/>
