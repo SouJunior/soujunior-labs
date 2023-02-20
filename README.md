@@ -31,7 +31,7 @@
 -  <a href="#22-studynon">Studyn'ON</a>
 -  <a href="#23-spotistas">Spotistas</a>
 -  <a href="#24-techrate">TechRate</a>
--  <a href="#25-Onde é o rolé">Onde é o Rolé</a>
+-  <a href="#25-Onde-é-o-rolé">Onde é o Rolé</a>
 
 
 <hr/>
