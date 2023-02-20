@@ -373,7 +373,6 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 **Equipe**:
   - Responsável: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>  
   - Stakeholder: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>
-  - 
   - UX: <a href="https://www.linkedin.com/in/let%C3%ADcia-tonon-b2b86514a/">Letícia-tonon</a> 
   - UX:  <a href="https://www.linkedin.com/in/ryan-adelinoux/">Ryan  Adelino </a>
   - REACT NATIVE: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel rodrigues</a>
