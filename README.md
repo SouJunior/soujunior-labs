@@ -31,7 +31,7 @@
 -  <a href="#22-studynon">Studyn'ON</a>
 -  <a href="#23-spotistas">Spotistas</a>
 -  <a href="#24-techrate">TechRate</a>
--  <a href="#24-onde é o rolé">Onde é o Rolé</a>
+-  <a href="#25-Onde é o rolé">Onde é o Rolé</a>
 
 
 <hr/>
@@ -371,7 +371,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 **Repositório**: <a href="https://github.com">Pendente</a>
 
 **Equipe**:
-  - Responsável: <a href="">Gabriel Rodrigues</a>  
-  - Stakeholder: <a href="">Gabriel Rodrigues</a>
+  - Responsável: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>  
+  - Stakeholder: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>
 
 <hr/>
