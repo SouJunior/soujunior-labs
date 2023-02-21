@@ -376,6 +376,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
   - Stakeholder: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>
 <<<<<<< HEAD
   - UX: <a href="https://www.linkedin.com/in/let%C3%ADcia-tonon-b2b86514a/">Letícia-tonon</a> 
+<<<<<<< HEAD
   - UX:  <a href="https://www.linkedin.com/in/ryan-adelinoux/">Ryan  Adelino </a>
   - REACT NATIVE: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel rodrigues</a>
   - DATA: <a href="https://www.linkedin.com/in/rafael-araujo-silva-b298b4224/">Rafael  araujo</a>
@@ -387,6 +388,12 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
   -DATA: <a href="https://www.linkedin.com/in/rafael-araujo-silva-b298b4224/">Rafael  araujo</a>
   -QA: <a href="https://www.linkedin.com/in/beatriz-franco-testes/">Beatriz franco</a>
 >>>>>>> parent of 0aba860 (Update README.md)
+=======
+   <a href="https://www.linkedin.com/in/ryan-adelinoux/">Ryan  Adelino </a>
+  -REACT NATIVE: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel rodrigues</a>
+  -DATA: <a href="https://www.linkedin.com/in/rafael-araujo-silva-b298b4224/">Rafael  araujo</a>
+  -QA: <a href="https://www.linkedin.com/in/beatriz-franco-testes/">Beatriz franco</a>
+>>>>>>> parent of f97b160 (Update README.md)
   
 
 <hr/>
