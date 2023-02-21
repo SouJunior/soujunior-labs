@@ -181,6 +181,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
     - DevOps: <a href="#"> Hugo </a> e <a href="https://www.linkedin.com/in/joaofmds"> Joao Souza </a>.
 <hr/>
 
+
 ## 10. Terapia em Foco
 **Descrição do projeto**:A proposta é permitir unir pessoas que procuram terapia online a psicólogos que precisam preencher seus horários de atendimento. Além de permitir esse contato, o app deve ter uma permissão para o usuário acompanhar seus medicamentos (em caso de uso) e registrar seus pensamentos do dia (diário das emoções). Já o psicólogo deve ter acesso a um cadastro de pacientes e seus relatórios de atendimentos (privado).  
 **Equipe**:  
