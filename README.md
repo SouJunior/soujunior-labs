@@ -132,21 +132,20 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 <hr/>
 
 ## 07. Cartão Fidelidade Digital   
-**Responsável**: <a href="https://www.linkedin.com/in/adrianoangeli/">Adriano Angeli</a>  
 **Descrição do projeto**: O aplicativo (PWA) será um cartão de fidelidade digital, ou seja, várias lojas podem se cadastrar e dar pontos ou criar regras de pontuação para o clientes. Sendo assim, o cliente terá acesso no aplicativo e poderá verificar quais lojas e quantos pontos tem, até mesmo ver a quantidade de pontos que falta para ganhar algum prêmio ou desconto da loja.
 
 Sendo assim, o sistema terá 2 visões, a visão da Loja, Restaurante, Bar e Etc. Nessa visão pode ser cadastrado o cliente, regras de pontuação e aplicar pontuação.
 
 A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuação.   
 **Equipe**:  
-    - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/adrianoangeli/">Adriano Angeli</a>  
-    - Mentores: <a href="https://www.linkedin.com/in/adrianoangeli/">Adriano Angeli</a> *(Mentor do Projeto em Geral)* | <a href="https://www.linkedin.com/in/sabrina-nader/">Sabrina Nader</a> *(Mentora Ágil)*   
-    - Product Manager: <a href="https://www.linkedin.com/in/haline-dias-/">Haline Dias</a> | <a href="https://www.linkedin.com/in/renata-mmachado/">Renata Machado</a>  
-    - Agilista: <a href="https://www.linkedin.com/in/hedpodepaula/">Hédpo Silva De Paula</a>  
-    - QA: <a href="https://www.linkedin.com/in/tatianamouracapel/">Tatiana Moura Capel</a> | <a href="https://www.linkedin.com/in/jana%C3%ADna-andrade-lima-pereira-88b05421b/">Janaína Andrade Lima Pereira</a>  
-    - UX/UI: <a href="https://www.linkedin.com/in/crislanecosta/">Cris Costa</a> | <a href="https://www.linkedin.com/in/leticiaribeirodesign/">Leticia Ribeiro</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/luvoir/">Denise Pereira</a> | <a href="https://www.linkedin.com/in/bianca-leall/">Bianca Leal</a>  
-    - Backend: <a href="https://www.linkedin.com/in/joao-fuzeto/">João Fuzeto</a> | <a href="https://www.linkedin.com/in/moniquecwopereis/">Monique Candido Wopereis</a>
+    - Responsável/Stakeholder: <a href=""></a>  
+    - Mentores: <a href=""></a> | <a href=""></a>   
+    - Product Manager: <a href=""></a> | <a href=""></a>  
+    - Agilista: <a href=""></a>  
+    - QA: <a href=""></a> | <a href=""></a>  
+    - UX/UI: <a href=""></a> | <a href=""></a>  
+    - Frontend: <a href=""></a> | <a href=""></a>  
+    - Backend: <a href=""></a> | <a href=""></a>
 <hr/>
 
 ## 08. Animania
