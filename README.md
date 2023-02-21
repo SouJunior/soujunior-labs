@@ -181,6 +181,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
     - DevOps: <a href="#"> Hugo </a> e <a href="https://www.linkedin.com/in/joaofmds"> Joao Souza </a>.
 <hr/>
 
+
 ## 10. Terapia em Foco
 **Descrição do projeto**:A proposta é permitir unir pessoas que procuram terapia online a psicólogos que precisam preencher seus horários de atendimento. Além de permitir esse contato, o app deve ter uma permissão para o usuário acompanhar seus medicamentos (em caso de uso) e registrar seus pensamentos do dia (diário das emoções). Já o psicólogo deve ter acesso a um cadastro de pacientes e seus relatórios de atendimentos (privado).  
 **Equipe**:  
@@ -373,11 +374,19 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 **Equipe**:
   - Responsável: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>  
   - Stakeholder: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>
+<<<<<<< HEAD
   - UX: <a href="https://www.linkedin.com/in/let%C3%ADcia-tonon-b2b86514a/">Letícia-tonon</a> 
   - UX:  <a href="https://www.linkedin.com/in/ryan-adelinoux/">Ryan  Adelino </a>
   - REACT NATIVE: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel rodrigues</a>
   - DATA: <a href="https://www.linkedin.com/in/rafael-araujo-silva-b298b4224/">Rafael  araujo</a>
   - QA: <a href="https://www.linkedin.com/in/beatriz-franco-testes/">Beatriz franco</a>
+=======
+  - 
+  - UX: <a href="https://www.linkedin.com/in/let%C3%ADcia-tonon-b2b86514a/">Letícia-tonon</a> <a href="https://www.linkedin.com/in/ryan-adelinoux/">Ryan  Adelino </a>
+  -REACT NATIVE: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel rodrigues</a>
+  -DATA: <a href="https://www.linkedin.com/in/rafael-araujo-silva-b298b4224/">Rafael  araujo</a>
+  -QA: <a href="https://www.linkedin.com/in/beatriz-franco-testes/">Beatriz franco</a>
+>>>>>>> parent of 0aba860 (Update README.md)
   
 
 <hr/>
