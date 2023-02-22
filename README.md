@@ -372,5 +372,17 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 **Equipe**:
   - Responsável: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>  
   - Stakeholder: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>
+  - UX: <a href="https://www.linkedin.com/in/let%C3%ADcia-tonon-b2b86514a/">Letícia tonon</a>
+  - UX: <a href="https://www.linkedin.com/in/ryan-adelinoux/">Ryan Adelino </a>
+  - REACT NATIVE: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel rodrigues</a>
+  - REACT NATIVE: <a href="https://www.linkedin.com/in/brener-sousa/">Brener souza</a>
+  - BackEnd: <a href="https://www.linkedin.com/in/luan-colombo89/">Luan colombo</a>
+  - BackEnd: <a href="https://www.linkedin.com/in/joosecj-dev/">José carlos</a>
+  - DATA: <a href="https://www.linkedin.com/in/rafael-araujo-silva-b298b4224/">Rafael araujo</a>
+  - DATA: <a href="https://www.linkedin.com/in/guilimadev/">Guilherme lima</a>
+  - QA: <a href="https://www.linkedin.com/in/beatriz-franco-testes/">Beatriz franco</a>
+  - QA: <a href="https://www.linkedin.com/in/ronaldo-marinho-amaro-de-souza-a70033bb/">Ronaldo Marinho</a>
+  - Agilista: <a href="https://www.linkedin.com/in/vitoriamontesuma/">Vitória montesuma</a>
+  - Agilista: <a href="https://www.linkedin.com/in/julio-cezar-60733b185/">Julio cezar</a>
 
 <hr/>
