@@ -362,7 +362,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
  - Responsável: <a href='https://www.linkedin.com/in/luiz-paulo-a98a61238/'>Luiz Bello</a>
  - Frontend: <a href="https://www.linkedin.com/in/rilton-bispo-460069198/">Rildo Bispo </a>  |  <a href="">Aberlado</a> | <a href="https://www.linkedin.com/in/luiz-paulo-a98a61238/">Luiz Bello</a>
  - Backend: <a href="">Thiago</a> 
- - UX/ UI: <a href="">Alynne Martins</a> 
+ - UX/ UI: <a href="">Alynne Martins</a>  <a href="https://www.linkedin.com/in/marianasouza-dc-developeruxui">Mariana Souza</a>
  - Mentor: <a href="https://www.linkedin.com/in/ricardo-pereira-lima">Ricardo Lima</a>
  - Agilista: <a href="https://www.linkedin.com/in/juliatnunes">Julia Nunes</a>
  - QA: <a href="https://www.linkedin.com/in/j%C3%BAlia-ferreira-38a881b9">Julia Ferreira</a>
