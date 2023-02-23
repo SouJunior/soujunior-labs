@@ -32,6 +32,7 @@
 -  <a href="#23-spotistas">Spotistas</a>
 -  <a href="#24-techrate">TechRate</a>
 -  <a href="#25-Onde-é-o-rolé">Onde é o Rolé</a>
+-  <a href="#26-YOS">YOS</a>
 
 
 <hr/>
@@ -372,5 +373,16 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 **Equipe**:
   - Responsável: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>  
   - Stakeholder: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>
+
+<hr/>
+
+## 26. YOS
+**Descrição do projeto**: O projeto YOS é uma plataforma que conectará vendedores e clientes facilitando o acesso e visualização dos produtos ofertados com maior visualização do estabelecimento e seus produtos de forma remota.
+
+**Repositório**: <a href="https://github.com">Pendente</a>
+
+**Equipe**:
+  - Responsável: <a href="https://www.linkedin.com/in/nicolas-camargo-38059b267/">Nicolas Camargo</a>  
+  - Stakeholder: <a href="https://www.linkedin.com/in/nicolas-camargo-38059b267/">Nicolas Camargo</a>
 
 <hr/>
