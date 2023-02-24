@@ -28,7 +28,11 @@
 -  <a href="#19-semente-embrião">Semente Embrião</a>
 -  <a href="#20-bora-rachar">Bora Rachar</a>
 -  <a href="#21-foxclass">FoxClass</a>
--  <a href="#22-owlrange-notes">Owlrange Notes</a>
+-  <a href="#22-studynon">Studyn'ON</a>
+-  <a href="#23-spotistas">Spotistas</a>
+-  <a href="#24-techrate">TechRate</a>
+-  <a href="#25-Onde-é-o-rolé">Onde é o Rolé</a>
+
 
 <hr/>
 
@@ -76,8 +80,7 @@
 <hr/> 
 
 ## 04. Pet Journal
-**Repositório**: <a href="https://github.com/PetJournal">Organização Pet Journal</a>   
-**Responsável**:  
+**Repositório**: <a href="https://github.com/PetJournal">Organização Pet Journal</a>    
 **Descrição do projeto**: Desenvolvimento de um produto para registro de informações referentes aos nossos pets.
 Registrando informações relevantes como datas de vacinas, datas em que foi aplicado vermífugo com detalhes, histórico de compras de ração, integração com Google Agenda, etc.  
 **Equipe**:  
@@ -121,60 +124,60 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - Stakeholder: <a href="https://www.linkedin.com/in/leandro-bertolose/">Leandro Bertolose</a>  
     - Mentor: <a href="https://www.linkedin.com/in/fellipyferreira">Fellipy Ferreira</a>  
     - Product Manager: <a href="https://www.linkedin.com/in/guilhermedvicz/">Guilherme Davedovicz</a>  
-    - Agilista: <a href="https://www.linkedin.com/in/mari-moraes/">Mari Moraes</a>  
-    - UX/UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a> | <a href="#">Pamela</a> | <a href="https://www.linkedin.com/in/hugo-aragaor/">Hugo Aragão</a>     
+    - Agilista: <a href="#">a definir</a>  
+    - UX/UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a> | <a href="#">Pamela</a> | <a href="https://www.linkedin.com/in/debora-fonseca/">Débora Fonseca</a>     
     - Frontend: <a href="https://www.linkedin.com/in/vitormatiasf/">Vitor Matias</a> | <a href="https://www.linkedin.com/in/mariolucas00/">Mario Lucas</a>  
-    - Backend: <a href="https://www.linkedin.com/in/emerson-moreira/">Emerson Moreira</a>   
-    - Mobile: <a href="https://www.linkedin.com/in/lucaspachecoandrade/">Lucas Andrade</a> | <a href="#">Diogo Moreira</a>   
+    - Backend: <a href="https://www.linkedin.com/in/emerson-moreira/">Emerson Moreira</a> | <a href="#">Wilson Moura</a> | <a href="#">Fernando D'luccas</a>   
     - QA: <a href="https://www.linkedin.com/in/la%C3%ADne-andrade-b5538719b/">Laíne Andrade</a> | <a href="https://www.linkedin.com/in/tatianamouracapel/">Tatiana Moura</a>   
 <hr/>
 
 ## 07. Cartão Fidelidade Digital   
-**Responsável**: <a href="https://www.linkedin.com/in/adrianoangeli/">Adriano Angeli</a>  
 **Descrição do projeto**: O aplicativo (PWA) será um cartão de fidelidade digital, ou seja, várias lojas podem se cadastrar e dar pontos ou criar regras de pontuação para o clientes. Sendo assim, o cliente terá acesso no aplicativo e poderá verificar quais lojas e quantos pontos tem, até mesmo ver a quantidade de pontos que falta para ganhar algum prêmio ou desconto da loja.
 
 Sendo assim, o sistema terá 2 visões, a visão da Loja, Restaurante, Bar e Etc. Nessa visão pode ser cadastrado o cliente, regras de pontuação e aplicar pontuação.
 
 A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuação.   
 **Equipe**:  
-    - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/adrianoangeli/">Adriano Angeli</a>  
-    - Mentores: <a href="https://www.linkedin.com/in/adrianoangeli/">Adriano Angeli</a> *(Mentor do Projeto em Geral)* | <a href="https://www.linkedin.com/in/sabrina-nader/">Sabrina Nader</a> *(Mentora Ágil)*   
-    - Product Manager: <a href="https://www.linkedin.com/in/haline-dias-/">Haline Dias</a> | <a href="https://www.linkedin.com/in/renata-mmachado/">Renata Machado</a>  
-    - Agilista: <a href="https://www.linkedin.com/in/hedpodepaula/">Hédpo Silva De Paula</a>  
-    - QA: <a href="https://www.linkedin.com/in/tatianamouracapel/">Tatiana Moura Capel</a> | <a href="https://www.linkedin.com/in/jana%C3%ADna-andrade-lima-pereira-88b05421b/">Janaína Andrade Lima Pereira</a>  
-    - UX/UI: <a href="https://www.linkedin.com/in/crislanecosta/">Cris Costa</a> | <a href="https://www.linkedin.com/in/leticiaribeirodesign/">Leticia Ribeiro</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/luvoir/">Denise Pereira</a> | <a href="https://www.linkedin.com/in/bianca-leall/">Bianca Leal</a>  
-    - Backend: <a href="https://www.linkedin.com/in/joao-fuzeto/">João Fuzeto</a> | <a href="https://www.linkedin.com/in/moniquecwopereis/">Monique Candido Wopereis</a>
+    - Responsável/Stakeholder: <a href=""></a>  
+    - Mentores: <a href=""></a> | <a href=""></a>   
+    - Product Manager: <a href=""></a> | <a href=""></a>  
+    - Agilista: <a href=""></a>  
+    - QA: <a href=""></a> | <a href=""></a>  
+    - UX/UI: <a href=""></a> | <a href=""></a>  
+    - Frontend: <a href=""></a> | <a href=""></a>  
+    - Backend: <a href=""></a> | <a href=""></a>
 <hr/>
 
 ## 08. Animania
-**Responsável**: <a href="www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
-**Descrição do projeto**: Um aplicativo para acompanhamento e organização centralizada de animes, contendo como principal funcionalidade uma lista de acompanhamento dos animes com os episódios e temporadas já assistidas, calendário de lançamento de animes que o usuário deseja assistir, lista de todos os lançamentos anteriores divido por gênero (shounen, ...), e feed de notícias para os usuários compartilharem informações relevantes para a comunidade. <br/>
+**Repositório**: <a href="https://github.com/AnimaniaTeam">Organização Animania Team</a>   
+**Descrição do projeto**: Aplicativo para listagem e organização de animes, contendo como principal funcionalidade o calendário de lançamentos da temporada, listagem de acompanhamento do usuário com o progresso e controle de episódios e temporadas assistidas, listagem completa de temporadas anteriores separadas por gênero. <br/>
 **Equipe**: <br/>
+    - Responsável: <a href="https://www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
     - Agilista: <a href="https://www.linkedin.com/in/product-owner-sidnei-almeida/">Sidnei Almeida</a> <br/>
     - Product Manager: <a href="https://www.linkedin.com/in/akira-shimazu-2577b2192/">Akira Shimazu</a> <br/>
-    - Frontend: <a href="#">Darlan Bomfim</a> | <a href="https://www.linkedin.com/in/mauricio-bruno-da-silva/">Maurício Bruno</a> <br/>
-    - Mobile: <a href="www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> <br/>
-    - Backend:  <a href="#">Mateus</a> <br/>
-    - UX/UI: <a href="#">Pedro Henrique</a> <br/>
+    - Frontend: <a href="https://www.linkedin.com/in/darlan-bomfim-903582260/">Darlan Bomfim</a> | <a href="https://www.linkedin.com/in/mauricio-bruno-da-silva/">Maurício Bruno</a> <br/>
+    - Mobile: <a href="https://www.linkedin.com/in/vitoremanuelqf">Vítor Emanuel</a> | <a href="https://www.linkedin.com/in/bumaruf/">Otávio Bumaruf</a> <br/>
+    - Backend:  <a href="https://www.linkedin.com/in/matteus-santos-backend/">Mateus</a> <br/>
+    - UX/UI: <a href="https://www.linkedin.com/in/pedro-henrique-martins-75618720b/">Pedro Henrique</a> <br/>
 <hr/>
 
 ## 09. Minnemi
+**Repositório**: <a href="https://github.com/orgs/Minnemi/repositories">Minnemi</a> <br/>
 **Responsável**: <a href="https://www.linkedin.com/in/hugoversiani">Hugo Versiani</a> <br/>
-**Descrição do projeto**: Uma plataforma web onde pessoas pudessem enviar "cartas" (que na verdade seriam e-mails) para si mesmas, porém definindo uma data especifica para receber-las no futuro, como se fosse uma "capsula do tempo". 
+**Descrição do projeto**: Uma plataforma web onde pessoas pudem enviar "cartas" (que na verdade são e-mails) para si mesmas, porém definindo uma data especifica para receber-las no futuro, como se fosse uma "capsula do tempo". 
 
 Por exemplo, você escreve um e-mail com seus planos para os proximos 12 meses. Apos definir o texto da sua "carta", você definiria a data que deseja receber o e-mail. Decorrido o tempo (nesse exemplo 12 meses), você recebe o e-mail que enviou um ano atrás.
 
 A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada para diversos fins, como por exemplo professores com alunos no inicio do ano ano letivo, para receberem ao final. Ou psicólogos com seus pacientes. Enfim, qualquer pessoa que queira registrar algo que se gostaria de ler no futuro. <br/>
 **Equipe**: <br/>
-    - Responsável: <a target="_blank" href="https://www.linkedin.com/in/hugoversiani">Hugo Versiani</a> <br/>
     - Mentor: <a href="#">João Seabra</a> <br/> 
     - Agilista: <a  target="_blank" href="https://www.linkedin.com/in/hedpodepaula">Hédpo de Paula</a> <br/> 
     - Product Manager: <a target="_blank"  href="https://www.linkedin.com/in/manuela-vinhas-87b6959b/">Manuela Vinhas</a> <br/> 
     - Frontend:  <a target="_blank"  href="https://www.linkedin.com/in/vinicius-cosmo-me/">Vinicius Cosmo</a> e  <a href="#">Biancardi</a> <br/>
     - Backend:  <a  target="_blank" href="www.linkedin.com/in/hugoversiani">Hugo Versiani</a> e <a target="_blank"  href="https://www.linkedin.com/in/joaomesquitadev/">João Pedro</a> e <a  target="_blank" href="https://www.linkedin.com/in/fabiosilvaalves90/">Fábio Silva</a> <br/> 
-    - UX/UI:  <a  target="_blank" href="https://www.linkedin.com/in/rafamsantana/">Rafaela Santana</a> e <a href="#"> Gabriel Matheus</a><br/> 
-    - QA: <a target="_blank"  href="https://www.linkedin.com/in/beatriz-franco-testes">Beatriz Franco</a> <br/> 
+    - UX/UI:  <a  target="_blank" href="https://www.linkedin.com/in/rafamsantana/">Rafaela Santana</a>, <a href="#"> Gabriel Matheus</a> e <a href="#"> André.</a><br/> 
+    - QA: <a target="_blank"  href="https://www.linkedin.com/in/beatriz-franco-testes">Beatriz Franco</a> <br/>
+    - DevOps: <a href="#"> Hugo </a> e <a href="https://www.linkedin.com/in/joaofmds"> Joao Souza </a>.
 <hr/>
 
 ## 10. Terapia em Foco
@@ -314,7 +317,8 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 <hr/>
 
 ## 20. Bora Rachar
-**Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.
+**Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.  
+**Repositório**: <a href="https://github.com/orgs/BoraRachar/repositories">Organização BoraRachar</a>  
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
@@ -324,19 +328,50 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 
 ## 21. FoxClass
 **Repositório**:  pendente <br>
-**Responsável**: <a href="https://www.linkedin.com/in/jsalgues/">João Miguel Salgues</a>  <br>
+**Responsável**: <a href="https://www.linkedin.com/in/jsalgues/">João Miguel Salgues</a>  
 **Descrição do projeto**: Criar uma plataforma EAD para uma comunidade fechada em que os membros poderão aprender sobre diversos temas.
 A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<br>
 **Equipe**: 
 
 <hr/>
 
-## 22. Owlrange Notes
+## 22. Studyn'ON
 **Descrição do projeto**: Aplicação para acompanhamento de estudos em diferentes plataformas.  
-**Repositório**: <a href="https://github.com/orgs/owlrangenotes/repositories">Owlrange Notes</a><br>
+**Repositório**: <a href="https://github.com/orgs/StudynON/repositories">Organização Studyn'ON</a>  
 **Equipe**:  
     - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - UX: <a href="https://www.linkedin.com/in/raquelalribeiro">Raquel Ribeiro</a>
     
+<hr/>
+
+## 23. Spotistas
+**Descrição do projeto**: Desenvolver uma plataforma que mostra dados e estatísticas de músicas que o usuário do spofity ouve, tais como Top 10 musicas mais ouvidas, artistas mais ouvidos, etc.    
+**Repositório**: <a href="https://github.com">Pendente</a>  
+**Equipe**:  
+    - Responsável: <a href="">Diogo Reis</a>  
+    - Stakeholder: <a href="">Diogo Reis</a>  
+    - UX: <a href="">Diogo Reis</a>
+    
+<hr/>
+
+
+## 24. TechRate
+**Descrição do projeto**: Plataforma para avaliação de empresas na área tech. Visando passar informações sobre stacks utilizadas, principais áreas de atuação, cultura da empresa, plano de carreira e informações relevantes para possíveis candidatos, com avaliações de funcionários.    
+**Repositório**: <a href="https://github.com">Pendente</a>  
+**Equipe**:  
+    - Responsável: <a href="">Luiz Bello</a>  
+    - Stakeholder: <a href="">Luiz Bello</a>  
+    
+<hr/>
+
+## 25. Onde é o rolé
+**Descrição do projeto**: Aplicativo que auxilia a pessoa decidir para onde ela irá sair.
+
+**Repositório**: <a href="https://github.com">Pendente</a>
+
+**Equipe**:
+  - Responsável: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>  
+  - Stakeholder: <a href="https://www.linkedin.com/in/gabriel-souza-776723177/">Gabriel Rodrigues</a>
+
 <hr/>
