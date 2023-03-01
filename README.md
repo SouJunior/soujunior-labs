@@ -33,7 +33,6 @@
 -  <a href="#24-techrate">TechRate</a>
 -  <a href="#25-Onde-é-o-rolé">Onde é o Rolé</a>
 
-
 <hr/>
 
 ## 01. Wizer
@@ -68,7 +67,7 @@
  <hr/>
 
  ## 03. Site Projetos Ativos
-**Repositório**: <a href="https://github.com/site-projetos-ativos-sou-junior">Site Projetos Ativos</a>  
+**Repositório**: [Site Projetos Ativos](https://github.com/projetos-ativos-soujunior-lab)  
 **Responsável**: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/)  
 **Descrição do projeto**: Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade <a href="https://www.soujunior.tech/">Sou Júnior</a>. Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
 **Equipe**:  
@@ -346,12 +345,14 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 <hr/>
 
 ## 23. Spotistas
-**Descrição do projeto**: Desenvolver uma plataforma que mostra dados e estatísticas de músicas que o usuário do spofity ouve, tais como Top 10 musicas mais ouvidas, artistas mais ouvidos, etc.    
-**Repositório**: <a href="https://github.com">Pendente</a>  
+**Repositório**: [Spotistas](https://github.com/spotistas)    
+**Responsável**: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)  
+**Descrição do projeto**: Spotistas é um projeto que visa fornecer aos usuários do Spotify uma maneira fácil e acessível de entender suas estatísticas de reprodução e dados de música. Com base na API do Spotify, nossa plataforma coleta informações sobre as músicas que você ouve, seus artistas favoritos, gêneros musicais e muito mais. Com esses dados, fornecemos a você uma visão geral de suas estatísticas de reprodução e comparativos com outras pessoas, permitindo que você explore suas músicas como nunca antes.  
 **Equipe**:  
-    - Responsável: <a href="">Diogo Reis</a>  
-    - Stakeholder: <a href="">Diogo Reis</a>  
-    - UX: <a href="">Diogo Reis</a>
+    - Frontend: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/)  
+    - Backend: [Natanael Silva](https://www.linkedin.com/in/natanaelsc/) | [Maria Clara Negrão](https://www.linkedin.com/in/maria-clara-negrao-dev/) | [Felipe Marinho](https://www.linkedin.com/in/felipe-marinho-bb951b1a3/)  
+    - UX/ UI: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)   
+    - Mentor: [Eduardo Victor Machado da Silva](https://www.linkedin.com/in/eduardo-victor-machado-da-silva-141835192/) 
     
 <hr/>
 
