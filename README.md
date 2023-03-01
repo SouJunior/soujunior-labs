@@ -359,16 +359,17 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 
 ## 24. TechRate
 **Descrição do projeto**: Plataforma para avaliação de empresas na área tech. Visando passar informações sobre stacks utilizadas, principais áreas de atuação, cultura da empresa, plano de carreira e informações relevantes para possíveis candidatos, com avaliações de funcionários.    
-**Repositório**: <a href="https://github.com">Pendente</a>  
+**Repositório**: <a href="https://github.com/orgs/TechRate-Lab/repositories">Repositórios TehcRate</a>  
 **Equipe**:  
 
  - Responsável: <a href='https://www.linkedin.com/in/luiz-paulo-a98a61238/'>Luiz Bello</a>
  - Frontend: <a href="https://www.linkedin.com/in/rilton-bispo-460069198/">Rildo Bispo </a>  |  <a href="">Aberlado</a> | <a href="https://www.linkedin.com/in/luiz-paulo-a98a61238/">Luiz Bello</a>
  - Backend: <a href="">Thiago</a> | <a href="https://www.linkedin.com/in/maycon-coutinho/">Maycon</a>
- - UX/ UI: <a href="">Alynne Martins</a> | <a href="https://www.linkedin.com/in/marianasouza-dc-developeruxui">Mariana Souza</a>
+ - UX/ UI: <a href="https://www.linkedin.com/in/kerryalynnecmartins/">Alynne Martins</a> | <a href="https://www.linkedin.com/in/marianasouza-dc-developeruxui">Mariana Souza</a>
  - Mentor: <a href="https://www.linkedin.com/in/ricardo-pereira-lima">Ricardo Lima</a>
- - Agilista: <a href="https://www.linkedin.com/in/juliatnunes">Julia Nunes</a> | <a href="https://www.linkedin.com/in/mauro-reis/">Mauro </a>
+ - Agilista: <a href="https://www.linkedin.com/in/mauro-reis/">Mauro </a>
  - QA: <a href="https://www.linkedin.com/in/j%C3%BAlia-ferreira-38a881b9">Julia Ferreira</a>
+ - Product Manager: <a href="">Rafael Ferreira </a>
 <hr/>
 
 ## 25. Onde é o rolé
