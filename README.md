@@ -367,9 +367,9 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
  - Backend: <a href="">Thiago</a> | <a href="https://www.linkedin.com/in/maycon-coutinho/">Maycon</a>
  - UX/ UI: <a href="https://www.linkedin.com/in/kerryalynnecmartins/">Alynne Martins</a> | <a href="https://www.linkedin.com/in/marianasouza-dc-developeruxui">Mariana Souza</a>
  - Mentor: <a href="https://www.linkedin.com/in/ricardo-pereira-lima">Ricardo Lima</a>
- - Agilista: <a href="https://www.linkedin.com/in/mauro-reis/">Mauro </a>
+ - Agilista: <a href="https://www.linkedin.com/in/mauro-reis/">Mauro </a> | <a href="https://www.linkedin.com/in/marianaalcantara0/">Marina Alcantara </a>
  - QA: <a href="https://www.linkedin.com/in/j%C3%BAlia-ferreira-38a881b9">Julia Ferreira</a>
- - Product Manager: <a href="">Rafael Ferreira </a>
+ - Product Manager: <a href="https://www.linkedin.com/in/rafael-tadeu-espinha-ferreira-3274a9b6/">Rafael Ferreira </a>
 <hr/>
 
 ## 25. Onde é o rolé
