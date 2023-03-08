@@ -89,7 +89,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - Tech Lead: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - Product Manager: <a href="https://www.linkedin.com/in/joaosilvavictor">João Victor Santos</a>  
     - Agil: <a href="https://www.linkedin.com/in/leticiatrandrade">Letícia Andrade</a>  
-    - UX: <a href="https://www.linkedin.com/in/amanda-castanheira-746811a7">Amanda Castanheira</a> | <a href="https://www.linkedin.com/in/cleversonantonietti">Cleverson Antonietti</a>  
+    - UX: <a href="https://www.linkedin.com/in/cleversonantonietti">Cleverson Antonietti</a>  
     - UX Writer: <a href="https://www.linkedin.com/in/jecilenepereira">Jecilene Pereira</a>  
     - QA: <a href="https://www.linkedin.com/in/lucas-medeiros-233328221">Lucas Medeiros</a> | <a href="https://www.linkedin.com/in/nicolas-targino">Nicolas Targino</a>  
     - Backend: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a> | <a href="https://www.linkedin.com/in/juliomasson">Júlio Masson</a>  
