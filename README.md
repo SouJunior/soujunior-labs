@@ -264,6 +264,7 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
     - QA: <a href="https://www.linkedin.com/in/milena-r-8b8414127/">Milena Rocha</a> | <a href="https://www.linkedin.com/in/josi-moraes/">Josi Moraes</a>  
     - Mobile: <a href="https://www.linkedin.com/in/andremoraesfilho/">Andre</a> | <a href="https://www.linkedin.com/in/jean-hartmann-50143465/">Jean</a>  
     - UI/UX: <a href="https://www.linkedin.com/in/izabella-urias/">Izabella</a> | <a href="https://www.linkedin.com/in/j%C3%BAlia-nogueira/">Júlia Nogueira</a>  
+    - Agilista: <a href="https://www.linkedin.com/in/vazpriscila/">Priscila</a>
 <hr/>
 
 
