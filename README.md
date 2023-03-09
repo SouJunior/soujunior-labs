@@ -144,7 +144,7 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
     - QA: <a href=""></a> | <a href=""></a>  
     - UX/UI: <a href=""></a> | <a href=""></a>  
     - Frontend: <a href=""></a> | <a href=""></a>  
-    - Backend: <a href=""></a> | <a href=""></a>
+    - Backend: <a href="https://www.linkedin.com/in/paulo-webdev/">Paulo Érico de Oliveira</a> | <a href=""></a>
 <hr/>
 
 ## 08. Animania
