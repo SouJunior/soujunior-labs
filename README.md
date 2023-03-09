@@ -137,7 +137,7 @@ Sendo assim, o sistema terá 2 visões, a visão da Loja, Restaurante, Bar e Etc
 
 A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuação.   
 **Equipe**:  
-    - Responsável/Stakeholder: <a href=""></a>  
+    - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/thainara-wulfert-4350601a5/">Thainara Wulfert</a>  
     - Mentores: <a href=""></a> | <a href=""></a>   
     - Product Manager: <a href=""></a> | <a href=""></a>  
     - Agilista: <a href=""></a>  
