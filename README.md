@@ -238,7 +238,7 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
     - Backend: <a target="_blank" href="https://www.linkedin.com/in/dev-mario-cesar/">Mário Cesar</a> | <a target="_blank" href="https://www.linkedin.com/in/natanaelsc/">Natanael Silva</a>  
     - Mobile: <a target="_blank" href="https://www.linkedin.com/in/leonardo-martins-developer/">Leo Martins</a> | <a target="_blank" href="https://www.linkedin.com/in/eliabecruzsilva/">Eliabe Silva</a> | <a target="_blank" href="https://www.linkedin.com/in/vitor-rafaelk1/">Vitor Rafael </a>  
     - QA: <a target="_blank" href="http://www.linkedin.com/in/thamirisarruda">Thamiris Arruda</a>  
-    - UX: <a target="_blank" href="https://br.linkedin.com/in/marcell-herrera-4568b925a">Marcell Herrera</a> | <a target="_blank" href="https://www.linkedin.com/in/alanleao/">Alan Leão</a>  
+    - UX: <a target="_blank" href="https://br.linkedin.com/in/marcell-herrera-4568b925a">Marcell Herrera</a> | <a target="_blank" href="https://www.linkedin.com/in/hellen-nunes-6a5580150/">Hellen Freitas</a>  
 <hr/>
 
 ## 15. JobJR
