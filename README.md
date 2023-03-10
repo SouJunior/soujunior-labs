@@ -137,7 +137,7 @@ Sendo assim, o sistema terá 2 visões, a visão da Loja, Restaurante, Bar e Etc
 
 A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuação.   
 **Equipe**:  
-    - Responsável/Stakeholder: <a href=""></a>  
+    - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/thainara-wulfert-4350601a5/">Thainara Wulfert</a>  
     - Mentores: <a href=""></a> | <a href=""></a>   
     - Product Manager: <a href=""></a> | <a href=""></a>  
     - Agilista: <a href=""></a>  
@@ -238,7 +238,7 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
     - Backend: <a target="_blank" href="https://www.linkedin.com/in/dev-mario-cesar/">Mário Cesar</a> | <a target="_blank" href="https://www.linkedin.com/in/natanaelsc/">Natanael Silva</a>  
     - Mobile: <a target="_blank" href="https://www.linkedin.com/in/leonardo-martins-developer/">Leo Martins</a> | <a target="_blank" href="https://www.linkedin.com/in/eliabecruzsilva/">Eliabe Silva</a> | <a target="_blank" href="https://www.linkedin.com/in/vitor-rafaelk1/">Vitor Rafael </a>  
     - QA: <a target="_blank" href="http://www.linkedin.com/in/thamirisarruda">Thamiris Arruda</a>  
-    - UX: <a target="_blank" href="https://br.linkedin.com/in/marcell-herrera-4568b925a">Marcell Herrera</a> | <a target="_blank" href="https://www.linkedin.com/in/alanleao/">Alan Leão</a>  
+    - UX: <a target="_blank" href="https://br.linkedin.com/in/marcell-herrera-4568b925a">Marcell Herrera</a> | <a target="_blank" href="https://www.linkedin.com/in/hellen-nunes-6a5580150/">Hellen Freitas</a>  
 <hr/>
 
 ## 15. JobJR
@@ -264,6 +264,7 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
     - QA: <a href="https://www.linkedin.com/in/milena-r-8b8414127/">Milena Rocha</a> | <a href="https://www.linkedin.com/in/josi-moraes/">Josi Moraes</a>  
     - Mobile: <a href="https://www.linkedin.com/in/andremoraesfilho/">Andre</a> | <a href="https://www.linkedin.com/in/jean-hartmann-50143465/">Jean</a>  
     - UI/UX: <a href="https://www.linkedin.com/in/izabella-urias/">Izabella</a> | <a href="https://www.linkedin.com/in/j%C3%BAlia-nogueira/">Júlia Nogueira</a>  
+    - Agilista: <a href="https://www.linkedin.com/in/vazpriscila/">Priscila</a>
 <hr/>
 
 
@@ -367,9 +368,9 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
  - Backend: <a href="">Thiago</a> | <a href="https://www.linkedin.com/in/maycon-coutinho/">Maycon</a>
  - UX/ UI: <a href="https://www.linkedin.com/in/kerryalynnecmartins/">Alynne Martins</a> | <a href="https://www.linkedin.com/in/marianasouza-dc-developeruxui">Mariana Souza</a>
  - Mentor: <a href="https://www.linkedin.com/in/ricardo-pereira-lima">Ricardo Lima</a>
- - Agilista: <a href="https://www.linkedin.com/in/mauro-reis/">Mauro </a>
+ - Agilista: <a href="https://www.linkedin.com/in/mauro-reis/">Mauro </a> | <a href="https://www.linkedin.com/in/marianaalcantara0/">Marina  Alcantara </a>
  - QA: <a href="https://www.linkedin.com/in/j%C3%BAlia-ferreira-38a881b9">Julia Ferreira</a>
- - Product Manager: <a href="">Rafael Ferreira </a>
+ - Product Manager: <a href="https://www.linkedin.com/in/rafael-tadeu-espinha-ferreira-3274a9b6/">Rafael Ferreira </a>
 <hr/>
 
 ## 25. Onde é o rolé
