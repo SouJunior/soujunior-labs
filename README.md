@@ -350,8 +350,8 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
 **Responsável**: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)  
 **Descrição do projeto**: Spotistas é um projeto que visa fornecer aos usuários do Spotify uma maneira fácil e acessível de entender suas estatísticas de reprodução e dados de música. Com base na API do Spotify, nossa plataforma coleta informações sobre as músicas que você ouve, seus artistas favoritos, gêneros musicais e muito mais. Com esses dados, fornecemos a você uma visão geral de suas estatísticas de reprodução e comparativos com outras pessoas, permitindo que você explore suas músicas como nunca antes.  
 **Equipe**:  
-    - Frontend: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/)  
-    - Backend: [Natanael Silva](https://www.linkedin.com/in/natanaelsc/) | [Maria Clara Negrão](https://www.linkedin.com/in/maria-clara-negrao-dev/) | [Felipe Marinho](https://www.linkedin.com/in/felipe-marinho-bb951b1a3/)  
+    - Frontend: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/) | [Bruno Sampaio](https://www.linkedin.com/in/brunosmp/)  
+    - Backend: [Felipe Marinho](https://www.linkedin.com/in/felipe-marinho-bb951b1a3/)  
     - UX/ UI: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)   
     - Mentor: [Eduardo Victor Machado da Silva](https://www.linkedin.com/in/eduardo-victor-machado-da-silva-141835192/) 
     
