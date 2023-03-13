@@ -130,21 +130,21 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - QA: <a href="https://www.linkedin.com/in/la%C3%ADne-andrade-b5538719b/">Laíne Andrade</a> | <a href="https://www.linkedin.com/in/tatianamouracapel/">Tatiana Moura</a>   
 <hr/>
 
-## 07. Cartão Fidelidade Digital   
+## 07. Cartão Fidelidade Digital  
+**Repositório**: <a href="https://github.com/cartao-fidelidade-digital">Cartão Fidelidade Digital</a>  
 **Descrição do projeto**: O aplicativo (PWA) será um cartão de fidelidade digital, ou seja, várias lojas podem se cadastrar e dar pontos ou criar regras de pontuação para o clientes. Sendo assim, o cliente terá acesso no aplicativo e poderá verificar quais lojas e quantos pontos tem, até mesmo ver a quantidade de pontos que falta para ganhar algum prêmio ou desconto da loja.
 
 Sendo assim, o sistema terá 2 visões, a visão da Loja, Restaurante, Bar e Etc. Nessa visão pode ser cadastrado o cliente, regras de pontuação e aplicar pontuação.
 
 A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuação.   
 **Equipe**:  
-    - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/thainara-wulfert-4350601a5/">Thainara Wulfert</a>  
-    - Mentores: <a href=""></a> | <a href=""></a>   
-    - Product Manager: <a href=""></a> | <a href=""></a>  
-    - Agilista: <a href=""></a>  
-    - QA: <a href=""></a> | <a href=""></a>  
-    - UX/UI: <a href=""></a> | <a href=""></a>  
-    - Frontend: <a href=""></a> | <a href=""></a>  
-    - Backend: <a href=""></a> | <a href=""></a>
+    - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/thainara-wulfert-4350601a5/">Thainara Wulfert</a>   
+    - Product Manager: <a href="https://www.linkedin.com/in/arisângela-blanco-rosas-125b09186">Arisangela Rosas</a> | <a href="https://www.linkedin.com/in/rubia-macedo">Rubia Macedo</a>  
+    - Agilista: <a href="https://www.linkedin.com/in/josiele-ferreira-90686a1b2/">Josiele Ferreira</a>  
+    - QA: <a href="https://www.linkedin.com/in/lucasdebritonunes/">Lucas Brito</a>  
+    - UX/UI: <a href="https://www.linkedin.com/in/maria-eduarda-gimenes/">Maria Eduarda</a> | <a href="https://www.linkedin.com/in/jhosselin-vieira-3643297b">Jhosselin Vieira</a> | <a href="https://www.linkedin.com/in/guyllian-sasano/">Guyllian Sasano</a>  
+    - Frontend: <a href="https://www.linkedin.com/in/gabriel-almeida-gamas/">Gabriel Almeida</a> | <a href="https://www.linkedin.com/in/lucas-pereira-877a05252">Lucas Pereira</a>   
+    - Backend: <a href="https://www.linkedin.com/in/paulo-webdev/">Paulo Érico de Oliveira</a> | <a href="https://www.linkedin.com/in/joao-igor-oli/">João Igor Oliveira</a>  
 <hr/>
 
 ## 08. Animania
