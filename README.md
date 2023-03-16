@@ -56,13 +56,13 @@
 **Responsável**: [Davi Kooji](https://www.linkedin.com/in/daviuezono/)  
 **Descrição do projeto**: Vamos criar uma plataforma que organiza vídeos por tag e categorias, criando assim um acervo de vídeos de fácil localização.
 **Equipe**:  
-- Stakeholder: [Wouerner Brandão](https://www.linkedin.com/in/wouerner/)  <br>
-- Product Manager: [Davi Kooji](https://www.linkedin.com/in/daviuezono/)  <br>
-- Head de Produtos: [Vanêssa Santana](https://www.linkedin.com/in/vanessa-patricia/) <br>
-- Tech Lead: [Alec Lima](https://www.linkedin.com/in/aleclima-/) <br>
-- Frontend: [Alec Lima](https://www.linkedin.com/in/aleclima-/) | [Heloiza Mendes](https://www.linkedin.com/in/heloiza-mendes-785708214) | [Leonardo Martins](https://www.linkedin.com/in/leonardo-martins-developer/) <br/>
-- Backend: [Vinicius Anicácio](https://www.linkedin.com/in/anic4cio/) | [Laíse Carvalho](https://www.linkedin.com/in/laisecvr/) |  [Douglas Aguiar](https://www.linkedin.com/in/douglas-aguiar-alc/) <br>
-- UX/ UI: [Marcos Paranhos](https://www.linkedin.com/in/marcosparanhos/) | [Jadylay Sousa](https://www.linkedin.com/in/jadylay-santos/) <br>
+- Stakeholder: [Wouerner Brandão](https://www.linkedin.com/in/wouerner/)
+- Product Manager: [Davi Kooji](https://www.linkedin.com/in/daviuezono/)
+- Head de Produtos: [Vanêssa Santana](https://www.linkedin.com/in/vanessa-patricia/)
+- Tech Lead: [Alec Lima](https://www.linkedin.com/in/aleclima-/)
+- Frontend: [Alec Lima](https://www.linkedin.com/in/aleclima-/) | [Heloiza Mendes](https://www.linkedin.com/in/heloiza-mendes-785708214) | [Leonardo Martins](https://www.linkedin.com/in/leonardo-martins-developer/)
+- Backend: [Vinicius Anicácio](https://www.linkedin.com/in/anic4cio/) | [Laíse Carvalho](https://www.linkedin.com/in/laisecvr/) |  [Douglas Aguiar](https://www.linkedin.com/in/douglas-aguiar-alc/)
+- UX/ UI: [Marcos Paranhos](https://www.linkedin.com/in/marcosparanhos/) | [Jadylay Sousa](https://www.linkedin.com/in/jadylay-santos/)
 - QA: [Janaína Andrade](https://www.linkedin.com/in/janaina-andrade/)
 
  
@@ -146,7 +146,7 @@ Sendo assim, o sistema terá 2 visões, a visão da Loja, Restaurante, Bar e Etc
 A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuação.
 
 **Equipe**:  
-- Stakeholder: <a href="https://www.linkedin.com/in/thainara-wulfert-4350601a5/">Thainara Wulfert</a>  
+- Stakeholder: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5/)</a>  
 - Mentores:   
 - Product Manager:  
 - Agilista:  
