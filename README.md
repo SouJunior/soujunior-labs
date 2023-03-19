@@ -42,7 +42,7 @@
 **Equipe**:  
     - Frontend: <a href="https://www.linkedin.com/in/lucas-alves-476b281aa/">Lucas Alves</a>  |  <a href="https://www.linkedin.com/in/andrelcnunes/">André Luiz</a> | <a href="https://www.linkedin.com/in/antoniolmcandido/">Antonio Candido</a>  <br>
     - Backend: <a href="https://www.linkedin.com/in/simeone-johnson/">Simeone Johnson</a> | <a href="https://www.linkedin.com/in/jessica-santana-developer/">Jessica Santana</a> | <a href="https://www.linkedin.com/in/pedrohteles/">Pedro Teles</a> <br>
-    - UX/ UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a> |  <a href="https://www.linkedin.com/in/vinioliveirasilva/">Vinicius Oliveira </a>   <br>
+    - UX/ UI: <a href="https://www.linkedin.com/in/flavia-acyole">Thais Acyole</a> <br>
     - Product Manager: <a href="https://www.linkedin.com/in/victoria-oiticica/">Victória Oiticica</a> <br>
     - Agilista: <a href="https://www.linkedin.com/in/odilo-junior/">Odilo Junior</a>  <br>
     - Mentor: <a href="https://www.linkedin.com/in/joao-m-seabra/">João Seabra</a> <br>
