@@ -42,7 +42,7 @@
 **Equipe**:  
     - Frontend: <a href="https://www.linkedin.com/in/lucas-alves-476b281aa/">Lucas Alves</a>  |  <a href="https://www.linkedin.com/in/andrelcnunes/">André Luiz</a> | <a href="https://www.linkedin.com/in/antoniolmcandido/">Antonio Candido</a>  <br>
     - Backend: <a href="https://www.linkedin.com/in/simeone-johnson/">Simeone Johnson</a> | <a href="https://www.linkedin.com/in/jessica-santana-developer/">Jessica Santana</a> | <a href="https://www.linkedin.com/in/pedrohteles/">Pedro Teles</a> <br>
-    - UX/ UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a> |  <a href="https://www.linkedin.com/in/vinioliveirasilva/">Vinicius Oliveira </a>   <br>
+    - UX/ UI: <a href="https://www.linkedin.com/in/flavia-acyole">Thais Acyole</a> <br>
     - Product Manager: <a href="https://www.linkedin.com/in/victoria-oiticica/">Victória Oiticica</a> <br>
     - Agilista: <a href="https://www.linkedin.com/in/odilo-junior/">Odilo Junior</a>  <br>
     - Mentor: <a href="https://www.linkedin.com/in/joao-m-seabra/">João Seabra</a> <br>
@@ -111,6 +111,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - QA: <a href="https://www.linkedin.com/in/julissytocachelo/">Julissy Tocachelo</a>   
     - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a> | <a href="https://www.linkedin.com/in/danielmatuoka">Daniel Matuoka Kobayashi</a> | <a href="https://www.linkedin.com/in/rafaelmoraes03/">Rafael Moraes</a>  
     - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a> | <a href="https://www.linkedin.com/in/camila-rizzi/">Camila .</a> | <a href="https://www.linkedin.com/in/analeeos/">Ana Leticia D.</a>    
+
 <hr/>
 
 ## 06. Findy    
@@ -288,20 +289,21 @@ As instituições sociais carecem de um sistema de gestão que o acompanhe desde
 <hr/>
 
 ## 18. Care4You
-**Repositório**:  <a href="https://github.com/Care-4U">Care4You</a><br>
+**Repositório**:  <a href="https://github.com/care4you">Care4You</a><br>
 
 **Descrição do projeto**:
 O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e profissionais de saúde. Como intermediador, pretendemos agilizar o processo de procura e torná-lo mais fácil tanto para o usuário quanto para o profissional. Focaremos em três tipos de profissionais: nutricionista, psicólogo e educador físico. Além da conexão entre profissional e usuário, também focaremos em ferramentas para agilizar o trabalho do profissional, como cadastro de exercícios, rotina de alimentação, etc.
 
 **Equipe**:  
- - Responsável: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
- - Frontend: <a href="https://www.linkedin.com/in/jonathan-lucas-dos-santos">Jonathan</a>  |  <a href="https://www.linkedin.com/in/samuel-silva-de-carvalho/">Samuel</a>
- - Backend: <a href="https://www.linkedin.com/in/gdsrj/">Gabriel Dias</a> 
- - UX/ UI: <a href="https://www.linkedin.com/in/gabrieloliveiraaa/">Gabriel Oliveira</a> | <a href="https://www.linkedin.com/in/marcelo-sousa-7a844b254">Marcelo Sousa</a>
- - Mobile: <a href="https://www.linkedin.com/in/thiagorhrt/">Thiago Rodrigues</a> | <a href="https://www.linkedin.com/in/lucasfillypeg/">Lucas Fillype</a> 
- - Product Manager: <a href="https://www.linkedin.com/in/catarinavivacqua">Catarina Vivacqua</a>
- - Agilista: <a href="https://www.linkedin.com/in/juliatnunes">Julia Nunes</a> | <a href="https://www.linkedin.com/in/caiquefonseca/">Caique Fonseca</a>
- - QA: <a href="https://www.linkedin.com/in/patricia-monteiro-carvalho">Patricia Monteiro</a> | <a href="https://www.linkedin.com/in/rebeca-ponciano">Rebeca Ponciano</a>
+ - Responsável: [Samuel Carvalho](https://www.linkedin.com/in/samuel-silva-de-carvalho/)
+ - Frontend: <a href="https://www.linkedin.com/in/samuel-silva-de-carvalho/">Samuel</a> | <a href="https://www.linkedin.com/in/jonathan-lucas-dos-santos">Jonathan</a>  
+ - Backend: <a href="https://www.linkedin.com/in/dyonatamachado/">Dyonata Machado</a> | <a href="https://www.linkedin.com/in/matheus-fernandes-2a1595204/">Matheus Fernandes</a>
+ - UX/ UI: <a href="https://www.linkedin.com/in/kerryalynnecmartins/">Alynne Martins</a> | <a href="https://www.linkedin.com/in/wellington-soares-ux-ui-designer">Wellington Soares</a>
+ - Mobile: 
+ - Product Manager: <a href="https://www.linkedin.com/in/mairabarcelos/">Maíra Barcelos</a>
+ - Agilista: <a href="https://www.linkedin.com/in/igor-calmon/">Igor Calmon</a>
+ - QA: <a href="https://www.linkedin.com/in/vitoria-barrocas/">Vitória Barrocas</a> | <a href="https://www.linkedin.com/in/murilo-ryan-60969ab5">Murilo Ryan</a>
+
 <hr/>
 
 ## 19. Semente Embrião
