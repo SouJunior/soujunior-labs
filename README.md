@@ -109,10 +109,9 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
     - Product Manager: <a href="https://www.linkedin.com/in/guilhermeganhito/">Guilherme Ganhito</a>    
     - UX: <a href="https://www.linkedin.com/in/faelux/">Rafael Claudino</a> | <a href="https://linkedin.com/in/douglaspereira4">Douglas Pereira</a> | <a href="https://www.linkedin.com/in/wiliandev/">Wilian Nascimento da Silva</a>    
     - QA: <a href="https://www.linkedin.com/in/julissytocachelo/">Julissy Tocachelo</a>   
-    - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a> | <a href="https://www.linkedin.com/in/danielmatuoka">Daniel Matuoka Kobayashi</a>   
-    - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a> | <a href="https://www.linkedin.com/in/myllenametzker/">Myllena M.</a> | <a href="https://www.linkedin.com/in/camila-rizzi/">Camila .</a>   
-    - Data: <a href="https://www.linkedin.com/in/suelytohm-oliveira-057a32a9/">Suelytohm Oliveira</a>   
-    - Mobile: <a href="https://www.linkedin.com/in/manoeliranilson/">Manoel Iranilson Vieira</a>  
+    - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a> | <a href="https://www.linkedin.com/in/danielmatuoka">Daniel Matuoka Kobayashi</a> | <a href="https://www.linkedin.com/in/rafaelmoraes03/">Rafael Moraes</a>  
+    - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a> | <a href="https://www.linkedin.com/in/camila-rizzi/">Camila .</a> | <a href="https://www.linkedin.com/in/analeeos/">Ana Leticia D.</a>    
+
 <hr/>
 
 ## 06. Findy    
