@@ -136,7 +136,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 <hr/>
 
 ## 07. Cartão Fidelidade Digital  
-**Repositório**: [Cartão Fidelidade Digital](https://github.com/cartao-fidelidade-digital)
+**Repositório**: [Cartão Fidelidade Digital](https://github.com/cartao-fidelidade-digital)  
 **Responsável**: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5/)  
 **Descrição do projeto**: O aplicativo (PWA) será um cartão de fidelidade digital, ou seja, várias lojas podem se cadastrar e dar pontos ou criar regras de pontuação para o clientes. Sendo assim, o cliente terá acesso no aplicativo e poderá verificar quais lojas e quantos pontos tem, até mesmo ver a quantidade de pontos que falta para ganhar algum prêmio ou desconto da loja.
 
@@ -348,7 +348,7 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 <hr/>
 
 ## 21. FoxClass
-**Responsável**: [João Miguel Salgues](https://www.linkedin.com/in/jsalgues/) 
+**Responsável**: [João Miguel Salgues](https://www.linkedin.com/in/jsalgues/)  
 **Descrição do projeto**: Criar uma plataforma EAD para uma comunidade fechada em que os membros poderão aprender sobre diversos temas.
 A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 
@@ -382,7 +382,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 
 
 ## 24. TechRate
-**Repositório**: [Repositórios TehcRate](https://github.com/orgs/TechRate-Lab/repositories)
+**Repositório**: [Repositórios TehcRate](https://github.com/orgs/TechRate-Lab/repositories)  
 **Responsável**: [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)
 **Descrição do projeto**: Plataforma para avaliação de empresas na área tech. Visando passar informações sobre stacks utilizadas, principais áreas de atuação, cultura da empresa, plano de carreira e informações relevantes para possíveis candidatos, com avaliações de funcionários.    
 
@@ -398,7 +398,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 <hr/>
 
 ## 25. Onde é o rolé
-**Repositório**: [OndeEORole](https://github.com/onde-e-o-role)
+**Repositório**: [OndeEORole](https://github.com/onde-e-o-role)  
 **Descrição do projeto**: O aplicativo Onde é o rolê tem como objetivo auxiliar o usuário a decidir em qual local, seja bar, restaurante, shows e eventos ele poderá ir. Nós pretendemos entregar uma boa experiência ao usuário, através de, avaliações do local, indicação de transportes para chegar ao local escolhido, contato direto com o estabelecimento  e outras funcionalidades tudo dentro do aplicativo. Nosso público alvo são pessoas que acabaram de se mudar, pessoas que estão viajando, solteiros, casados, grupos de amigos e todos os que gostam de dar um rolê..
 
 **Equipe**:
