@@ -136,7 +136,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 <hr/>
 
 ## 07. Cartão Fidelidade Digital  
-**Repositório**: <a href="https://github.com/cartao-fidelidade-digital">Cartão Fidelidade Digital</a>  
+**Repositório**: [Cartão Fidelidade Digital](https://github.com/cartao-fidelidade-digital)
 **Responsável**: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5/)  
 **Descrição do projeto**: O aplicativo (PWA) será um cartão de fidelidade digital, ou seja, várias lojas podem se cadastrar e dar pontos ou criar regras de pontuação para o clientes. Sendo assim, o cliente terá acesso no aplicativo e poderá verificar quais lojas e quantos pontos tem, até mesmo ver a quantidade de pontos que falta para ganhar algum prêmio ou desconto da loja.
 
@@ -145,13 +145,13 @@ Sendo assim, o sistema terá 2 visões, a visão da Loja, Restaurante, Bar e Etc
 A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuação.
 
 **Equipe**:  
-    - Responsável/Stakeholder: <a href="https://www.linkedin.com/in/thainara-wulfert-4350601a5/">Thainara Wulfert</a>   
-    - Product Manager: <a href="https://www.linkedin.com/in/arisângela-blanco-rosas-125b09186">Arisangela Rosas</a> | <a href="https://www.linkedin.com/in/rubia-macedo">Rubia Macedo</a>  
-    - Agilista: <a href="https://www.linkedin.com/in/josiele-ferreira-90686a1b2/">Josiele Ferreira</a>  
-    - QA: <a href="https://www.linkedin.com/in/lucasdebritonunes/">Lucas Brito</a>  
-    - UX/UI: <a href="https://www.linkedin.com/in/maria-eduarda-gimenes/">Maria Eduarda</a> | <a href="https://www.linkedin.com/in/jhosselin-vieira-3643297b">Jhosselin Vieira</a> | <a href="https://www.linkedin.com/in/guyllian-sasano/">Guyllian Sasano</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/gabriel-almeida-gamas/">Gabriel Almeida</a> | <a href="https://www.linkedin.com/in/lucas-pereira-877a05252">Lucas Pereira</a>   
-    - Backend: <a href="https://www.linkedin.com/in/paulo-webdev/">Paulo Érico de Oliveira</a> | <a href="https://www.linkedin.com/in/joao-igor-oli/">João Igor Oliveira</a>  
+- Stakeholder: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5/) 
+- Product Manager: [Arisangela Rosas](https://www.linkedin.com/in/arisângela-blanco-rosas-125b09186) | [Rubia Macedo](https://www.linkedin.com/in/rubia-macedo) 
+- Agilista: [Josiele Ferreira](https://www.linkedin.com/in/josiele-ferreira-90686a1b2/) 
+- QA: [Lucas Brito](https://www.linkedin.com/in/lucasdebritonunes/) 
+- UX/UI: [Maria Eduarda](https://www.linkedin.com/in/maria-eduarda-gimenes/) | [Jhosselin Vieira](https://www.linkedin.com/in/jhosselin-vieira-3643297b) | [Guyllian Sasano](https://www.linkedin.com/in/guyllian-sasano/) 
+- Frontend: [Gabriel Almeida](https://www.linkedin.com/in/gabriel-almeida-gamas/) | [Lucas Pereira](https://www.linkedin.com/in/lucas-pereira-877a05252) 
+- Backend: [Paulo Érico de Oliveira](https://www.linkedin.com/in/paulo-webdev/) | [João Igor Oliveira](https://www.linkedin.com/in/joao-igor-oli/)
 <hr/>
 
 ## 08. Animania
@@ -213,15 +213,15 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 Servindo de portal para que o usuário, através da plataforma, pudesse se organizar e se engajar mais em seus estudos.  
 
 **Equipe**:  
-    - Responsável: 
-    - Mentor:   
-    - Agilista: 
-    - Product Manager:
-    - Quality Assurance: 
-    - UI/UX:
-    - Front-End:
-    - Back-end: 
-    - Mobile:
+- Responsável: 
+- Mentor:   
+- Agilista: 
+- Product Manager:
+- Quality Assurance: 
+- UI/UX:
+- Front-End:
+- Back-end: 
+- Mobile:
 <hr/>
 
 ## 13. Neuro Kids
@@ -311,20 +311,19 @@ As instituições sociais carecem de um sistema de gestão que o acompanhe desde
 <hr/>
 
 ## 18. Care4You
-**Repositório**:  <a href="https://github.com/care4you">Care4You</a><br>
-
+**Repositório**:  [Care4You](https://github.com/care4you)  
+**Responsável**: [Samuel Carvalho](https://www.linkedin.com/in/samuel-silva-de-carvalho/)  
 **Descrição do projeto**:
 O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e profissionais de saúde. Como intermediador, pretendemos agilizar o processo de procura e torná-lo mais fácil tanto para o usuário quanto para o profissional. Focaremos em três tipos de profissionais: nutricionista, psicólogo e educador físico. Além da conexão entre profissional e usuário, também focaremos em ferramentas para agilizar o trabalho do profissional, como cadastro de exercícios, rotina de alimentação, etc.
 
 **Equipe**:  
- - Responsável: [Samuel Carvalho](https://www.linkedin.com/in/samuel-silva-de-carvalho/)
- - Frontend: <a href="https://www.linkedin.com/in/samuel-silva-de-carvalho/">Samuel</a> | <a href="https://www.linkedin.com/in/jonathan-lucas-dos-santos">Jonathan</a>  
- - Backend: <a href="https://www.linkedin.com/in/dyonatamachado/">Dyonata Machado</a> | <a href="https://www.linkedin.com/in/matheus-fernandes-2a1595204/">Matheus Fernandes</a>
- - UX/ UI: <a href="https://www.linkedin.com/in/kerryalynnecmartins/">Alynne Martins</a> | <a href="https://www.linkedin.com/in/wellington-soares-ux-ui-designer">Wellington Soares</a>
- - Mobile: 
- - Product Manager: <a href="https://www.linkedin.com/in/mairabarcelos/">Maíra Barcelos</a>
- - Agilista: <a href="https://www.linkedin.com/in/igor-calmon/">Igor Calmon</a>
- - QA: <a href="https://www.linkedin.com/in/vitoria-barrocas/">Vitória Barrocas</a> | <a href="https://www.linkedin.com/in/murilo-ryan-60969ab5">Murilo Ryan</a>
+- Frontend: [Samuel](https://www.linkedin.com/in/samuel-silva-de-carvalho/) | [Jonathan](https://www.linkedin.com/in/jonathan-lucas-dos-santos) 
+- Backend: [Dyonata Machado](https://www.linkedin.com/in/dyonatamachado/) | [Matheus Fernandes](https://www.linkedin.com/in/matheus-fernandes-2a1595204/) 
+- UX/ UI: [Alynne Martins](https://www.linkedin.com/in/kerryalynnecmartins/) | [Wellington Soares](https://www.linkedin.com/in/wellington-soares-ux-ui-designer) 
+- Mobile: 
+- Product Manager: [Maíra Barcelos](https://www.linkedin.com/in/mairabarcelos/) 
+- Agilista: [Igor Calmon](https://www.linkedin.com/in/igor-calmon/) 
+- QA: [Vitória Barrocas](https://www.linkedin.com/in/vitoria-barrocas/) | [Murilo Ryan](https://www.linkedin.com/in/murilo-ryan-60969ab5)
 
 <hr/>
 
@@ -399,9 +398,8 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 <hr/>
 
 ## 25. Onde é o rolé
+**Repositório**: [OndeEORole](https://github.com/onde-e-o-role)
 **Descrição do projeto**: O aplicativo Onde é o rolê tem como objetivo auxiliar o usuário a decidir em qual local, seja bar, restaurante, shows e eventos ele poderá ir. Nós pretendemos entregar uma boa experiência ao usuário, através de, avaliações do local, indicação de transportes para chegar ao local escolhido, contato direto com o estabelecimento  e outras funcionalidades tudo dentro do aplicativo. Nosso público alvo são pessoas que acabaram de se mudar, pessoas que estão viajando, solteiros, casados, grupos de amigos e todos os que gostam de dar um rolê..
-
-**Repositório**: <a href="https://github.com/onde-e-o-role">OndeEORole</a>
 
 **Equipe**:
 - Stakeholder: [Gabriel Rodrigues](https://www.linkedin.com/in/gabriel-souza-776723177/)
