@@ -342,6 +342,9 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.<b
     - Responsável: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - Stakeholder: <a href="https://www.linkedin.com/in/dansenpir">Danrley Senegalha Pires</a>  
     - UX: <a href="https://www.linkedin.com/in/raquelalribeiro">Raquel Ribeiro</a>
+    - Frontend: <a href="https://www.linkedin.com/in/matheus-gondra-a187a81a3/">Matheus Gondra</a>
+    - Backend: <a href="https://www.linkedin.com/in/gustavoparlandim/">Gustavo Parlandim</a>
+    - Mobile: <a href="https://www.linkedin.com/in/pabloleite03/">Pablo Leite</a> | <a href="https://www.linkedin.com/in/joaohitallo/">João Hitallo</a>
     
 <hr/>
 
