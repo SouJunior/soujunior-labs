@@ -382,7 +382,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 
 ## 24. TechRate
 **Repositório**: [Repositórios TehcRate](https://github.com/orgs/TechRate-Lab/repositories)  
-**Responsável**: [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)
+**Responsável**: [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)  
 **Descrição do projeto**: Plataforma para avaliação de empresas na área tech. Visando passar informações sobre stacks utilizadas, principais áreas de atuação, cultura da empresa, plano de carreira e informações relevantes para possíveis candidatos, com avaliações de funcionários.    
 
 **Equipe**:  
