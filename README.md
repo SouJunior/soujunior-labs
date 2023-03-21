@@ -39,10 +39,11 @@
 **Repositório**: [Wizer Community](https://github.com/Wizer-Community)  
 **Responsável**: [Simeone Johnson](https://www.linkedin.com/in/simeone-johnson/)  
 **Descrição do projeto**: Somos uma plataforma de Streaming Educacional, com conteúdo de qualidade disponibilizado de forma gratuita. Unimos educação e tecnologia, para transformar a forma de aprendizagem, tornando simples e acessível a todos que querem aprender.  
+
 **Equipe**:  
 - Frontend: [Lucas Alves](https://www.linkedin.com/in/lucas-alves-476b281aa/)  |  [André Luiz](https://www.linkedin.com/in/andrelcnunes/) | [Antonio Candido](https://www.linkedin.com/in/antoniolmcandido/)  
 - Backend: [Simeone Johnson](https://www.linkedin.com/in/simeone-johnson/) | [Jessica Santana](https://www.linkedin.com/in/jessica-santana-developer/) | [Pedro Teles](https://www.linkedin.com/in/pedrohteles/)  
-- UX/ UI: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/) |  [Vinicius Oliveira](https://www.linkedin.com/in/vinioliveirasilva/)  
+- UX/ UI: [Thais Acyole](https://www.linkedin.com/in/flavia-acyole)
 - Product Manager: [Victória Oiticica](https://www.linkedin.com/in/victoria-oiticica/)  
 - Agilista: [Odilo Junior](https://www.linkedin.com/in/odilo-junior/)  
 - Mentor: [João Seabra](https://www.linkedin.com/in/joao-m-seabra/)  
@@ -55,6 +56,7 @@
 **Repositório**:  [Video4Me](https://github.com/Video4Me)  
 **Responsável**: [Davi Kooji](https://www.linkedin.com/in/daviuezono/)  
 **Descrição do projeto**: Vamos criar uma plataforma que organiza vídeos por tag e categorias, criando assim um acervo de vídeos de fácil localização.
+
 **Equipe**:  
 - Stakeholder: [Wouerner Brandão](https://www.linkedin.com/in/wouerner/)
 - Product Manager: [Davi Kooji](https://www.linkedin.com/in/daviuezono/)
@@ -72,6 +74,7 @@
 **Repositório**: [Site Projetos Ativos](https://github.com/projetos-ativos-soujunior-lab)  
 **Responsável**: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/)  
 **Descrição do projeto**: Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade [Sou Júnior](https://www.soujunior.tech/). Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
+
 **Equipe**:  
 - Frontend: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/) | [Elton Campos](https://www.linkedin.com/in/eltonapcampos/)  
 - UX/ UI: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)   
@@ -86,6 +89,7 @@
 **Responsável**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)    
 **Descrição do projeto**: Desenvolvimento de um produto para registro de informações referentes aos nossos pets.
 Registrando informações relevantes como datas de vacinas, datas em que foi aplicado vermífugo com detalhes, histórico de compras de ração, integração com Google Agenda, etc.  
+
 **Equipe**:  
 - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)  
 - Stakeholder: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
@@ -108,16 +112,15 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Repositório**: [Controle de corrida](https://github.com/controledecorrida)   
 **Responsável**: [Attila Monteiro de Abreu](https://www.linkedin.com/in/attilamec)  
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
+
 **Equipe**:  
-- Mentores: [Daniel Moura](https://www.linkedin.com/in/danielmouradev) *(Mentor Front-end)* | [Paulo Pinheiro](https://www.linkedin.com/in/paru369/) *(Mentor Quality Assurance)*  
-- Agil: [Hédpo Silva De Paula](https://www.linkedin.com/in/hedpodepaula/)    
-- Product Manager: [Guilherme Ganhito](https://www.linkedin.com/in/guilhermeganhito/)    
-- UX: [Rafael Claudino](https://www.linkedin.com/in/faelux/) | [Douglas Pereira](https://linkedin.com/in/douglaspereira4) | [Wilian Nascimento da Silva](https://www.linkedin.com/in/wiliandev/)    
-- QA: [Julissy Tocachelo](https://www.linkedin.com/in/julissytocachelo/)   
-- Backend: [Attila M. de Abreu](https://www.linkedin.com/in/attilamec) | [Daniel Matuoka Kobayashi](https://www.linkedin.com/in/danielmatuoka) | [Vinícius Grandi](https://www.linkedin.com/in/vinicius-grandi/)  
-- Frontend: [Bruno Dias](https://www.linkedin.com/in/bdiasanalistadetecnologia/) | [Myllena M.](https://www.linkedin.com/in/myllenametzker/) | [Fernanda Lima Kagami](https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/)   
-- Data: [Suelytohm Oliveira](https://www.linkedin.com/in/suelytohm-oliveira-057a32a9/)   
-- Mobile: [Manoel Iranilson Vieira](https://www.linkedin.com/in/manoeliranilson/)  
+- Mentores: [Daniel Moura](https://www.linkedin.com/in/danielmouradev) *(Mentor Front-end)* | [Paulo Pinheiro](https://www.linkedin.com/in/paru369/) *(Mentor Quality Assurance)* 
+- Agil: [Hédpo Silva De Paula](https://www.linkedin.com/in/hedpodepaula/) 
+- Product Manager: [Guilherme Ganhito](https://www.linkedin.com/in/guilhermeganhito/) 
+- UX: [Rafael Claudino](https://www.linkedin.com/in/faelux/) | [Douglas Pereira](https://linkedin.com/in/douglaspereira4) | [Wilian Nascimento da Silva](https://www.linkedin.com/in/wiliandev/) 
+- QA: [Julissy Tocachelo](https://www.linkedin.com/in/julissytocachelo/) 
+- Backend: [Attila M. de Abreu](https://www.linkedin.com/in/attilamec) | [Daniel Matuoka Kobayashi](https://www.linkedin.com/in/danielmatuoka) | [Rafael Moraes](https://www.linkedin.com/in/rafaelmoraes03/) 
+- Frontend: [Bruno Dias](https://www.linkedin.com/in/bdiasanalistadetecnologia/) | [Camila .](https://www.linkedin.com/in/camila-rizzi/) | [Ana Leticia D.](https://www.linkedin.com/in/analeeos/)
 
 <hr/>
 
@@ -125,6 +128,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Repositório**: [Findy](https://github.com/Findy-U)  
 **Responsável**: [Vitor Matias](https://www.linkedin.com/in/vitormatiasf/)  
 **Descrição do projeto**: Aplicação para conectar candidatos juniores a empresas recrutadoras de forma eficiente e inovadora proporcionando uma transição suave para o mercado de trabalho. Nossa prioridade é desenvolver um produto com propósito, que possa ser usado como uma ferramenta real para auxiliar os candidatos juniores na busca por emprego e as empresas na busca pelos melhores candidatos.   
+
 **Equipe**:  
 - Stakeholder: [Leandro Bertolose](https://www.linkedin.com/in/leandro-bertolose/)  
 - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)  
@@ -137,7 +141,8 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 
 <hr/>
 
-## 07. Cartão Fidelidade Digital   
+## 07. Cartão Fidelidade Digital  
+**Repositório**: [Cartão Fidelidade Digital](https://github.com/cartao-fidelidade-digital)  
 **Responsável**: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5/)  
 **Descrição do projeto**: O aplicativo (PWA) será um cartão de fidelidade digital, ou seja, várias lojas podem se cadastrar e dar pontos ou criar regras de pontuação para o clientes. Sendo assim, o cliente terá acesso no aplicativo e poderá verificar quais lojas e quantos pontos tem, até mesmo ver a quantidade de pontos que falta para ganhar algum prêmio ou desconto da loja.
 
@@ -146,14 +151,13 @@ Sendo assim, o sistema terá 2 visões, a visão da Loja, Restaurante, Bar e Etc
 A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuação.
 
 **Equipe**:  
-- Stakeholder: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5/)</a>  
-- Mentores:   
-- Product Manager:  
-- Agilista:  
-- QA:  
-- UX/UI:  
-- Frontend:  
-- Backend:
+- Stakeholder: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5/) 
+- Product Manager: [Arisangela Rosas](https://www.linkedin.com/in/arisângela-blanco-rosas-125b09186) | [Rubia Macedo](https://www.linkedin.com/in/rubia-macedo) 
+- Agilista: [Josiele Ferreira](https://www.linkedin.com/in/josiele-ferreira-90686a1b2/) 
+- QA: [Lucas Brito](https://www.linkedin.com/in/lucasdebritonunes/) 
+- UX/UI: [Maria Eduarda](https://www.linkedin.com/in/maria-eduarda-gimenes/) | [Jhosselin Vieira](https://www.linkedin.com/in/jhosselin-vieira-3643297b) | [Guyllian Sasano](https://www.linkedin.com/in/guyllian-sasano/) 
+- Frontend: [Gabriel Almeida](https://www.linkedin.com/in/gabriel-almeida-gamas/) | [Lucas Pereira](https://www.linkedin.com/in/lucas-pereira-877a05252) 
+- Backend: [Paulo Érico de Oliveira](https://www.linkedin.com/in/paulo-webdev/) | [João Igor Oliveira](https://www.linkedin.com/in/joao-igor-oli/)
 <hr/>
 
 ## 08. Animania
@@ -195,6 +199,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 ## 10. Terapia em Foco
 **Responsável**: [Haline Dias](https://www.linkedin.com/in/haline-dias)  
 **Descrição do projeto**:A proposta é permitir unir pessoas que procuram terapia online a psicólogos que precisam preencher seus horários de atendimento. Além de permitir esse contato, o app deve ter uma permissão para o usuário acompanhar seus medicamentos (em caso de uso) e registrar seus pensamentos do dia (diário das emoções). Já o psicólogo deve ter acesso a um cadastro de pacientes e seus relatórios de atendimentos (privado).  
+
 **Equipe**: 
 - Product Manager: [Haline Dias](https://www.linkedin.com/in/haline-dias)  
 
@@ -210,19 +215,19 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 <hr/>
 
 ## 12. Anota Aí
-**Responsável**: [Max Aguiar](https://br.linkedin.com/in/devaguiar)  
 **Descrição do projeto**: Uma plataforma para anotações, focada no estudo. Sendo possível registrar a fonte dos estudos, tipo de conteúdo, progresso, notas importantes, etc.
 Servindo de portal para que o usuário, através da plataforma, pudesse se organizar e se engajar mais em seus estudos.  
 
 **Equipe**:  
-- Mentor: A definir   
-- Agilista: [Tatiana Rosa](https://www.linkedin.com/in/tatiana-rosa-cuimar)  
-- Product Manager: [Guilherme Pierre](https://www.linkedin.com/in/guilhermepierre/)  
-- Quality Assurance: [Danielle Oliveira](https://www.linkedin.com/in/danielle-oliveira-96a6a5131/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)   
-- UI/UX: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5) | [Thais]()  
-- Front-End: [Jeverson Mozer](https://www.linkedin.com/in/jeversonmozer/) | [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)  
-- Back-end: [Max Aguiar](https://br.linkedin.com/in/devaguiar) | [Johab Vinicius](https://www.linkedin.com/in/johab-vinicius/)  
-- Mobile: [Rafael Arantes](https://www.linkedin.com/in/rafael-arantes-06a6325b/) | [Thiago Sousa](https://www.linkedin.com/in/thiagosousa-js/)
+- Responsável: 
+- Mentor:   
+- Agilista: 
+- Product Manager:
+- Quality Assurance: 
+- UI/UX:
+- Front-End:
+- Back-end: 
+- Mobile:
 <hr/>
 
 ## 13. Neuro Kids
@@ -300,31 +305,31 @@ Um sistema de gestão focado no terceiro setor, automatizando seus processos de 
 As instituições sociais carecem de um sistema de gestão que o acompanhe desde sua abertura até sua ascensão. Como um diferencial no mercado, além de fornecer recursos gratuitos para instituições sociais que o auxiliam do início ao fim, teremos um sistema com uma centralização de dados sociais públicos, dados que são transparentes que podem ser utilizados para análises de dados sociais e territoriais, auxiliando todo o terceiro setor nas suas tomadas de decisões, suas projeções e futuras ações sociais. 
 
 **Equipe** 
-- Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)
-- Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
-- Agilista: [Rodrigo Melão](https://www.linkedin.com/in/rodrigo-mel%C3%A3o-75506951/)
-- DevOps: [Daniel Tormin](https://www.linkedin.com/in/daniel-tormin-2a91b2173) | [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/)
-- Data: [Leandro Lopes](https://www.linkedin.com/in/leandrolopes86/) | [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) 
-- UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
-- FrontEnd: [Bruno Brito](https://www.linkedin.com/in/brunos-brito/) | [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/)
-- Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/)
-
+ - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)
+ - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
+ - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
+ - DevOps: [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/)
+ - Data: [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) 
+ - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
+ - FrontEnd: [Bruno Brito](https://www.linkedin.com/in/brunos-brito/) | [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/)
+ - Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/)
 
 <hr/>
 
 ## 18. Care4You
-**Repositório**: [Care4You]("https://github.com/Care-4U")
-**Responsável**: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
-**Descrição do projeto**: O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e profissionais de saúde. Como intermediador, pretendemos agilizar o processo de procura e torná-lo mais fácil tanto para o usuário quanto para o profissional. Focaremos em três tipos de profissionais: nutricionista, psicólogo e educador físico. Além da conexão entre profissional e usuário, também focaremos em ferramentas para agilizar o trabalho do profissional, como cadastro de exercícios, rotina de alimentação, etc.
+**Repositório**:  [Care4You](https://github.com/care4you)  
+**Responsável**: [Samuel Carvalho](https://www.linkedin.com/in/samuel-silva-de-carvalho/)  
+**Descrição do projeto**:
+O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e profissionais de saúde. Como intermediador, pretendemos agilizar o processo de procura e torná-lo mais fácil tanto para o usuário quanto para o profissional. Focaremos em três tipos de profissionais: nutricionista, psicólogo e educador físico. Além da conexão entre profissional e usuário, também focaremos em ferramentas para agilizar o trabalho do profissional, como cadastro de exercícios, rotina de alimentação, etc.
 
 **Equipe**:  
-- Frontend: [Jonathan](https://www.linkedin.com/in/jonathan-lucas-dos-santos) | [Samuel](https://www.linkedin.com/in/samuel-silva-de-carvalho/)
-- Backend: [Gabriel Dias](https://www.linkedin.com/in/gdsrj/)
-- UX/UI: [Gabriel Oliveira](https://www.linkedin.com/in/gabrieloliveiraaa/) | [Marcelo Sousa](https://www.linkedin.com/in/marcelo-sousa-7a844b254)
-- Mobile: [Thiago Rodrigues](https://www.linkedin.com/in/thiagorhrt/) | [Lucas Fillype](https://www.linkedin.com/in/lucasfillypeg/)
-- Product Manager: [Catarina Vivacqua](https://www.linkedin.com/in/catarinavivacqua)
-- Agilista: [Julia Nunes](https://www.linkedin.com/in/juliatnunes) | [Caique Fonseca](https://www.linkedin.com/in/caiquefonseca/)
-- QA: [Patricia Monteiro](https://www.linkedin.com/in/patricia-monteiro-carvalho) | [Rebeca Ponciano](https://www.linkedin.com/in/rebeca-ponciano)
+- Frontend: [Samuel](https://www.linkedin.com/in/samuel-silva-de-carvalho/) | [Jonathan](https://www.linkedin.com/in/jonathan-lucas-dos-santos) 
+- Backend: [Dyonata Machado](https://www.linkedin.com/in/dyonatamachado/) | [Matheus Fernandes](https://www.linkedin.com/in/matheus-fernandes-2a1595204/) 
+- UX/ UI: [Alynne Martins](https://www.linkedin.com/in/kerryalynnecmartins/) | [Wellington Soares](https://www.linkedin.com/in/wellington-soares-ux-ui-designer) 
+- Mobile: 
+- Product Manager: [Maíra Barcelos](https://www.linkedin.com/in/mairabarcelos/) 
+- Agilista: [Igor Calmon](https://www.linkedin.com/in/igor-calmon/) 
+- QA: [Vitória Barrocas](https://www.linkedin.com/in/vitoria-barrocas/) | [Murilo Ryan](https://www.linkedin.com/in/murilo-ryan-60969ab5)
 
 <hr/>
 
@@ -349,7 +354,7 @@ As instituições sociais carecem de um sistema de gestão que o acompanhe desde
 <hr/>
 
 ## 21. FoxClass
-**Responsável**: [João Miguel Salgues](https://www.linkedin.com/in/jsalgues/) 
+**Responsável**: [João Miguel Salgues](https://www.linkedin.com/in/jsalgues/)  
 **Descrição do projeto**: Criar uma plataforma EAD para uma comunidade fechada em que os membros poderão aprender sobre diversos temas.
 A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 
@@ -374,8 +379,8 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 **Descrição do projeto**: Spotistas é um projeto que visa fornecer aos usuários do Spotify uma maneira fácil e acessível de entender suas estatísticas de reprodução e dados de música. Com base na API do Spotify, nossa plataforma coleta informações sobre as músicas que você ouve, seus artistas favoritos, gêneros musicais e muito mais. Com esses dados, fornecemos a você uma visão geral de suas estatísticas de reprodução e comparativos com outras pessoas, permitindo que você explore suas músicas como nunca antes.  
 
 **Equipe**:  
-- Frontend: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/)  
-- Backend: [Natanael Silva](https://www.linkedin.com/in/natanaelsc/) | [Maria Clara Negrão](https://www.linkedin.com/in/maria-clara-negrao-dev/) | [Felipe Marinho](https://www.linkedin.com/in/felipe-marinho-bb951b1a3/)  
+- Frontend: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/) | [Bruno Sampaio](https://www.linkedin.com/in/brunosmp/)  
+- Backend: [Felipe Marinho](https://www.linkedin.com/in/felipe-marinho-bb951b1a3/)  
 - UX/ UI: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)   
 - Mentor: [Eduardo Victor Machado da Silva](https://www.linkedin.com/in/eduardo-victor-machado-da-silva-141835192/) 
     
@@ -383,8 +388,8 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 
 
 ## 24. TechRate
-**Repositório**: [Repositórios TehcRate](https://github.com/orgs/TechRate-Lab/repositories)
-**Responsável**: [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)
+**Repositório**: [Repositórios TehcRate](https://github.com/orgs/TechRate-Lab/repositories)  
+**Responsável**: [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)  
 **Descrição do projeto**: Plataforma para avaliação de empresas na área tech. Visando passar informações sobre stacks utilizadas, principais áreas de atuação, cultura da empresa, plano de carreira e informações relevantes para possíveis candidatos, com avaliações de funcionários.    
 
 **Equipe**:  
@@ -399,8 +404,9 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 <hr/>
 
 ## 25. Onde é o rolé
+**Repositório**: [OndeEORole](https://github.com/onde-e-o-role)  
 **Responsável**: [Gabriel Rodrigues](https://www.linkedin.com/in/gabriel-souza-776723177/)  
-**Descrição do projeto**: Aplicativo que auxilia a pessoa decidir para onde ela irá sair.
+**Descrição do projeto**: O aplicativo Onde é o rolê tem como objetivo auxiliar o usuário a decidir em qual local, seja bar, restaurante, shows e eventos ele poderá ir. Nós pretendemos entregar uma boa experiência ao usuário, através de, avaliações do local, indicação de transportes para chegar ao local escolhido, contato direto com o estabelecimento  e outras funcionalidades tudo dentro do aplicativo. Nosso público alvo são pessoas que acabaram de se mudar, pessoas que estão viajando, solteiros, casados, grupos de amigos e todos os que gostam de dar um rolê..
 
 **Equipe**:
 - Stakeholder: [Gabriel Rodrigues](https://www.linkedin.com/in/gabriel-souza-776723177/)
