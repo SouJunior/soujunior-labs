@@ -39,6 +39,7 @@
 **Repositório**: [Wizer Community](https://github.com/Wizer-Community)  
 **Responsável**: [Simeone Johnson](https://www.linkedin.com/in/simeone-johnson/)  
 **Descrição do projeto**: Somos uma plataforma de Streaming Educacional, com conteúdo de qualidade disponibilizado de forma gratuita. Unimos educação e tecnologia, para transformar a forma de aprendizagem, tornando simples e acessível a todos que querem aprender.  
+
 **Equipe**:  
 - Frontend: [Lucas Alves](https://www.linkedin.com/in/lucas-alves-476b281aa/)  |  [André Luiz](https://www.linkedin.com/in/andrelcnunes/) | [Antonio Candido](https://www.linkedin.com/in/antoniolmcandido/)  
 - Backend: [Simeone Johnson](https://www.linkedin.com/in/simeone-johnson/) | [Jessica Santana](https://www.linkedin.com/in/jessica-santana-developer/) | [Pedro Teles](https://www.linkedin.com/in/pedrohteles/)  
@@ -55,6 +56,7 @@
 **Repositório**:  [Video4Me](https://github.com/Video4Me)  
 **Responsável**: [Davi Kooji](https://www.linkedin.com/in/daviuezono/)  
 **Descrição do projeto**: Vamos criar uma plataforma que organiza vídeos por tag e categorias, criando assim um acervo de vídeos de fácil localização.
+
 **Equipe**:  
 - Stakeholder: [Wouerner Brandão](https://www.linkedin.com/in/wouerner/)
 - Product Manager: [Davi Kooji](https://www.linkedin.com/in/daviuezono/)
@@ -72,6 +74,7 @@
 **Repositório**: [Site Projetos Ativos](https://github.com/projetos-ativos-soujunior-lab)  
 **Responsável**: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/)  
 **Descrição do projeto**: Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade [Sou Júnior](https://www.soujunior.tech/). Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
+
 **Equipe**:  
 - Frontend: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/) | [Elton Campos](https://www.linkedin.com/in/eltonapcampos/)  
 - UX/ UI: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)   
@@ -86,6 +89,7 @@
 **Responsável**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)    
 **Descrição do projeto**: Desenvolvimento de um produto para registro de informações referentes aos nossos pets.
 Registrando informações relevantes como datas de vacinas, datas em que foi aplicado vermífugo com detalhes, histórico de compras de ração, integração com Google Agenda, etc.  
+
 **Equipe**:  
 - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)  
 - Stakeholder: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
@@ -108,6 +112,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Repositório**: [Controle de corrida](https://github.com/controledecorrida)   
 **Responsável**: [Attila Monteiro de Abreu](https://www.linkedin.com/in/attilamec)  
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
+
 **Equipe**:  
 - Mentores: [Daniel Moura](https://www.linkedin.com/in/danielmouradev) *(Mentor Front-end)* | [Paulo Pinheiro](https://www.linkedin.com/in/paru369/) *(Mentor Quality Assurance)* 
 - Agil: [Hédpo Silva De Paula](https://www.linkedin.com/in/hedpodepaula/) 
@@ -123,6 +128,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Repositório**: [Findy](https://github.com/Findy-U)  
 **Responsável**: [Vitor Matias](https://www.linkedin.com/in/vitormatiasf/)  
 **Descrição do projeto**: Aplicação para conectar candidatos juniores a empresas recrutadoras de forma eficiente e inovadora proporcionando uma transição suave para o mercado de trabalho. Nossa prioridade é desenvolver um produto com propósito, que possa ser usado como uma ferramenta real para auxiliar os candidatos juniores na busca por emprego e as empresas na busca pelos melhores candidatos.   
+
 **Equipe**:  
 - Stakeholder: [Leandro Bertolose](https://www.linkedin.com/in/leandro-bertolose/)  
 - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)  
@@ -193,6 +199,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 ## 10. Terapia em Foco
 **Responsável**: [Haline Dias](https://www.linkedin.com/in/haline-dias)  
 **Descrição do projeto**:A proposta é permitir unir pessoas que procuram terapia online a psicólogos que precisam preencher seus horários de atendimento. Além de permitir esse contato, o app deve ter uma permissão para o usuário acompanhar seus medicamentos (em caso de uso) e registrar seus pensamentos do dia (diário das emoções). Já o psicólogo deve ter acesso a um cadastro de pacientes e seus relatórios de atendimentos (privado).  
+
 **Equipe**: 
 - Product Manager: [Haline Dias](https://www.linkedin.com/in/haline-dias)  
 
