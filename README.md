@@ -398,6 +398,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 
 ## 25. Onde é o rolé
 **Repositório**: [OndeEORole](https://github.com/onde-e-o-role)  
+**Responsável**: [Gabriel Rodrigues](https://www.linkedin.com/in/gabriel-souza-776723177/)
 **Descrição do projeto**: O aplicativo Onde é o rolê tem como objetivo auxiliar o usuário a decidir em qual local, seja bar, restaurante, shows e eventos ele poderá ir. Nós pretendemos entregar uma boa experiência ao usuário, através de, avaliações do local, indicação de transportes para chegar ao local escolhido, contato direto com o estabelecimento  e outras funcionalidades tudo dentro do aplicativo. Nosso público alvo são pessoas que acabaram de se mudar, pessoas que estão viajando, solteiros, casados, grupos de amigos e todos os que gostam de dar um rolê..
 
 **Equipe**:
