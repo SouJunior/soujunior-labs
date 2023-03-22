@@ -19,7 +19,7 @@
 -  [Terapia em Foco](#10-terapia-em-foco)
 -  [Comparador de Preços](#11-comparador-de-preços)
 -  [Anota Aí](#12-anota-aí)
--  [Neuro Kids](#13-neuro-kids)
+-  [LoryBlu](#13-loryBlu)
 -  [Connect Tattoo](#14-connectattoo)
 -  [JobJR](#15-jobjr)
 -  [Routinely](#16-routinely)
@@ -230,21 +230,21 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
 - Mobile:
 <hr/>
 
-## 13. Neuro Kids
-**Repositório**: [Organização Neuro Kids](https://github.com/neuro-kids)  
+## 13. LoryBlu
+**Repositório**: [Organização LoryBlu](https://github.com/loryblu)  
 **Responsável**: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota)  
-**Descrição do projeto**: Aplicativo (com potencial para desktop) para crianças na primeira infância (Até 6 anos. O que não implica excluir crianças até os 11 anos), para ajudar no desenvolvimento neuro cognitivo de forma complementar a agenda de atividades (escola, terapia, psicoterapia, etc.). A ideia é que a plataforma seja bem interativa com músicas, histórias e atividades. O "Neuro Kids" pode ser um parceiro dos pais nos momentos de ociosidade e ansiedade dessas crianças. É um estímulo extra ao que eles já são submetidos para ajudar no desenvolvimento.  
+**Descrição do projeto**: Aplicativo (com potencial para desktop) para crianças na primeira infância (Até 6 anos. O que não implica excluir crianças até os 11 anos), para ajudar no desenvolvimento neuro cognitivo de forma complementar a agenda de atividades (escola, terapia, psicoterapia, etc.). A ideia é que a plataforma seja bem interativa com músicas, histórias e atividades. O "LoryBlu" pode ser um parceiro dos pais nos momentos de ociosidade e ansiedade dessas crianças. É um estímulo extra ao que eles já são submetidos para ajudar no desenvolvimento.  
 
 **Equipe**:  
 - Stakeholder: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota)  
 - Head de Produtos: [Vânessa Santana](https://www.linkedin.com/in/vanessa-patricia/)  
-- Agilista: [Juliano Bessa](https://www.linkedin.com/in/julianobessa/)   
-- Product Manager: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota/) e [Fê Oliveira](https://www.linkedin.com/in/eufeoliveira/)  
-- Frontend: [Renato Lacerda](https://www.linkedin.com/in/renato-ac-lacerda) e [Nicholas Pinheiro](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
-- Backend: [Jefferson Ricardo](https://www.linkedin.com/in/jricardo10/) e [Rodrigo Alencar](https://www.linkedin.com/in/rodrigo-s-alencar/)    
-- Mobile: [Suelen Cristina](https://www.linkedin.com/in/suelen-cristina-vaz-9527b8229/) e [Paulo Vitor](https://www.linkedin.com/in/paulo-vitor-de-oliveira-fonseca-659aa31bb/)  
-- QA : [Janaína Andrade](https://www.linkedin.com/in/janaina-andrade/) e [Laiza Schumaker](https://www.linkedin.com/in/laizaschumaker)  
-- UX: [Marcelo José](https://www.linkedin.com/in/marcelojos%C3%A9/), [Thais Medeiros](https://www.linkedin.com/in/thais-silva-7ab630186/) e [Nicole Bueno](https://www.linkedin.com/in/nicolebuen/)  
+- Agilista: [Carla Krause](https://www.linkedin.com/in/carlakrause07/)  
+- Product Manager: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota/) | [Fê Oliveira](https://www.linkedin.com/in/eufeoliveira/)  
+- Frontend: [Renato Lacerda](https://www.linkedin.com/in/renato-ac-lacerda) | [Nicholas Pinheiro](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
+- Backend: [Jefferson Ricardo](https://www.linkedin.com/in/jricardo10/) | [Rodrigo Alencar](https://www.linkedin.com/in/rodrigo-s-alencar/)    
+- Mobile: [Suelen Cristina](https://www.linkedin.com/in/suelen-cristina-vaz-9527b8229/) | [Paulo Vitor](https://www.linkedin.com/in/paulo-vitor-de-oliveira-fonseca-659aa31bb/)  
+- QA : [Janaína Andrade](https://www.linkedin.com/in/janaina-andrade/) | [Laiza Schumaker](https://www.linkedin.com/in/laizaschumaker)  
+- UX: [Marcelo José](https://www.linkedin.com/in/marcelojos%C3%A9/) | [Thais Medeiros](https://www.linkedin.com/in/thais-silva-7ab630186/) | [Naiara Antunes](https://www.linkedin.com/in/naiara-antunes-82a341190/)
 
 <hr/>
 
