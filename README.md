@@ -350,7 +350,12 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 
 **Equipe**:  
 - Stakeholder: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) 
-   
+- PM: [Fernanda Oliveira](https://www.linkedin.com/in/eufeoliveira) | [Igor Mello](https://www.linkedin.com/in/igor-revelles-mello/)
+- Ágil: [Gesane Carolina](https://www.linkedin.com/in/gesane-caroline) | [Sandra Loiola](https://www.linkedin.com/in/sandrasloiola/)
+- UX: [Camila Rizzi](https://www.linkedin.com/in/camila-rizzi) | [Victor vasconcelos](https://www.linkedin.com/in/victor-vasconcelos-3970191b5/)
+- Backend: [Luis carlos](https://www.linkedin.com/in/luiscroxis) | [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Jeverson Mozer](https://www.linkedin.com/in/jeversonmozer)
+- Frontend: [Thiago Dorville](https://www.linkedin.com/in/thiago-dorville) | [Alysson Chiarelly](https://www.linkedin.com/in/alysson-chiarelly/) | [Gabriel Oliveira](https://www.linkedin.com/in/gabrielviol/)
+- QA: [Rafael Cavalcante](https://www.linkedin.com/in/rafael-qa) | [Lucas Rocon](https://www.linkedin.com/in/lucas-rocon/)
 <hr/>
 
 ## 21. FoxClass
