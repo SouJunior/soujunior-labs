@@ -219,9 +219,9 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 ## 12. Anota Aí
  
 **Repositório**: [Anota Aí](https://github.com/Anota-Ai-2) 
-**Responsável: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)
-**Descrição do projeto**: Anota Aí é uma plataforma de anotações focada em estudos, que permite aos usuários registrar suas fontes de estudos, progresso, notas importantes e outras informações relevantes. Com o objetivo de ajudar o usuário a se organizar e se engajar mais em seus estudos, a plataforma oferece recursos personalizados para categorizar, organizar e localizar suas anotações facilmente. Compartilhe suas anotações com outros usuários e integre a plataforma com outras ferramentas de estudo. O nome "Anota Aí" reflete a praticidade e simplicidade da plataforma para o registro de anotações.
-Servindo de portal para que o usuário, através da plataforma, pudesse se organizar e se engajar mais em seus estudos. 
+**Responsável**: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)
+**Descrição do projeto**: Anota Aí é uma plataforma de anotações focada em estudos, que permite aos usuários registrar suas fontes de estudos, progresso, notas importantes e outras informações relevantes. Com o objetivo de ajudar o usuário a se organizar e se engajar mais em seus estudos, a plataforma oferece recursos personalizados para categorizar, organizar e localizar suas anotações facilmente.
+
 **Equipe**:  
 
     - Mentor:   
