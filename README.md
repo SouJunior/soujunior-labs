@@ -225,7 +225,7 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
 **Equipe**:  
 - Responsável: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)
     - Mentor:   
-    - Agilista: [Vanderlei Cruz](www.linkedin.com/in/vanderlei--cruz) | [Ana Paula Maldonado] (www.linkedin.com/in/anap-maldonado) 
+    - Agilista: [Vanderlei Cruz](www.linkedin.com/in/vanderlei--cruz) | [Ana Paula Maldonado](www.linkedin.com/in/anap-maldonado) 
     - Product Manager: 
     - Quality Assurance: [Junior Pereira](www.linkedin.com/in/junior-pereira) 
     - UI/UX: 
