@@ -217,19 +217,18 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 <hr/>
 
 ## 12. Anota Aí
-**Descrição do projeto**: Uma plataforma para anotações, focada no estudo. Sendo possível registrar a fonte dos estudos, tipo de conteúdo, progresso, notas importantes, etc.
-Servindo de portal para que o usuário, através da plataforma, pudesse se organizar e se engajar mais em seus estudos.  
+**Repositório**: [Organização Anota Aí](https://github.com/Anota-Ai-2)  
+**Responsável**: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)  
+**Descrição do projeto**: Anota Aí é uma plataforma de anotações focada em estudos, que permite aos usuários registrar suas fontes de estudos, progresso, notas importantes e outras informações relevantes. Com o objetivo de ajudar o usuário a se organizar e se engajar mais em seus estudos, a plataforma oferece recursos personalizados para categorizar, organizar e localizar suas anotações facilmente.  
 
-**Equipe**:  
-- Responsável: 
-- Mentor:   
-- Agilista: 
-- Product Manager:
-- Quality Assurance: 
-- UI/UX:
-- Front-End:
-- Back-end: 
-- Mobile:
+**Equipe**:    
+- Agilista: [Vanderlei Cruz](https://www.linkedin.com/in/vanderlei--cruz/)  | [Ana Paula Maldonado](https://www.linkedin.com/in/anap-maldonado/) 
+- Product Manager: 
+- Frontend: [Ítalo Araújo](https://www.linkedin.com/in/italoaraujodev/) | [Bruno Mateus](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
+- Backend: [Gustavo Fukuda](https://www.linkedin.com/in/gustavo-fukuda-791423a8/) | [Inocêncio Cordeiro](https://www.linkedin.com/in/inocencio-cordeiro/)    
+- Mobile: 
+- QA : [Junior Pereira](https://www.linkedin.com/in/junior-pereira/) 
+- UX: [Kleiton Gomes](https://www.linkedin.com/in/kleists/) 
 <hr/>
 
 ## 13. LoryBlu
