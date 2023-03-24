@@ -216,22 +216,19 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 
 <hr/>
 
-## 12. Anota Aí
- 
-**Repositório**: [Anota Aí](https://github.com/Anota-Ai-2) 
-**Responsável**: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)
-**Descrição do projeto**: Anota Aí é uma plataforma de anotações focada em estudos, que permite aos usuários registrar suas fontes de estudos, progresso, notas importantes e outras informações relevantes. Com o objetivo de ajudar o usuário a se organizar e se engajar mais em seus estudos, a plataforma oferece recursos personalizados para categorizar, organizar e localizar suas anotações facilmente.
+## 13. Anota Aí
+**Repositório**: [Organização Anota Aí](https://github.com/Anota-Ai-2)  
+**Responsável**: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)  
+**Descrição do projeto**: Anota Aí é uma plataforma de anotações focada em estudos, que permite aos usuários registrar suas fontes de estudos, progresso, notas importantes e outras informações relevantes. Com o objetivo de ajudar o usuário a se organizar e se engajar mais em seus estudos, a plataforma oferece recursos personalizados para categorizar, organizar e localizar suas anotações facilmente.  
 
-**Equipe**:  
-
-    - Mentor:   
-    - Agilista: [Vanderlei Cruz](www.linkedin.com/in/vanderlei--cruz) | [Ana Paula Maldonado](www.linkedin.com/in/anap-maldonado) 
-    - Product Manager: 
-    - Quality Assurance: [Junior Pereira](www.linkedin.com/in/junior-pereira) 
-    - UI/UX: 
-    - Front-End: [Ítalo Araújo](www.linkedin.com/in/italoaraujodev)  | [Bruno Mateus](www.linkedin.com/in/bruno-mateus-1215281a7)
-    - Back-end: [Gustavo Fukuda](https://www.linkedin.com/in/gustavo-fukuda-791423a8)  | [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro) 
-    - Mobile:
+**Equipe**:    
+- Agilista: [Vanderlei Cruz](https://www.linkedin.com/in/vanderlei--cruz/)  | [Ana Paula Maldonado](https://www.linkedin.com/in/anap-maldonado/) 
+- Product Manager: 
+- Frontend: [Ítalo Araújo](https://www.linkedin.com/in/italoaraujodev/) | [Bruno Mateus](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
+- Backend: [Gustavo Fukuda](https://www.linkedin.com/in/gustavo-fukuda-791423a8/) | [Inocêncio Cordeiro](https://www.linkedin.com/in/inocencio-cordeiro/)    
+- Mobile: 
+- QA : [Junior Pereira](https://www.linkedin.com/in/junior-pereira/) 
+- UX: 
 <hr/>
 
 ## 13. LoryBlu
