@@ -228,7 +228,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 - Backend: [Gustavo Fukuda](https://www.linkedin.com/in/gustavo-fukuda-791423a8/) | [Inocêncio Cordeiro](https://www.linkedin.com/in/inocencio-cordeiro/)    
 - Mobile: 
 - QA : [Junior Pereira](https://www.linkedin.com/in/junior-pereira/) 
-- UX: 
+- UX: [Kleiton Gomes](https://www.linkedin.com/in/kleists/) 
 <hr/>
 
 ## 13. LoryBlu
