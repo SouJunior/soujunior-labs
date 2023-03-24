@@ -257,15 +257,16 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
 O Connectattoo será um hub para localizar um tatuador através de filtros como Cidade, gênero ou linha de trabalho (old school, pontilhismo, minimalismo, etc.). Desta forma, o cliente terá acesso a diversos profissionais, fotos dos seus trabalhos e avaliações para fazer a melhor escolha.  
 
 **Equipe**:  
-- Mentor: [Marcos Paranhos](https://www.linkedin.com/in/marcosparanhos/)  
 - Stakeholder: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota)  
 - Agilista: [Vanessa Correia](https://www.linkedin.com/in/vanessa-correia-570198147)  
 - Product Manager: [Alessandro Oliveira](https://www.linkedin.com/in/alessandroos1/)  
+- Tech Lead: [Matheus C.](https://www.linkedin.com/in/matheus-c-4b2aa6213/)  
 - Frontend: [Matheus C.](https://www.linkedin.com/in/matheus-c-4b2aa6213/) | [Erikles Costa](https://www.linkedin.com/in/geyzoncosta/)  
 - Backend: [Mário Cesar](https://www.linkedin.com/in/dev-mario-cesar/) | [Natanael Silva](https://www.linkedin.com/in/natanaelsc/)  
 - Mobile: [Leo Martins](https://www.linkedin.com/in/leonardo-martins-developer/) | [Eliabe Silva](https://www.linkedin.com/in/eliabecruzsilva/) | [Vitor Rafael ](https://www.linkedin.com/in/vitor-rafaelk1/)  
 - QA: [Thamiris Arruda](http://www.linkedin.com/in/thamirisarruda)  
-- UX: [Marcell Herrera](https://br.linkedin.com/in/marcell-herrera-4568b925a) | [Hellen Freitas](https://www.linkedin.com/in/hellen-nunes-6a5580150/)  
+- Mentor UX: [Marcos Paranhos](https://www.linkedin.com/in/marcosparanhos/)  
+- UX: [Marcell Herrera](https://br.linkedin.com/in/marcell-herrera-4568b925a) | [Matheus C.](https://www.linkedin.com/in/matheus-c-4b2aa6213/)  
 
 <hr/>
 
