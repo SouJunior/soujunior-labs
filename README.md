@@ -269,16 +269,16 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 <hr/>
 
 ## 15. JobJR
-**Responsável**: [Felipe Morais Javarez](https://www.linkedin.com/in/felipe-morais-javarez/)  
+**Responsável**: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
 **Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas.  
 
 **Equipe**:
-- Stakeholder: [Felipe Morais Javarez](https://www.linkedin.com/in/felipe-morais-javarez/)  
-- Agilista: [Felipe Morais Javarez](https://www.linkedin.com/in/felipe-morais-javarez/)  
-- Frontend: [Pedro Rodrigues](https://www.linkedin.com/in/pedrohrs/)  
-- Backend: [Luciano da Silva](https://www.linkedin.com/in/lucianodasilvamartins)  
-- UX: [Gabriela Santos](https://www.linkedin.com/in/gabriela-santos-31ab111b2/)  
-- Product Manager: [Júlia Cardoso](https://www.linkedin.com/in/juliacardozo/)  
+- Stakeholder: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
+- Agilista: []()  
+- Backend: [Max dos Santos Aguiar](https://www.linkedin.com/in/devaguiar/)
+- Backend: []()  
+- UX: []()  
+- Product Manager: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
 
 <hr/>
 
