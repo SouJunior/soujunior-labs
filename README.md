@@ -223,14 +223,14 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
 **Repositório**: [Anota Aí](https://github.com/Anota-Ai-2)  
 
 **Equipe**:  
-- Responsável: [Inocêncio Cordeiro] (www.linkedin.com/in/inocencio-cordeiro/)
+- Responsável: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)
     - Mentor:   
-    - Agilista: [Vanderlei Cruz] (www.linkedin.com/in/vanderlei--cruz/) | [Ana Paula Maldonado] (www.linkedin.com/in/anap-maldonado/) 
+    - Agilista: [Vanderlei Cruz](www.linkedin.com/in/vanderlei--cruz) | [Ana Paula Maldonado] (www.linkedin.com/in/anap-maldonado) 
     - Product Manager: 
-    - Quality Assurance: [Junior Pereira] (www.linkedin.com/in/junior-pereira) 
+    - Quality Assurance: [Junior Pereira](www.linkedin.com/in/junior-pereira) 
     - UI/UX: 
-    - Front-End: [Ítalo Araújo] (www.linkedin.com/in/italoaraujodev/)  | [Bruno Mateus] (www.linkedin.com/in/bruno-mateus-1215281a7/)
-    - Back-end: [Gustavo Fukuda] (https://www.linkedin.com/in/gustavo-fukuda-791423a8)  | [Inocêncio Cordeiro] (www.linkedin.com/in/inocencio-cordeiro/) 
+    - Front-End: [Ítalo Araújo](www.linkedin.com/in/italoaraujodev)  | [Bruno Mateus](www.linkedin.com/in/bruno-mateus-1215281a7)
+    - Back-end: [Gustavo Fukuda](https://www.linkedin.com/in/gustavo-fukuda-791423a8)  | [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro) 
     - Mobile:
 <hr/>
 
