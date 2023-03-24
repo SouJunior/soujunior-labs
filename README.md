@@ -227,7 +227,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 - Frontend: [Ítalo Araújo](https://www.linkedin.com/in/italoaraujodev/) | [Bruno Mateus](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
 - Backend: [Gustavo Fukuda](https://www.linkedin.com/in/gustavo-fukuda-791423a8/) | [Inocêncio Cordeiro](https://www.linkedin.com/in/inocencio-cordeiro/)    
 - Mobile: 
-- QA : [Junior Pereira](https://www.linkedin.com/in/junior-pereira/) 
+- QA : [Junior Pereira](https://www.linkedin.com/in/junior-pereira/) | [Ana Simão](https://www.linkedin.com/in/anasimao93/)
 - UX: [Kleiton Gomes](https://www.linkedin.com/in/kleists/) 
 <hr/>
 
