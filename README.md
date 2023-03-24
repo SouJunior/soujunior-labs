@@ -221,15 +221,15 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 Servindo de portal para que o usuário, através da plataforma, pudesse se organizar e se engajar mais em seus estudos.  
 
 **Equipe**:  
-- Responsável: 
-- Mentor:   
-- Agilista: 
-- Product Manager:
-- Quality Assurance: 
-- UI/UX:
-- Front-End:
-- Back-end: 
-- Mobile:
+- Responsável: <a target="_blank" href="https://www.linkedin.com/in/inocencio-cordeiro/">Inocêncio Cordeiro</a> <br>
+    - Mentor:   <br>
+    - Agilista:<a target="_blank" href="https://www.linkedin.com/in/vanderlei--cruz/">Vanderlei Cruz</a> | <a target="_blank" href="https://www.linkedin.com/in/anap-maldonado/">Ana Paula Maldonado</a> <br>
+    - Product Manager: <br>
+    - Quality Assurance: <a target="_blank" href="https://www.linkedin.com/in/junior-pereira">Junior Pereira</a> <br>
+    - UI/UX: <br>
+    - Front-End: <a target="_blank" href="https://www.linkedin.com/in/italoaraujodev/">Ítalo Araújo</a> | <a target="_blank" href="https://www.linkedin.com/in/bruno-mateus-1215281a7/">Bruno Mateus</a> <br>
+    - Back-end: <a target="_blank" href="https://www.linkedin.com/in/gustavo-fukuda-791423a8/">Gustavo Fukuda</a> | <a target="_blank" href="https://www.linkedin.com/in/inocencio-cordeiro/">Inocêncio Cordeiro</a> <br>
+    - Mobile:
 <hr/>
 
 ## 13. LoryBlu
