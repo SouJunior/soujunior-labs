@@ -269,7 +269,8 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 
 <hr/>
 
-## 15. JobJR
+## 15. JobJR  
+**Repositório**: [JobJr](https://github.com/job-jr-sjl/job-jr)  
 **Responsável**: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
 **Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas.  
 
