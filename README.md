@@ -198,7 +198,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 <hr/>
 
 ## 10. Terapia em Foco
-**Repositório**: [Terapia em Foco]((https://github.com/terapiaemfoco))  
+**Repositório**: [Terapia em Foco](https://github.com/terapiaemfoco) 
 **Responsável**: [Haline Dias](https://www.linkedin.com/in/haline-dias)  
 **Descrição do projeto**:A proposta é permitir unir pessoas que procuram terapia online a psicólogos que precisam preencher seus horários de atendimento. Além de permitir esse contato, o app deve ter uma permissão para o usuário acompanhar seus medicamentos (em caso de uso) e registrar seus pensamentos do dia (diário das emoções). Já o psicólogo deve ter acesso a um cadastro de pacientes e seus relatórios de atendimentos (privado).  
 
