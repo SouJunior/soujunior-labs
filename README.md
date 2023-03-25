@@ -372,12 +372,17 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 
 ## 22. Studyn'ON: 
 **Repositório**: [Organização Studyn'ON](https://github.com/orgs/StudynON/repositories)  
-**Responsável**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
+**Responsável**: [Lucas Nicolau](https://www.linkedin.com/in/lucasalvesnicolau)  
 **Descrição do projeto**: Aplicação para acompanhamento de estudos em diferentes plataformas.  
 
 **Equipe**:  
-- Stakeholder: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) 
+- Stakeholder: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Raquel Ribeiro](https://www.linkedin.com/in/raquelalribeiro)
+- Product Manager: [Lucas Nicolau](https://www.linkedin.com/in/lucasalvesnicolau)
 - UX: [Raquel Ribeiro](https://www.linkedin.com/in/raquelalribeiro)
+- Ágil: [Beatriz Ribeiro](https://www.linkedin.com/in/beatriz-ribeiroo) | [Nickolas Moura](https://www.linkedin.com/in/nickmoura/)
+- Backend: [Gustavo Parlandim](https://www.linkedin.com/in/gustavoparlandim/) | [Igor Oliveira](https://www.linkedin.com/in/igorbomfim27)
+- Frontend: [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3)
+- Mobile: [João Hitallo ](https://www.linkedin.com/in/joaohitallo)
     
 <hr/>
 
