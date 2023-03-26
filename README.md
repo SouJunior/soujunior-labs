@@ -25,9 +25,7 @@
 -  [Routinely](#16-routinely)
 -  [Social CRM](#17-social-crm)
 -  [Care4You](#18-care4you)
--  [Semente Embrião](#19-semente-embrião)
 -  [Bora Rachar](#20-bora-rachar)
--  [FoxClass](#21-foxclass)
 -  [Studyn'ON](#22-studynon)
 -  [Spotistas](#23-spotistas)
 -  [TechRate](#24-techrate)
@@ -336,16 +334,6 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 
 <hr/>
 
-## 19. Semente Embrião
-**Responsável**: Renata Machado    
-**Descrição do projeto**: Aplicativo e web para o gerenciamento das plantas da sua horta, desde a preparação do solo, adubação (Orgânica ou química), germinação, transplante, poda e dicas de venda. Se controlar todas essas variáveis de uma espécie é complicado, você imagine de N espécies diferentes.
-
-**Equipe**:  
-- Stakeholder: Renata Machado  
-- Product Manager: Renata Machado  
-   
-<hr/>
-
 ## 20. Bora Rachar
 **Repositório**: [Organização BoraRachar](https://github.com/orgs/BoraRachar/repositories)  
 **Responsável**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
@@ -359,15 +347,6 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 - Backend: [Luis carlos](https://www.linkedin.com/in/luiscroxis) | [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Jeverson Mozer](https://www.linkedin.com/in/jeversonmozer)
 - Frontend: [Thiago Dorville](https://www.linkedin.com/in/thiago-dorville) | [Alysson Chiarelly](https://www.linkedin.com/in/alysson-chiarelly/) | [Gabriel Oliveira](https://www.linkedin.com/in/gabrielviol/)
 - QA: [Rafael Cavalcante](https://www.linkedin.com/in/rafael-qa) | [Lucas Rocon](https://www.linkedin.com/in/lucas-rocon/)
-<hr/>
-
-## 21. FoxClass
-**Responsável**: [João Miguel Salgues](https://www.linkedin.com/in/jsalgues/)  
-**Descrição do projeto**: Criar uma plataforma EAD para uma comunidade fechada em que os membros poderão aprender sobre diversos temas.
-A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
-
-**Equipe**: 
-
 <hr/>
 
 ## 22. Studyn'ON: 
