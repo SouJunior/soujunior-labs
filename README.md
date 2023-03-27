@@ -126,17 +126,23 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 ## Findy    
 **Repositório**: [Findy](https://github.com/Findy-U)  
 **Responsável**: [Vitor Matias](https://www.linkedin.com/in/vitormatiasf/)  
-**Descrição do projeto**: Aplicação para conectar candidatos juniores a empresas recrutadoras de forma eficiente e inovadora proporcionando uma transição suave para o mercado de trabalho. Nossa prioridade é desenvolver um produto com propósito, que possa ser usado como uma ferramenta real para auxiliar os candidatos juniores na busca por emprego e as empresas na busca pelos melhores candidatos.   
+**Descrição do projeto**: A empresa visa transformar o aprendizado de profissionais de tecnologia com uma plataforma colaborativa e inovadora. Conecta aprendizes, líderes de projeto e voluntários, promovendo desenvolvimento prático e facilitando o recrutamento no mercado. Parcerias e integrações ampliam alcance e eficácia.
 
 **Equipe**:  
-- Stakeholder: [Leandro Bertolose](https://www.linkedin.com/in/leandro-bertolose/)  
-- Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)  
-- Product Manager: [Guilherme Davedovicz](https://www.linkedin.com/in/guilhermedvicz/)  
-- Agilista: a definir  
-- UX/UI: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/) | Pamela | [Débora Fonseca](https://www.linkedin.com/in/debora-fonseca/)     
-- Frontend: [Vitor Matias](https://www.linkedin.com/in/vitormatiasf/) | [Mario Lucas](https://www.linkedin.com/in/mariolucas00/)  
-- Backend: [Emerson Moreira](https://www.linkedin.com/in/emerson-moreira/) | Wilson Moura | Fernando D'luccas   
-- QA: [Laíne Andrade](https://www.linkedin.com/in/la%C3%ADne-andrade-b5538719b/) | [Tatiana Moura](https://www.linkedin.com/in/tatianamouracapel/)   
+- Business Owner/Product Discovery Manager: [Leandro Bertolose](https://www.linkedin.com/in/leandro-bertolose/)  
+- Head of Product: [Guilherme Davedovicz](https://www.linkedin.com/in/guilhermedvicz/)  
+- ProdOps Manager: [Rayssa Nones](https://www.linkedin.com/in/rayssanones/)  
+- Product Manager: Igor Bradley | Vanessa Lacerenza  
+- Agile Master: [Raquel Oliveira](https://www.linkedin.com/in/raquel-olliveira/)  
+- Agilista: [Marcela Cardoso](https://www.linkedin.com/in/marcela-gusm%C3%A3o-cardoso-5a8590164/) | [Raphael França](https://www.linkedin.com/in/raphafranca/)  
+- UX/UI: [Giovanna Helena Lopes](https://www.linkedin.com/in/giovanna-helena-40167a239/) | [Bruno Cidade Barros](https://www.linkedin.com/in/cidadebruno/) | [Ricardo Pellegrini](https://www.linkedin.com/in/ricardoluizpellegrini/) | [Vitor Hugo Barbosa dos Santos](https://www.linkedin.com/in/v%C3%ADtor-hugo-design/)  
+- UX Writer: [Julio Japiassu dos Santos](https://www.linkedin.com/in/j%C3%BAlio-japiass%C3%BA-r%C3%AAgo/)  
+- Ux Research: [Nicholas Uchôa](https://www.linkedin.com/in/nicholas-uch%C3%B4a-1556b41a/)  
+- Tech-Lead: [Mario Lucas](https://www.linkedin.com/in/mariolucas00/) | [Giovanni Marcatto](https://www.linkedin.com/in/gzmarcatto/) | [Natanael Silva](https://www.linkedin.com/in/natanaelsc)  
+- Frontend: [Vitor Matias](https://www.linkedin.com/in/vitormatiasf/) | [Darcio Carvalho](https://www.linkedin.com/in/darcio-nuno-carvalho/) | 
+[Gabriel Zaude](https://www.linkedin.com/in/gabriel-ramos-8558b6193/)
+- Backend: [Emerson Moreira](https://www.linkedin.com/in/emerson-moreira/) | Fernando D'luccas | Jéssica Helena Dias
+- QA: [Tatiana Moura](https://www.linkedin.com/in/tatianamouracapel/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)   
 
 <hr/>
 
