@@ -210,7 +210,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 **Descrição do projeto**: Desenvolver um aplicativo que pegue preços de hipermercados e os compare, retornando ao usuário o melhor local de compra e demais informações relevantes.  
 
 **Equipe**:  
-- QA: [Matheus Santos](https://br.linkedin.com/in/matheus-santos-1910101a0) | [Ligiane Basques]()
+- QA: [Matheus Santos](https://br.linkedin.com/in/matheus-santos-1910101a0) | [Ligiane Basques](https://www.linkedin.com/in/ligiane-basques/)
 - Mobile: [Demian](https://www.linkedin.com/in/patrick-xavier-esteves-151649184) | [Gomes](https://www.linkedin.com/in/gabriel-gomes-da-silva-43b2a3164)
 - Product Manager: [Carlos Erickson](https://www.linkedin.com/in/carlos-erickson-damasceno-5a392a118)
 
