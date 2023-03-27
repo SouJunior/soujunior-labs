@@ -99,7 +99,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 - UI: [Juliana Ribeiro](https://www.linkedin.com/in/julianarib/)
 - QA: [Lucas Medeiros](https://www.linkedin.com/in/lucas-medeiros-233328221) | [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino)  
 - Backend: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Júlio Masson](https://www.linkedin.com/in/juliomasson)  
-- Frontend: [Mateus Carvalho](https://www.linkedin.com/in/mateuscarvalhodev) | [Leonardo Teixeira](https://www.linkedin.com/in/leotx/)
+- Frontend: [Carol Andrade](https://www.linkedin.com/in/carolandrade1/) | [Leonardo Teixeira](https://www.linkedin.com/in/leotx/) | [Mateus Carvalho](https://www.linkedin.com/in/mateuscarvalhodev)
 - Mobile (Kotlin): [Gustavo Oliveira](https://www.linkedin.com/in/gusoliveira21) | [Leonardo Santos](https://www.linkedin.com/in/Leozinhozd)  
 - Mobile (Swift): [Daiane Gonçalves](https://www.linkedin.com/mwlite/in/daiane-gon%C3%A7alves-4a946b94) | [Marcylene Barreto](https://www.linkedin.com/in/marcylene-barreto)  
 
