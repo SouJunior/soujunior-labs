@@ -132,7 +132,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 - Business Owner/Product Discovery Manager: [Leandro Bertolose](https://www.linkedin.com/in/leandro-bertolose/)  
 - Head of Product: [Guilherme Davedovicz](https://www.linkedin.com/in/guilhermedvicz/)  
 - ProdOps Manager: [Rayssa Nones](https://www.linkedin.com/in/rayssanones/)  
-- Product Manager: Igor Bradley | Vanessa Lacerenza  
+- Product Manager: [Igor Bradley](https://www.linkedin.com/in/igorbradley/) | [Vanessa Lacerenza](https://www.linkedin.com/in/vanessa-l-ti/)  
 - Agile Master: [Raquel Oliveira](https://www.linkedin.com/in/raquel-olliveira/)  
 - Agilista: [Marcela Cardoso](https://www.linkedin.com/in/marcela-gusm%C3%A3o-cardoso-5a8590164/) | [Raphael França](https://www.linkedin.com/in/raphafranca/)  
 - UX/UI: [Giovanna Helena Lopes](https://www.linkedin.com/in/giovanna-helena-40167a239/) | [Bruno Cidade Barros](https://www.linkedin.com/in/cidadebruno/) | [Ricardo Pellegrini](https://www.linkedin.com/in/ricardoluizpellegrini/) | [Vitor Hugo Barbosa dos Santos](https://www.linkedin.com/in/v%C3%ADtor-hugo-design/)  
@@ -141,7 +141,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 - Tech-Lead: [Mario Lucas](https://www.linkedin.com/in/mariolucas00/) | [Giovanni Marcatto](https://www.linkedin.com/in/gzmarcatto/) | [Natanael Silva](https://www.linkedin.com/in/natanaelsc)  
 - Frontend: [Vitor Matias](https://www.linkedin.com/in/vitormatiasf/) | [Darcio Carvalho](https://www.linkedin.com/in/darcio-nuno-carvalho/) | 
 [Gabriel Zaude](https://www.linkedin.com/in/gabriel-ramos-8558b6193/)
-- Backend: [Emerson Moreira](https://www.linkedin.com/in/emerson-moreira/) | Fernando D'luccas | Jéssica Helena Dias
+- Backend: [Emerson Moreira](https://www.linkedin.com/in/emerson-moreira/) | [Fernando D'luccas](https://www.linkedin.com/in/fernandodluccas) | Jéssica Helena Dias
 - QA: [Tatiana Moura](https://www.linkedin.com/in/tatianamouracapel/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)   
 
 <hr/>
