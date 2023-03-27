@@ -211,7 +211,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 
 **Equipe**:  
 - QA: [Matheus Santos](https://br.linkedin.com/in/matheus-santos-1910101a0) | [Ligiane Basques]()
-- Mobile: [Demian](https://www.linkedin.com/in/patrick-xavier-esteves-151649184) | [Gomes](https://discord.com/channels/@me/1075041456764502016/1089892304858402876)
+- Mobile: [Demian](https://www.linkedin.com/in/patrick-xavier-esteves-151649184) | [Gomes](https://www.linkedin.com/in/gabriel-gomes-da-silva-43b2a3164)
 - Product Manager: [Carlos Erickson](https://www.linkedin.com/in/carlos-erickson-damasceno-5a392a118)
 
 <hr/>
