@@ -139,9 +139,10 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 - UX Writer: [Julio Japiassu dos Santos](https://www.linkedin.com/in/j%C3%BAlio-japiass%C3%BA-r%C3%AAgo/)  
 - Ux Research: [Nicholas Uchôa](https://www.linkedin.com/in/nicholas-uch%C3%B4a-1556b41a/)  
 - Tech-Lead: [Mario Lucas](https://www.linkedin.com/in/mariolucas00/) | [Giovanni Marcatto](https://www.linkedin.com/in/gzmarcatto/) | [Natanael Silva](https://www.linkedin.com/in/natanaelsc)  
-- Frontend: [Vitor Matias](https://www.linkedin.com/in/vitormatiasf/) | [Darcio Carvalho](https://www.linkedin.com/in/darcio-nuno-carvalho/) | 
+- Frontend: [Vitor Matias](https://www.linkedin.com/in/vitormatiasf/) | [Darcio Carvalho](https://www.linkedin.com/in/darcio-nuno-carvalho/)
 [Gabriel Zaude](https://www.linkedin.com/in/gabriel-ramos-8558b6193/)
 - Backend: [Emerson Moreira](https://www.linkedin.com/in/emerson-moreira/) | [Fernando D'luccas](https://www.linkedin.com/in/fernandodluccas) | [Jessica Santana](https://www.linkedin.com/in/jessica-santana-developer/)
+- FullStack: [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
 - QA: [Tatiana Moura](https://www.linkedin.com/in/tatianamouracapel/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)   
 
 <hr/>
