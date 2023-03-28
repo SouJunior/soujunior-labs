@@ -141,7 +141,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 - Tech-Lead: [Mario Lucas](https://www.linkedin.com/in/mariolucas00/) | [Giovanni Marcatto](https://www.linkedin.com/in/gzmarcatto/) | [Natanael Silva](https://www.linkedin.com/in/natanaelsc)  
 - Frontend: [Vitor Matias](https://www.linkedin.com/in/vitormatiasf/) | [Darcio Carvalho](https://www.linkedin.com/in/darcio-nuno-carvalho/) | 
 [Gabriel Zaude](https://www.linkedin.com/in/gabriel-ramos-8558b6193/)
-- Backend: [Emerson Moreira](https://www.linkedin.com/in/emerson-moreira/) | [Fernando D'luccas](https://www.linkedin.com/in/fernandodluccas) | Jéssica Helena Dias
+- Backend: [Emerson Moreira](https://www.linkedin.com/in/emerson-moreira/) | [Fernando D'luccas](https://www.linkedin.com/in/fernandodluccas) | [Jessica Santana](https://www.linkedin.com/in/jessica-santana-developer/)
 - QA: [Tatiana Moura](https://www.linkedin.com/in/tatianamouracapel/) | [Bruna Amaral](https://www.linkedin.com/in/bamaralqa/)   
 
 <hr/>
