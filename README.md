@@ -381,10 +381,9 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 
 **Equipe**:  
 - Frontend: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/) | [Bruno Sampaio](https://www.linkedin.com/in/brunosmp/)  
-- Backend: [Felipe Marinho](https://www.linkedin.com/in/felipe-marinho-bb951b1a3/)  
-- UX/ UI: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)   
-- Mentor: [Eduardo Victor Machado da Silva](https://www.linkedin.com/in/eduardo-victor-machado-da-silva-141835192/) 
-    
+- Backend: [Natanael Silva](https://www.linkedin.com/in/natanaelsc/)  
+- UX/ UI: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/) | [Thaynná Oliveira](https://www.linkedin.com/in/Thaygjo/)   
+ 
 <hr/>
 
 
