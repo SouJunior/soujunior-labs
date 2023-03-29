@@ -7,35 +7,33 @@
 <hr/>
 
 ## Lista de Projetos Ativos
--  [Wizer](#01-wizer)
--  [Video4Me](#02-video4me)
--  [Projetos Ativos](#03-site-projetos-ativos)
--  [Pet Journal](#04-pet-journal)
--  [Controle de Corrida](#05-controle-de-corrida)
--  [Findy](#06-findy)
--  [Cartão Fidelidade Digital](#07-cartão-fidelidade-digital)
--  [Animania](#08-animania)
--  [Minnemi](#09-minnemi)
--  [Terapia em Foco](#10-terapia-em-foco)
--  [Comparador de Preços](#11-comparador-de-preços)
--  [Anota Aí](#12-anota-aí)
--  [LoryBlu](#13-loryBlu)
--  [Connect Tattoo](#14-connectattoo)
--  [JobJR](#15-jobjr)
--  [Routinely](#16-routinely)
--  [Social CRM](#17-social-crm)
--  [Care4You](#18-care4you)
--  [Semente Embrião](#19-semente-embrião)
--  [Bora Rachar](#20-bora-rachar)
--  [FoxClass](#21-foxclass)
--  [Studyn'ON](#22-studynon)
--  [Spotistas](#23-spotistas)
--  [TechRate](#24-techrate)
--  [Onde é o Rolé](#25-onde-é-o-rolé)
+-  [Wizer](#wizer)
+-  [Video4Me](#video4me)
+-  [Projetos Ativos](#site-projetos-ativos)
+-  [Pet Journal](#pet-journal)
+-  [Controle de Corrida](#controle-de-corrida)
+-  [Findy](#findy)
+-  [Cartão Fidelidade Digital](#cartão-fidelidade-digital)
+-  [Animania](#animania)
+-  [Minnemi](#minnemi)
+-  [Terapia em Foco](#terapia-em-foco)
+-  [Comparador de Preços](#comparador-de-preços)
+-  [Anota Aí](#anota-aí)
+-  [LoryBlu](#loryblu)
+-  [Connect Tattoo](#connectattoo)
+-  [JobJR](#jobjr)
+-  [Routinely](#routinely)
+-  [Social CRM](#social-crm)
+-  [Care4You](#care4you)
+-  [Bora Rachar](#bora-rachar)
+-  [Studyn'ON](#studynon)
+-  [Spotistas](#spotistas)
+-  [TechRate](#techrate)
+-  [Onde é o Rolé](#onde-é-o-rolé)
 
 <hr/>
 
-## 01. Wizer
+## Wizer
 **Repositório**: [Wizer Community](https://github.com/Wizer-Community)  
 **Responsável**: [Simeone Johnson](https://www.linkedin.com/in/simeone-johnson/)  
 **Descrição do projeto**: Somos uma plataforma de Streaming Educacional, com conteúdo de qualidade disponibilizado de forma gratuita. Unimos educação e tecnologia, para transformar a forma de aprendizagem, tornando simples e acessível a todos que querem aprender.  
@@ -52,7 +50,7 @@
   
 <hr/>
 
-## 02. Video4Me  
+## Video4Me  
 **Repositório**:  [Video4Me](https://github.com/Video4Me)  
 **Responsável**: [Davi Kooji](https://www.linkedin.com/in/daviuezono/)  
 **Descrição do projeto**: Vamos criar uma plataforma que organiza vídeos por tag e categorias, criando assim um acervo de vídeos de fácil localização.
@@ -70,7 +68,7 @@
  
  <hr/>
 
-## 03. Site Projetos Ativos
+## Site Projetos Ativos
 **Repositório**: [Site Projetos Ativos](https://github.com/projetos-ativos-soujunior-lab)  
 **Responsável**: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/)  
 **Descrição do projeto**: Montar um site para apresentar os projetos em desenvolvimento pelos membros da comunidade [Sou Júnior](https://www.soujunior.tech/). Assim demonstrando com maior clareza as atividades da comunidade à própria e ao público em geral.  
@@ -84,7 +82,7 @@
 
 <hr/> 
 
-## 04. Pet Journal
+## Pet Journal
 **Repositório**: [Organização Pet Journal](https://github.com/PetJournal)  
 **Responsável**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)    
 **Descrição do projeto**: Desenvolvimento de um produto para registro de informações referentes aos nossos pets.
@@ -101,7 +99,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 - UI: [Juliana Ribeiro](https://www.linkedin.com/in/julianarib/)
 - QA: [Lucas Medeiros](https://www.linkedin.com/in/lucas-medeiros-233328221) | [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino)  
 - Backend: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Júlio Masson](https://www.linkedin.com/in/juliomasson)  
-- Frontend: [Mateus Carvalho](https://www.linkedin.com/in/mateuscarvalhodev) | [Pedro Henrique](https://www.linkedin.com/in/pedro-henrique-271257244) | [Leonardo Teixeira](https://www.linkedin.com/in/leotx/)
+- Frontend: [Carol Andrade](https://www.linkedin.com/in/carolandrade1/) | [Leonardo Teixeira](https://www.linkedin.com/in/leotx/) | [Mateus Carvalho](https://www.linkedin.com/in/mateuscarvalhodev)
 - Mobile (Kotlin): [Gustavo Oliveira](https://www.linkedin.com/in/gusoliveira21) | [Leonardo Santos](https://www.linkedin.com/in/Leozinhozd)  
 - Mobile (Swift): [Daiane Gonçalves](https://www.linkedin.com/mwlite/in/daiane-gon%C3%A7alves-4a946b94) | [Marcylene Barreto](https://www.linkedin.com/in/marcylene-barreto)  
 
@@ -109,7 +107,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 
 <hr/>
 
-## 05. Controle de Corrida 
+## Controle de Corrida 
 **Repositório**: [Controle de corrida](https://github.com/controledecorrida)   
 **Responsável**: [Attila Monteiro de Abreu](https://www.linkedin.com/in/attilamec)  
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
@@ -125,7 +123,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 
 <hr/>
 
-## 06. Findy    
+## Findy    
 **Repositório**: [Findy](https://github.com/Findy-U)  
 **Responsável**: [Vitor Matias](https://www.linkedin.com/in/vitormatiasf/)  
 **Descrição do projeto**: Aplicação para conectar candidatos juniores a empresas recrutadoras de forma eficiente e inovadora proporcionando uma transição suave para o mercado de trabalho. Nossa prioridade é desenvolver um produto com propósito, que possa ser usado como uma ferramenta real para auxiliar os candidatos juniores na busca por emprego e as empresas na busca pelos melhores candidatos.   
@@ -142,7 +140,7 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 
 <hr/>
 
-## 07. Cartão Fidelidade Digital  
+## Cartão Fidelidade Digital  
 **Repositório**: [Cartão Fidelidade Digital](https://github.com/cartao-fidelidade-digital)  
 **Responsável**: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5/)  
 **Descrição do projeto**: O aplicativo (PWA) será um cartão de fidelidade digital, ou seja, várias lojas podem se cadastrar e dar pontos ou criar regras de pontuação para o clientes. Sendo assim, o cliente terá acesso no aplicativo e poderá verificar quais lojas e quantos pontos tem, até mesmo ver a quantidade de pontos que falta para ganhar algum prêmio ou desconto da loja.
@@ -161,7 +159,7 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 - Backend: [Paulo Érico de Oliveira](https://www.linkedin.com/in/paulo-webdev/) | [João Igor Oliveira](https://www.linkedin.com/in/joao-igor-oli/)
 <hr/>
 
-## 08. Animania
+## Animania
 **Repositório**: [Organização Animania Team](https://github.com/AnimaniaTeam)   
 **Responsável**: [Vítor Emanuel](https://www.linkedin.com/in/vitoremanuelqf)  
 **Descrição do projeto**: Aplicativo para listagem e organização de animes, contendo como principal funcionalidade o calendário de lançamentos da temporada, listagem de acompanhamento do usuário com o progresso e controle de episódios e temporadas assistidas, listagem completa de temporadas anteriores separadas por gênero. 
@@ -176,7 +174,7 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 
 <hr/>
 
-## 09. Minnemi
+## Minnemi
 **Repositório**: [Minnemi](https://github.com/orgs/Minnemi/repositories)  
 **Responsável**: [Hugo Versiani](https://www.linkedin.com/in/hugoversiani)  
 **Descrição do projeto**: Uma plataforma web onde pessoas pudem enviar "cartas" (que na verdade são e-mails) para si mesmas, porém definindo uma data especifica para receber-las no futuro, como se fosse uma "capsula do tempo". 
@@ -197,7 +195,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 
 <hr/>
 
-## 10. Terapia em Foco
+## Terapia em Foco
 **Repositório**: [Terapia em Foco](https://github.com/terapiaemfoco)  
 **Responsável**: [Haline Dias](https://www.linkedin.com/in/haline-dias)  
 **Descrição do projeto**:A proposta é permitir unir pessoas que procuram terapia online a psicólogos que precisam preencher seus horários de atendimento. Além de permitir esse contato, o app deve ter uma permissão para o usuário acompanhar seus medicamentos (em caso de uso) e registrar seus pensamentos do dia (diário das emoções). Já o psicólogo deve ter acesso a um cadastro de pacientes e seus relatórios de atendimentos (privado).  
@@ -207,7 +205,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 
 <hr/>
 
-## 11. Comparador de Preços
+## Comparador de Preços
 **Responsável**: [Matheus Santos](https://br.linkedin.com/in/matheus-santos-1910101a0)  
 **Descrição do projeto**: Desenvolver um aplicativo que pegue preços de hipermercados e os compare, retornando ao usuário o melhor local de compra e demais informações relevantes.  
 
@@ -216,23 +214,22 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 
 <hr/>
 
-## 12. Anota Aí
-**Descrição do projeto**: Uma plataforma para anotações, focada no estudo. Sendo possível registrar a fonte dos estudos, tipo de conteúdo, progresso, notas importantes, etc.
-Servindo de portal para que o usuário, através da plataforma, pudesse se organizar e se engajar mais em seus estudos.  
+## Anota Aí
+**Repositório**: [Organização Anota Aí](https://github.com/Anota-Ai-2)  
+**Responsável**: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)  
+**Descrição do projeto**: Anota Aí é uma plataforma de anotações focada em estudos, que permite aos usuários registrar suas fontes de estudos, progresso, notas importantes e outras informações relevantes. Com o objetivo de ajudar o usuário a se organizar e se engajar mais em seus estudos, a plataforma oferece recursos personalizados para categorizar, organizar e localizar suas anotações facilmente.  
 
-**Equipe**:  
-- Responsável: 
-- Mentor:   
-- Agilista: 
-- Product Manager:
-- Quality Assurance: 
-- UI/UX:
-- Front-End:
-- Back-end: 
-- Mobile:
+**Equipe**:    
+- Agilista: [Vanderlei Cruz](https://www.linkedin.com/in/vanderlei--cruz/)  | [Ana Paula Maldonado](https://www.linkedin.com/in/anap-maldonado/) 
+- Product Manager: [Isadora Mello](https://www.linkedin.com/in/isadoramello/)
+- Frontend: [Ítalo Araújo](https://www.linkedin.com/in/italoaraujodev/) | [Bruno Mateus](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
+- Backend: [Gustavo Fukuda](https://www.linkedin.com/in/gustavo-fukuda-791423a8/) | [Inocêncio Cordeiro](https://www.linkedin.com/in/inocencio-cordeiro/)    
+- Mobile: 
+- QA : [Junior Pereira](https://www.linkedin.com/in/junior-pereira/) | [Ana Simão](https://www.linkedin.com/in/anasimao93/)
+- UX: [Kleiton Gomes](https://www.linkedin.com/in/kleists/) 
 <hr/>
 
-## 13. LoryBlu
+## LoryBlu
 **Repositório**: [Organização LoryBlu](https://github.com/loryblu)  
 **Responsável**: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota)  
 **Descrição do projeto**: Aplicativo (com potencial para desktop) para crianças na primeira infância (Até 6 anos. O que não implica excluir crianças até os 11 anos), para ajudar no desenvolvimento neuro cognitivo de forma complementar a agenda de atividades (escola, terapia, psicoterapia, etc.). A ideia é que a plataforma seja bem interativa com músicas, histórias e atividades. O "LoryBlu" pode ser um parceiro dos pais nos momentos de ociosidade e ansiedade dessas crianças. É um estímulo extra ao que eles já são submetidos para ajudar no desenvolvimento.  
@@ -250,7 +247,7 @@ Servindo de portal para que o usuário, através da plataforma, pudesse se organ
 
 <hr/>
 
-## 14. Connectattoo
+## Connectattoo
 **Repositório**: [Connectattoo](https://github.com/connectattoo)  
 **Responsável**: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota)  
 **Descrição do projeto**: Tatuadores e apaixonados por Tattoo conectados!
@@ -270,7 +267,7 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 
 <hr/>
 
-## 15. JobJR  
+## JobJR  
 **Repositório**: [JobJr](https://github.com/job-jr-sjl/job-jr)  
 **Responsável**: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
 **Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas.  
@@ -285,7 +282,7 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 
 <hr/>
 
-## 16. Routinely
+## Routinely
 **Responsável**: [Tharlles Kawã](https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/)  
 **Descrição do projeto**: A aplicação Routinely é uma ferramenta projetada para ajudar as pessoas a manter uma rotina saudável e equilibrada. Ela permite ao usuário criar uma conta e registrar suas atividades diárias, incluindo trabalho, exercícios, hobbies e tarefas domésticas. A aplicação usa algoritmos para equilibrar essas atividades ao longo do tempo, garantindo que o usuário tenha tempo suficiente para cada atividade importante. Além disso, a Routinely oferece recursos de lembrete para manter o usuário na rotina e relatórios de progresso para motivação adicional.  
 
@@ -301,7 +298,7 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 
 <hr/>
 
-## 17. Social CRM
+## Social CRM
 **Repositório**: [Social CRM](https://github.com/SocialCRM)  
 **Responsável**: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)  
 **Descrição do projeto**:
@@ -320,7 +317,7 @@ As instituições sociais carecem de um sistema de gestão que o acompanhe desde
 
 <hr/>
 
-## 18. Care4You
+## Care4You
 **Repositório**:  [Care4You](https://github.com/care4you)  
 **Responsável**: [Samuel Carvalho](https://www.linkedin.com/in/samuel-silva-de-carvalho/)  
 **Descrição do projeto**:
@@ -337,17 +334,7 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 
 <hr/>
 
-## 19. Semente Embrião
-**Responsável**: Renata Machado    
-**Descrição do projeto**: Aplicativo e web para o gerenciamento das plantas da sua horta, desde a preparação do solo, adubação (Orgânica ou química), germinação, transplante, poda e dicas de venda. Se controlar todas essas variáveis de uma espécie é complicado, você imagine de N espécies diferentes.
-
-**Equipe**:  
-- Stakeholder: Renata Machado  
-- Product Manager: Renata Machado  
-   
-<hr/>
-
-## 20. Bora Rachar
+## Bora Rachar
 **Repositório**: [Organização BoraRachar](https://github.com/orgs/BoraRachar/repositories)  
 **Responsável**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
 **Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.  
@@ -362,27 +349,23 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 - QA: [Rafael Cavalcante](https://www.linkedin.com/in/rafael-qa) | [Lucas Rocon](https://www.linkedin.com/in/lucas-rocon/)
 <hr/>
 
-## 21. FoxClass
-**Responsável**: [João Miguel Salgues](https://www.linkedin.com/in/jsalgues/)  
-**Descrição do projeto**: Criar uma plataforma EAD para uma comunidade fechada em que os membros poderão aprender sobre diversos temas.
-A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
-
-**Equipe**: 
-
-<hr/>
-
-## 22. Studyn'ON: 
+## Studyn'ON: 
 **Repositório**: [Organização Studyn'ON](https://github.com/orgs/StudynON/repositories)  
-**Responsável**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
+**Responsável**: [Lucas Nicolau](https://www.linkedin.com/in/lucasalvesnicolau)  
 **Descrição do projeto**: Aplicação para acompanhamento de estudos em diferentes plataformas.  
 
 **Equipe**:  
-- Stakeholder: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) 
+- Stakeholder: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Raquel Ribeiro](https://www.linkedin.com/in/raquelalribeiro)
+- Product Manager: [Lucas Nicolau](https://www.linkedin.com/in/lucasalvesnicolau)
 - UX: [Raquel Ribeiro](https://www.linkedin.com/in/raquelalribeiro)
+- Ágil: [Beatriz Ribeiro](https://www.linkedin.com/in/beatriz-ribeiroo) | [Nickolas Moura](https://www.linkedin.com/in/nickmoura/)
+- Backend: [Gustavo Parlandim](https://www.linkedin.com/in/gustavoparlandim/) | [Igor Oliveira](https://www.linkedin.com/in/igorbomfim27)
+- Frontend: [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3)
+- Mobile: [João Hitallo ](https://www.linkedin.com/in/joaohitallo)
     
 <hr/>
 
-## 23. Spotistas
+## Spotistas
 **Repositório**: [Spotistas](https://github.com/spotistas)    
 **Responsável**: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)  
 **Descrição do projeto**: Spotistas é um projeto que visa fornecer aos usuários do Spotify uma maneira fácil e acessível de entender suas estatísticas de reprodução e dados de música. Com base na API do Spotify, nossa plataforma coleta informações sobre as músicas que você ouve, seus artistas favoritos, gêneros musicais e muito mais. Com esses dados, fornecemos a você uma visão geral de suas estatísticas de reprodução e comparativos com outras pessoas, permitindo que você explore suas músicas como nunca antes.  
@@ -396,7 +379,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 <hr/>
 
 
-## 24. TechRate
+## TechRate
 **Repositório**: [Repositórios TehcRate](https://github.com/orgs/TechRate-Lab/repositories)  
 **Responsável**: [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)  
 **Descrição do projeto**: Plataforma para avaliação de empresas na área tech. Visando passar informações sobre stacks utilizadas, principais áreas de atuação, cultura da empresa, plano de carreira e informações relevantes para possíveis candidatos, com avaliações de funcionários.    
@@ -412,7 +395,7 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 
 <hr/>
 
-## 25. Onde é o rolé
+## Onde é o rolé
 **Repositório**: [OndeEORole](https://github.com/onde-e-o-role)  
 **Responsável**: [Gabriel Rodrigues](https://www.linkedin.com/in/gabriel-souza-776723177/)  
 **Descrição do projeto**: O aplicativo Onde é o rolê tem como objetivo auxiliar o usuário a decidir em qual local, seja bar, restaurante, shows e eventos ele poderá ir. Nós pretendemos entregar uma boa experiência ao usuário, através de, avaliações do local, indicação de transportes para chegar ao local escolhido, contato direto com o estabelecimento  e outras funcionalidades tudo dentro do aplicativo. Nosso público alvo são pessoas que acabaram de se mudar, pessoas que estão viajando, solteiros, casados, grupos de amigos e todos os que gostam de dar um rolê..
@@ -420,9 +403,9 @@ A chave de acesso da plataforma é via NFT de cada membro via API do Metamesk.
 **Equipe**:
 - Stakeholder: [Gabriel Rodrigues](https://www.linkedin.com/in/gabriel-souza-776723177/)
 - UX: [Letícia tonon](https://www.linkedin.com/in/let%C3%ADcia-tonon-b2b86514a/) |  [Ryan Adelino](https://www.linkedin.com/in/ryan-adelinoux/)
-- REACT NATIVE: [Gabriel rodrigues](https://www.linkedin.com/in/gabriel-souza-776723177/) | [Brener souza](https://www.linkedin.com/in/brener-sousa/)
+- Mobile: [Gabriel rodrigues](https://www.linkedin.com/in/gabriel-souza-776723177/) | [Brener souza](https://www.linkedin.com/in/brener-sousa/)
 - BackEnd: [Luan colombo](https://www.linkedin.com/in/luan-colombo89/) | [José carlos](https://www.linkedin.com/in/joosecj-dev/)
-- DATA: [Rafael araujo](https://www.linkedin.com/in/rafael-araujo-silva-b298b4224/) | [Guilherme lima](https://www.linkedin.com/in/guilimadev/)
+- Data: [Rafael araujo](https://www.linkedin.com/in/rafael-araujo-silva-b298b4224/) | [Guilherme lima](https://www.linkedin.com/in/guilimadev/)
 - QA: [Beatriz franco](https://www.linkedin.com/in/beatriz-franco-testes/) | [Ronaldo Marinho](https://www.linkedin.com/in/ronaldo-marinho-amaro-de-souza-a70033bb/)
 - Agilista: [Vitória montesuma](https://www.linkedin.com/in/vitoriamontesuma/) | [Julio cezar](https://www.linkedin.com/in/julio-cezar-60733b185/)
 
