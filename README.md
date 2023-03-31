@@ -7,29 +7,30 @@
 <hr/>
 
 ## Lista de Projetos Ativos
--  [Wizer](#wizer)
--  [Video4Me](#video4me)
--  [Projetos Ativos](#site-projetos-ativos)
--  [Pet Journal](#pet-journal)
--  [Controle de Corrida](#controle-de-corrida)
--  [Findy](#findy)
--  [Cartão Fidelidade Digital](#cartão-fidelidade-digital)
--  [Animania](#animania)
--  [Minnemi](#minnemi)
--  [Terapia em Foco](#terapia-em-foco)
--  [Comparador de Preços](#comparador-de-preços)
--  [Anota Aí](#anota-aí)
--  [LoryBlu](#loryblu)
--  [Connect Tattoo](#connectattoo)
--  [JobJR](#jobjr)
--  [Routinely](#routinely)
--  [Social CRM](#social-crm)
--  [Care4You](#care4you)
--  [Bora Rachar](#bora-rachar)
--  [Studyn'ON](#studynon)
--  [Spotistas](#spotistas)
--  [TechRate](#techrate)
--  [Onde é o Rolé](#onde-é-o-rolé)
+- [Lista de Projetos Ativos](#lista-de-projetos-ativos)
+- [Wizer](#wizer)
+- [Video4Me](#video4me)
+- [Site Projetos Ativos](#site-projetos-ativos)
+- [Pet Journal](#pet-journal)
+- [Controle de Corrida](#controle-de-corrida)
+- [Findy](#findy)
+- [Cartão Fidelidade Digital](#cartão-fidelidade-digital)
+- [Animania](#animania)
+- [Minnemi](#minnemi)
+- [Terapia em Foco](#terapia-em-foco)
+- [Comparador de Preços](#comparador-de-preços)
+- [Anota Aí](#anota-aí)
+- [LoryBlu](#loryblu)
+- [Connectattoo](#connectattoo)
+- [JobJR](#jobjr)
+- [Routinely](#routinely)
+- [TerceiroGestor](#terceirogestor)
+- [Care4You](#care4you)
+- [Bora Rachar](#bora-rachar)
+- [Studyn'ON:](#studynon)
+- [Spotistas](#spotistas)
+- [TechRate](#techrate)
+- [Onde é o rolé](#onde-é-o-rolé)
 
 <hr/>
 
@@ -307,8 +308,8 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 
 <hr/>
 
-## Social CRM
-**Repositório**: [Social CRM](https://github.com/SocialCRM)  
+## TerceiroGestor
+**Repositório**: [TerceiroGestor](https://github.com/TerceiroGestor)  
 **Responsável**: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)  
 **Descrição do projeto**:
 Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência.  
@@ -317,12 +318,13 @@ As instituições sociais carecem de um sistema de gestão que o acompanhe desde
 **Equipe** 
  - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)
  - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
- - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
+ - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/) | [Camila Ochoa Piriz](https://www.linkedin.com/in/camilaochoap/)
+ - Agilista: [Beatriz Ribeiro](https://www.linkedin.com/in/beatriz-ribeiroo/)
+ - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
+ - FrontEnd: [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/) | [Bruno Brito](https://www.linkedin.com/in/brunos-brito/)
+ - Backend: [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/) | [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
  - DevOps: [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/)
  - Data: [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) 
- - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
- - FrontEnd: [Bruno Brito](https://www.linkedin.com/in/brunos-brito/) | [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/)
- - Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/)
 
 <hr/>
 
