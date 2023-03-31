@@ -382,11 +382,10 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 **Descrição do projeto**: Spotistas é um projeto que visa fornecer aos usuários do Spotify uma maneira fácil e acessível de entender suas estatísticas de reprodução e dados de música. Com base na API do Spotify, nossa plataforma coleta informações sobre as músicas que você ouve, seus artistas favoritos, gêneros musicais e muito mais. Com esses dados, fornecemos a você uma visão geral de suas estatísticas de reprodução e comparativos com outras pessoas, permitindo que você explore suas músicas como nunca antes.  
 
 **Equipe**:  
-- Frontend: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/) | [Bruno Sampaio](https://www.linkedin.com/in/brunosmp/)  
-- Backend: [Felipe Marinho](https://www.linkedin.com/in/felipe-marinho-bb951b1a3/)  
-- UX/ UI: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)   
-- Mentor: [Eduardo Victor Machado da Silva](https://www.linkedin.com/in/eduardo-victor-machado-da-silva-141835192/) 
-    
+- Frontend: [Antonio Bordignon](https://www.linkedin.com/in/antoniobordignon/)
+- Backend: [Natanael Silva](https://www.linkedin.com/in/natanaelsc/)  
+- UX/ UI: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/) | [Thaynná Oliveira](https://www.linkedin.com/in/Thaygjo/)   
+ 
 <hr/>
 
 
