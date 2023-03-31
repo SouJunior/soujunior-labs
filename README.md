@@ -89,15 +89,15 @@
 Registrando informações relevantes como datas de vacinas, datas em que foi aplicado vermífugo com detalhes, histórico de compras de ração, integração com Google Agenda, etc.  
 
 **Equipe**:  
-- Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)  
+- Mentor: [Junior Margalho](https://www.linkedin.com/in/juniormargalho/)  
 - Stakeholder: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
 - Tech Lead: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
-- Product Manager: [João Victor Santos](https://www.linkedin.com/in/joaosilvavictor)  
-- Agil: [Letícia Andrade](https://www.linkedin.com/in/leticiatrandrade)  
+- Product Manager: [João Victor Santos](https://www.linkedin.com/in/joaosilvavictor)  | [Mariana Brito](https://www.linkedin.com/in/mari-brito/)
+- Agilista: [Andressa Quintanilha](https://www.linkedin.com/in/andressa-quintanilha/) | [Letícia Andrade](https://www.linkedin.com/in/leticiatrandrade)  
 - UX: [Cleverson Antonietti](https://www.linkedin.com/in/cleversonantonietti)  
 - UX Writer: [Jecilene Pereira](https://www.linkedin.com/in/jecilenepereira)  
 - UI: [Juliana Ribeiro](https://www.linkedin.com/in/julianarib/)
-- QA: [Lucas Medeiros](https://www.linkedin.com/in/lucas-medeiros-233328221) | [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino)  
+- QA: [Daniela Cardoso](https://www.linkedin.com/in/daniela-cardoso-da-silva-b25587234/?trk=contact-info) | [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino)  
 - Backend: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Júlio Masson](https://www.linkedin.com/in/juliomasson) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)
 - Frontend: [Carol Andrade](https://www.linkedin.com/in/carolandrade1/) | [Leonardo Teixeira](https://www.linkedin.com/in/leotx/) | [Mateus Carvalho](https://www.linkedin.com/in/mateuscarvalhodev)
 - Mobile (Kotlin): [Gustavo Oliveira](https://www.linkedin.com/in/gusoliveira21) | [Leonardo Santos](https://www.linkedin.com/in/Leozinhozd)  
