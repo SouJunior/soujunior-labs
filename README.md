@@ -284,10 +284,10 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 
 **Equipe**:
 - Stakeholder: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
-- Agilista: []()  
+- Agilista: [Igor Calmon](https://www.linkedin.com/in/igor-calmon/)  
 - Backend: [Max dos Santos Aguiar](https://www.linkedin.com/in/devaguiar/)
 - Backend: []()  
-- UX: []()  
+- UX: [Felipe Cavalcanti](linkedin.com/in/felipe-cavalcanti-852b46140/)  
 - Product Manager: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
 
 <hr/>
