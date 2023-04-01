@@ -185,21 +185,17 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 ## Minnemi
 **Repositório**: [Minnemi](https://github.com/orgs/Minnemi/repositories)  
 **Responsável**: [Hugo Versiani](https://www.linkedin.com/in/hugoversiani)  
-**Descrição do projeto**: Uma plataforma web onde pessoas pudem enviar "cartas" (que na verdade são e-mails) para si mesmas, porém definindo uma data especifica para receber-las no futuro, como se fosse uma "capsula do tempo". 
-
-Por exemplo, você escreve um e-mail com seus planos para os proximos 12 meses. Apos definir o texto da sua "carta", você definiria a data que deseja receber o e-mail. Decorrido o tempo (nesse exemplo 12 meses), você recebe o e-mail que enviou um ano atrás.
-
-A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada para diversos fins, como por exemplo professores com alunos no inicio do ano ano letivo, para receberem ao final. Ou psicólogos com seus pacientes. Enfim, qualquer pessoa que queira registrar algo que se gostaria de ler no futuro.  
+**Descrição do projeto**: Uma plataforma web onde pessoas podem enviar "cartas" (que na verdade são e-mails) para si mesmas, porém definindo uma data especifica para receber-las no futuro, como se fosse uma "capsula do tempo". 
+A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada para diversos fins, como por exemplo professores com alunos no inicio do ano ano letivo, para receberem ao final. Ou psicólogos com seus pacientes. Enfim, qualquer pessoa que queira registrar algo que se gostaria de ler no futuro. <br/>
 
 **Equipe**:  
-- Mentor: João Seabra
-- Agilista: [Hédpo de Paula](https://www.linkedin.com/in/hedpodepaula)  
-- Product Manager: [Manuela Vinhas](https://www.linkedin.com/in/manuela-vinhas-87b6959b/)  
-- Frontend: [Vinicius Cosmo](https://www.linkedin.com/in/vinicius-cosmo-me/) e Biancardi 
-- Backend: [Hugo Versiani](www.linkedin.com/in/hugoversiani), [João Pedro](https://www.linkedin.com/in/joaomesquitadev/) e [Fábio Silva](https://www.linkedin.com/in/fabiosilvaalves90/)  
-- UX/UI: [Rafaela Santana](https://www.linkedin.com/in/rafamsantana/), Gabriel Matheus e André  
+- Mentor: [João Seabra](https://www.linkedin.com/in/joao-m-seabra/)
+- Agilista: [Hédpo de Paula](https://www.linkedin.com/in/hedpodepaula)
+- Frontend: [Vinicius Cosmo](https://www.linkedin.com/in/vinicius-cosmo-me/) | Guilherme Biancardi(https://www.linkedin.com/in/guilherme-biancardi-353709187/)
+- Backend: [Hugo Versiani](https://www.linkedin.com/in/hugoversiani) | [João Pedro](https://www.linkedin.com/in/joaomesquitadev/) | [Fábio Silva](https://www.linkedin.com/in/fabiosilvaalves90/)  
+- UX/UI: [Gabriel Matheus](https://www.linkedin.com/in/gabrielmbarros/) 
 - QA: [Beatriz Franco](https://www.linkedin.com/in/beatriz-franco-testes)  
-- DevOps: Hugo e [Joao Souza](https://www.linkedin.com/in/joaofmds).
+- DevOps: [Hugo Lemos](https://www.linkedin.com/in/hugo-lemos-da-silva/)
 
 <hr/>
 
