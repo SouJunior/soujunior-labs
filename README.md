@@ -299,10 +299,10 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 - Stakeholder: [Tharlles Kawã](https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/)  
 - Frontend: [Tharlles Kawã](https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/) | [Luis Soares](https://www.linkedin.com/in/luissoaresdeveloper/)  
 - Backend: [Ana Elisa](https://www.linkedin.com/in/ana-elisa-alexandre/) | [Vinicius Cosmo](https://www.linkedin.com/in/vinicius-cosmo-me/)  
-- Product Manager: [Marcus](https://www.linkedin.com/in/marcus-gambogi-493084198/) | [Eveline](https://www.linkedin.com/in/eveline-martins-39924b23/)  
+- Product Manager: [Marcus](https://www.linkedin.com/in/marcus-gambogi-493084198/) | [Maxsuel](https://www.linkedin.com/in/maxsuelmartiniano/)  
 - QA: [Milena Rocha](https://www.linkedin.com/in/milena-r-8b8414127/) | [Josi Moraes](https://www.linkedin.com/in/josi-moraes/)  
 - Mobile: [Andre](https://www.linkedin.com/in/andremoraesfilho/) | [Jean](https://www.linkedin.com/in/jean-hartmann-50143465/)  
-- UI/UX: [Izabella](https://www.linkedin.com/in/izabella-urias/) | [Júlia Nogueira](https://www.linkedin.com/in/j%C3%BAlia-nogueira/) | [Ryan](https://www.linkedin.com/in/itsryanfelix/)  
+- UI/UX: [Izabella](https://www.linkedin.com/in/izabella-urias/) | [Júlia Nogueira](https://www.linkedin.com/in/j%C3%BAlia-nogueira/) | [Ryan](https://www.linkedin.com/in/itsryanfelix/) | [Eveline](https://www.linkedin.com/in/eveline-martins-39924b23/)  
 - Agilista: [Priscila](https://www.linkedin.com/in/vazpriscila/) | [Kevin](https://www.linkedin.com/in/kevin-cardoso-068a5a1ab/)
 
 <hr/>
