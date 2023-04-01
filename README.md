@@ -191,7 +191,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 **Equipe**:  
 - Mentor: [João Seabra](https://www.linkedin.com/in/joao-m-seabra/)
 - Agilista: [Hédpo de Paula](https://www.linkedin.com/in/hedpodepaula)
-- Frontend: [Vinicius Cosmo](https://www.linkedin.com/in/vinicius-cosmo-me/) | Guilherme Biancardi(https://www.linkedin.com/in/guilherme-biancardi-353709187/)
+- Frontend: [Vinicius Cosmo](https://www.linkedin.com/in/vinicius-cosmo-me/) | [Guilherme Biancardi](https://www.linkedin.com/in/guilherme-biancardi-353709187/)
 - Backend: [Hugo Versiani](https://www.linkedin.com/in/hugoversiani) | [João Pedro](https://www.linkedin.com/in/joaomesquitadev/) | [Fábio Silva](https://www.linkedin.com/in/fabiosilvaalves90/)  
 - UX/UI: [Gabriel Matheus](https://www.linkedin.com/in/gabrielmbarros/) 
 - QA: [Beatriz Franco](https://www.linkedin.com/in/beatriz-franco-testes)  
