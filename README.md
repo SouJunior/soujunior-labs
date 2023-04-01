@@ -223,7 +223,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 
 **Equipe**:    
 - Agilista: [Vanderlei Cruz](https://www.linkedin.com/in/vanderlei--cruz/)  | [Ana Paula Maldonado](https://www.linkedin.com/in/anap-maldonado/) 
-- Product Manager: [Isadora Mello](https://www.linkedin.com/in/isadoramello/)
+- Product Manager: [António Miguel](https://www.linkedin.com/in/ant%C3%B3nio-miguel-1b400b143/)
 - Frontend: [Ítalo Araújo](https://www.linkedin.com/in/italoaraujodev/) | [Bruno Mateus](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
 - Backend: [Gustavo Fukuda](https://www.linkedin.com/in/gustavo-fukuda-791423a8/) | [Inocêncio Cordeiro](https://www.linkedin.com/in/inocencio-cordeiro/)    
 - Mobile: 
