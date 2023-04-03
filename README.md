@@ -273,8 +273,7 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 **Equipe**:
 - Stakeholder: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
 - Agilista: [Igor Calmon](https://www.linkedin.com/in/igor-calmon/)  
-- Backend: [Max dos Santos Aguiar](https://www.linkedin.com/in/devaguiar/)
-- Backend: [Demian](https://www.linkedin.com/in/patrick-xavier-esteves-151649184/)
+- Backend: [Max dos Santos Aguiar](https://www.linkedin.com/in/devaguiar/) | [Demian](https://www.linkedin.com/in/patrick-xavier-esteves-151649184/) | [Luciano da Silva Martins](https://www.linkedin.com/in/lucianodasilvamartins)
 - UX: [Felipe Cavalcanti](linkedin.com/in/felipe-cavalcanti-852b46140/)  
 - Product Manager: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
 
