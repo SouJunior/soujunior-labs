@@ -354,11 +354,11 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 
 **Equipe**:  
 - Stakeholder: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Raquel Ribeiro](https://www.linkedin.com/in/raquelalribeiro)
-- Product Manager: [Lucas Nicolau](https://www.linkedin.com/in/lucasalvesnicolau)
+- Product Manager: [Lucas Nicolau](https://www.linkedin.com/in/lucasalvesnicolau) | [Lana Carvalho](https://www.linkedin.com/in/lana-carvalho-874528ab/)
 - UX: [Raquel Ribeiro](https://www.linkedin.com/in/raquelalribeiro)
-- Ágil: [Beatriz Ribeiro](https://www.linkedin.com/in/beatriz-ribeiroo) | [Nickolas Moura](https://www.linkedin.com/in/nickmoura/)
+- Ágil: [Cibelle Cordovil](https://www.linkedin.com/in/cibelle-cordovil/) | [Nickolas Moura](https://www.linkedin.com/in/nickmoura/)
 - Backend: [Gustavo Parlandim](https://www.linkedin.com/in/gustavoparlandim/) | [Igor Oliveira](https://www.linkedin.com/in/igorbomfim27)
-- Frontend: [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3)
+- Frontend: [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3) | [Max Machado](https://www.linkedin.com/in/maxmilliano/)
 - Mobile: [João Hitallo ](https://www.linkedin.com/in/joaohitallo)
     
 <hr/>
