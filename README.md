@@ -417,7 +417,7 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 **Equipe**:
 - Stakeholder: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/)
 - Product Manager: [Bruno Henrique](http://linkedin.com/in/bruno-mello-4a8b60196) | [Lana Carvalho](https://www.linkedin.com/in/lana-carvalho-874528ab)
-- Ágil: [Elton Shinaider](https://www.linkedin.com/in/elton-shinaider-103865232) | [Danuta Cananea](https://www.linkedin.com/in/danutacananéa/) | [Regiane França](https://www.linkedin.com/in/regiane-fran%C3%A7a-5b0a55246/ "https://www.linkedin.com/in/regiane-fran%C3%A7a-5b0a55246/")
+- Agilista: [Elton Shinaider](https://www.linkedin.com/in/elton-shinaider-103865232) | [Danuta Cananea](https://www.linkedin.com/in/danutacananéa/) | [Regiane França](https://www.linkedin.com/in/regiane-fran%C3%A7a-5b0a55246/)
 - UX: [Felipe Cavalcanti](https://www.linkedin.com/in/felipe-cavalcanti-852b46140/) | [João Accioly](https://www.linkedin.com/in/joaotioly/)
 - FrontEnd: [Christian Leonardo](https://www.linkedin.com/in/christianlsb/) | [Luis Costa](https://www.linkedin.com/in/mcostalp/) | [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/) 
 - BackEnd: [Pedro Favoretti](https://www.linkedin.com/in/pedro-favoretti/) | [Ítalo Araújo](https://www.linkedin.com/in/italoaraujodev/) | [Yusuf Hafi](https://www.linkedin.com/in/yusufmilla/)
