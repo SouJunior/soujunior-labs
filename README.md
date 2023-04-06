@@ -169,15 +169,16 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 ## Animania
 **Repositório**: [Organização Animania Team](https://github.com/AnimaniaTeam)   
 **Responsável**: [Vítor Emanuel](https://www.linkedin.com/in/vitoremanuelqf)  
-**Descrição do projeto**: Aplicativo para listagem e organização de animes, contendo como principal funcionalidade o calendário de lançamentos da temporada, listagem de acompanhamento do usuário com o progresso e controle de episódios e temporadas assistidas, listagem completa de temporadas anteriores separadas por gênero. 
+**Descrição do projeto**:Aplicativo para listagem e organização de animes, contendo como principal funcionalidade o calendário de lançamentos da temporada, listagem de acompanhamento do usuário com o progresso e controle de episódios e temporadas assistidas, listagem completa de temporadas anteriores separadas por gênero.
 
 **Equipe**: 
+- QA: [Lucas Tiago](https://www.linkedin.com/in/lucas-tiago/) 
 - Agilista: [Sidnei Almeida](https://www.linkedin.com/in/product-owner-sidnei-almeida/) 
 - Product Manager: [Akira Shimazu](https://www.linkedin.com/in/akira-shimazu-2577b2192/)
 - Frontend: [Darlan Bomfim](https://www.linkedin.com/in/darlan-bomfim-903582260/) | [Maurício Bruno](https://www.linkedin.com/in/mauricio-bruno-da-silva/) 
 - Mobile: [Vítor Emanuel](https://www.linkedin.com/in/vitoremanuelqf) | [Otávio Bumaruf](https://www.linkedin.com/in/bumaruf/) 
-- Backend: [Mateus](https://www.linkedin.com/in/matteus-santos-backend/) 
-- UX/UI: [Pedro Henrique](https://www.linkedin.com/in/pedro-henrique-martins-75618720b/)
+- Backend: [Mateus](https://www.linkedin.com/in/matteus-santos-backend/)
+- UX/UI: [Ingrid Emanuelle](https://www.linkedin.com/in/ingridemanuelle/) | [João Accioly](https://https://www.linkedin.com/in/joaotioly/)
 
 <hr/>
 
