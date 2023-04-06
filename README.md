@@ -30,6 +30,7 @@
 - [Spotistas](#spotistas)
 - [TechRate](#techrate)
 - [Onde é o rolé](#onde-é-o-rolé)
+- [Quest Finder](#quest-finder)
 
 <hr/>
 
@@ -405,5 +406,22 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 - Data: [Rafael araujo](https://www.linkedin.com/in/rafael-araujo-silva-b298b4224/) | [Guilherme lima](https://www.linkedin.com/in/guilimadev/)
 - QA: [Beatriz franco](https://www.linkedin.com/in/beatriz-franco-testes/) | [Ronaldo Marinho](https://www.linkedin.com/in/ronaldo-marinho-amaro-de-souza-a70033bb/)
 - Agilista: [Vitória montesuma](https://www.linkedin.com/in/vitoriamontesuma/) | [Julio cezar](https://www.linkedin.com/in/julio-cezar-60733b185/)
+
+<hr/>
+
+## Quest Finder
+**Repositório**: [QuestFinder](https://github.com/orgs/Quest-Finder/repositories)      
+**Responsável**: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/)       
+**Descrição do projeto**: A plataforma Quest Finder conecta jogadores e mestres de RPG, oferecendo suporte a organização de mesas online e presenciais, fichas de personagens e uma agenda. 
+
+**Equipe**:
+- Stakeholder: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/)
+- Product Manager: [Bruno Henrique](http://linkedin.com/in/bruno-mello-4a8b60196) | [Lana Carvalho](https://www.linkedin.com/in/lana-carvalho-874528ab)
+- Ágil: [Elton Shinaider](https://www.linkedin.com/in/elton-shinaider-103865232) | [Danuta Cananea](https://www.linkedin.com/in/danutacananéa/) | [Regiane França](https://www.linkedin.com/in/regiane-fran%C3%A7a-5b0a55246/ "https://www.linkedin.com/in/regiane-fran%C3%A7a-5b0a55246/")
+- UX: [Felipe Cavalcanti](https://www.linkedin.com/in/felipe-cavalcanti-852b46140/) | [João Accioly](https://www.linkedin.com/in/joaotioly/)
+- FrontEnd: [Christian Leonardo](https://www.linkedin.com/in/christianlsb/) | [Luis Costa](https://www.linkedin.com/in/mcostalp/) | [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/) 
+- BackEnd: [Pedro Favoretti](https://www.linkedin.com/in/pedro-favoretti/) | [Ítalo Araújo](https://www.linkedin.com/in/italoaraujodev/) | [Yusuf Hafi](https://www.linkedin.com/in/yusufmilla/)
+- Mobile: [Iann Rodrigues](https://www.linkedin.com/in/iann-rodrigues-b71b9220a/)
+- QA: [Thaynara Dutra](https://www.linkedin.com/in/thaynara-dutra-553309233/)
 
 <hr/>
