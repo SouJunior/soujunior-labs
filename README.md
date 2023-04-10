@@ -99,8 +99,8 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 - UI: [Juliana Ribeiro](https://www.linkedin.com/in/julianarib/)
 - QA: [Daniela Cardoso](https://www.linkedin.com/in/daniela-cardoso-da-silva-b25587234/?trk=contact-info) | [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino)  
 - Backend: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Júlio Masson](https://www.linkedin.com/in/juliomasson) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)
-- Frontend: [Carol Andrade](https://www.linkedin.com/in/carolandrade1/) | [Leonardo Teixeira](https://www.linkedin.com/in/leotx/) | [Mateus Carvalho](https://www.linkedin.com/in/mateuscarvalhodev)
-- Mobile (Kotlin): [Gustavo Oliveira](https://www.linkedin.com/in/gusoliveira21) | [Leonardo Santos](https://www.linkedin.com/in/Leozinhozd)  
+- Frontend: [Larissa Oliveira](https://www.linkedin.com/in/larissa-oliveira-a04611238/) | [Leonardo Teixeira](https://www.linkedin.com/in/leotx/) | [Mateus Carvalho](https://www.linkedin.com/in/mateuscarvalhodev)
+- Mobile (Kotlin): [Gelson Souza](https://www.linkedin.com/in/gelsonsouza/) | [Gustavo Oliveira](https://www.linkedin.com/in/gusoliveira21) | [Leonardo Santos](https://www.linkedin.com/in/Leozinhozd)  
 - Mobile (Swift): [Daiane Gonçalves](https://www.linkedin.com/mwlite/in/daiane-gon%C3%A7alves-4a946b94) | [Marcylene Barreto](https://www.linkedin.com/in/marcylene-barreto)  
 
 
