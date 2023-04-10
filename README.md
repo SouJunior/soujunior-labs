@@ -386,9 +386,9 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 - Backend: Thiago | [Maycon](https://www.linkedin.com/in/maycon-coutinho/)
 - UX/ UI: [Alynne Martins](https://www.linkedin.com/in/kerryalynnecmartins/) | [Mariana Souza](https://www.linkedin.com/in/marianasouza-dc-developeruxui)
 - Mentor: [Ricardo Lima](https://www.linkedin.com/in/ricardo-pereira-lima)
-- Agilista: [Mauro](https://www.linkedin.com/in/mauro-reis/) | [Marina  Alcantara](https://www.linkedin.com/in/marianaalcantara0/)
+- Agilista: 
 - QA: [Julia Ferreira](https://www.linkedin.com/in/j%C3%BAlia-ferreira-38a881b9)
-- Product Manager: [Rafael Ferreira](https://www.linkedin.com/in/rafael-tadeu-espinha-ferreira-3274a9b6/)
+- Product Manager: [Manuela Vinhas](https://www.linkedin.com/in/manuela-vinhas-87b6959b/) | [Susi Lima](www.linkedin.com/in/susidlima)
 
 <hr/>
 
