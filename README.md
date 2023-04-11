@@ -226,7 +226,7 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 - Product Manager: [António Miguel](https://www.linkedin.com/in/ant%C3%B3nio-miguel-1b400b143/) | [Priscila Cunha Siqueira](https://www.linkedin.com/in/priscilacunhas/)
 - Frontend: [Ítalo Araújo](https://www.linkedin.com/in/italoaraujodev/) | [Bruno Mateus](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
 - Backend: [Gustavo Fukuda](https://www.linkedin.com/in/gustavo-fukuda-791423a8/) | [Inocêncio Cordeiro](https://www.linkedin.com/in/inocencio-cordeiro/)    
-- Mobile: [Vithor] [Pablo]
+- Mobile: [Pablo](https://www.linkedin.com/in/pabloleite03/)
 - QA : [Junior Pereira](https://www.linkedin.com/in/junior-pereira/) | [Ana Simão](https://www.linkedin.com/in/anasimao93/)
 - UX: [Kleiton Gomes](https://www.linkedin.com/in/kleists/) | [Matheus Rios](https://www.linkedin.com/in/matheus-rios-farias/)
 <hr/>
