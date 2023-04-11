@@ -61,7 +61,7 @@
 - Head de Produtos: [Vanêssa Santana](https://www.linkedin.com/in/vanessa-patricia/)
 - Tech Lead: [Alec Lima](https://www.linkedin.com/in/aleclima-/)
 - Frontend: [Alec Lima](https://www.linkedin.com/in/aleclima-/) | [Heloiza Mendes](https://www.linkedin.com/in/heloiza-mendes-785708214) | [Leonardo Martins](https://www.linkedin.com/in/leonardo-martins-developer/)
-- Backend: [Vinicius Anicácio](https://www.linkedin.com/in/anic4cio/) | [Laíse Carvalho](https://www.linkedin.com/in/laisecvr/) |  [Douglas Aguiar](https://www.linkedin.com/in/douglas-aguiar-alc/)
+- Backend: [Douglas Aguiar](https://www.linkedin.com/in/douglas-aguiar-alc/)
 - UX/ UI: [Marcos Paranhos](https://www.linkedin.com/in/marcosparanhos/) | [Jadylay Sousa](https://www.linkedin.com/in/jadylay-santos/)
 - QA: [Janaína Andrade](https://www.linkedin.com/in/janaina-andrade/)
 
