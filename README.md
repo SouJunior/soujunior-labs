@@ -104,13 +104,13 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Responsável**: <a href="https://www.linkedin.com/in/attilamec">Attila Monteiro de Abreu</a>  
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
 **Equipe**:  
-    - Mentores: <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a> *(Mentor Front-end)* | <a href="https://www.linkedin.com/in/paru369/">Paulo Pinheiro</a> *(Mentor Quality Assurance)*  
+    - Mentores: <a href="https://www.linkedin.com/in/paru369/">Paulo Pinheiro</a> *(Mentor Quality Assurance)*  
     - Agil: <a href="https://www.linkedin.com/in/hedpodepaula/">Hédpo Silva De Paula</a>    
     - Product Manager: <a href="https://www.linkedin.com/in/guilhermeganhito/">Guilherme Ganhito</a>    
     - UX: <a href="https://www.linkedin.com/in/faelux/">Rafael Claudino</a> | <a href="https://linkedin.com/in/douglaspereira4">Douglas Pereira</a> | <a href="https://www.linkedin.com/in/wiliandev/">Wilian Nascimento da Silva</a>    
     - QA: <a href="https://www.linkedin.com/in/julissytocachelo/">Julissy Tocachelo</a>   
-    - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a> | <a href="https://www.linkedin.com/in/danielmatuoka">Daniel Matuoka Kobayashi</a> | <a href="https://www.linkedin.com/in/rafaelmoraes03/">Rafael Moraes</a>  
-    - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a> | <a href="https://www.linkedin.com/in/camila-rizzi/">Camila .</a> | <a href="https://www.linkedin.com/in/analeeos/">Ana Leticia D.</a>    
+    - Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a> | <a href="https://www.linkedin.com/in/danielmatuoka">Daniel Matuoka Kobayashi</a> | <a href="https://www.linkedin.com/in/rafaelmoraes03/">Rafael Moraes</a> | <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a>  
+    - Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a> | <a href="https://www.linkedin.com/in/analeeos/">Ana Leticia D.</a>    
 
 <hr/>
 
