@@ -422,6 +422,5 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 - FrontEnd: [Christian Leonardo](https://www.linkedin.com/in/christianlsb/) | [Luis Costa](https://www.linkedin.com/in/mcostalp/) | [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/) 
 - BackEnd: [Pedro Favoretti](https://www.linkedin.com/in/pedro-favoretti/) | [Ítalo Araújo](https://www.linkedin.com/in/italoaraujodev/) | [Yusuf Hafi](https://www.linkedin.com/in/yusufmilla/)
 - Mobile: [Iann Rodrigues](https://www.linkedin.com/in/iann-rodrigues-b71b9220a/)
-- QA: [Thaynara Dutra](https://www.linkedin.com/in/thaynara-dutra-553309233/)
-
+- QA: [Thaynara Dutra](https://www.linkedin.com/in/thaynara-dutra-553309233/) | [Matheus Sodre](https://www.linkedin.com/in/matheusssodre/)
 <hr/>
