@@ -177,7 +177,7 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 - Product Manager: [Akira Shimazu](https://www.linkedin.com/in/akira-shimazu-2577b2192/)
 - Frontend: [Darlan Bomfim](https://www.linkedin.com/in/darlan-bomfim-903582260/) | [Maurício Bruno](https://www.linkedin.com/in/mauricio-bruno-da-silva/) 
 - Mobile: [Vítor Emanuel](https://www.linkedin.com/in/vitoremanuelqf) | [Otávio Bumaruf](https://www.linkedin.com/in/bumaruf/) 
-- Backend: [Mateus](https://www.linkedin.com/in/matteus-santos-backend/)
+- Backend: [Mateus](https://www.linkedin.com/in/matteus-santos-backend/) | [Férrer](https://www.linkedin.com/in/)
 - UX/UI: [Ingrid Emanuelle](https://www.linkedin.com/in/ingridemanuelle/) | [João Accioly](https://https://www.linkedin.com/in/joaotioly/)
 
 <hr/>
