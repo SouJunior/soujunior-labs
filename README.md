@@ -114,13 +114,14 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
 
 **Equipe**:  
-- Mentores: [Daniel Moura](https://www.linkedin.com/in/danielmouradev) *(Mentor Front-end)* | [Paulo Pinheiro](https://www.linkedin.com/in/paru369/) *(Mentor Quality Assurance)* 
+- Mentores: [Paulo Pinheiro](https://www.linkedin.com/in/paru369/) *(Mentor Quality Assurance)* 
 - Agil: [Hédpo Silva De Paula](https://www.linkedin.com/in/hedpodepaula/) 
-- Product Manager: [Guilherme Ganhito](https://www.linkedin.com/in/guilhermeganhito/) | [Bruno Mello](https://www.linkedin.com/in/bruno-mello-4a8b60196/) 
+- Product Manager: [Guilherme Ganhito](https://www.linkedin.com/in/guilhermeganhito/) 
 - UX: [Rafael Claudino](https://www.linkedin.com/in/faelux/) | [Douglas Pereira](https://linkedin.com/in/douglaspereira4) | [Wilian Nascimento da Silva](https://www.linkedin.com/in/wiliandev/) 
-- QA: [Julissy Tocachelo](https://www.linkedin.com/in/julissytocachelo/) 
-- Backend: [Attila M. de Abreu](https://www.linkedin.com/in/attilamec) | [Daniel Matuoka Kobayashi](https://www.linkedin.com/in/danielmatuoka) | [Rafael Moraes](https://www.linkedin.com/in/rafaelmoraes03/) 
-- Frontend: [Bruno Dias](https://www.linkedin.com/in/bdiasanalistadetecnologia/) | [Gustavo Vasques](https://www.linkedin.com/in/gustavo-vasques/) | [Ana Leticia D.](https://www.linkedin.com/in/analeeos/)
+- QA: [Julissy Tocachelo](https://www.linkedin.com/in/julissytocachelo/)  
+- Backend: [Attila M. de Abreu](https://www.linkedin.com/in/attilamec) | [Daniel Matuoka Kobayashi](https://www.linkedin.com/in/danielmatuoka) | [Rafael Moraes](https://www.linkedin.com/in/rafaelmoraes03/) | [Daniel Moura](https://www.linkedin.com/in/danielmouradev)
+- Frontend: [Bruno Dias](https://www.linkedin.com/in/bdiasanalistadetecnologia/) | [Ana Leticia D.](https://www.linkedin.com/in/analeeos/) | [Marcos Carvalho](https://www.linkedin.com/in/marcoscarvalho45/)   
+
 
 <hr/>
 
