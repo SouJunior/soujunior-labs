@@ -114,13 +114,13 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
 
 **Equipe**:  
-- Mentores: <a href="https://www.linkedin.com/in/paru369/">Paulo Pinheiro</a> *(Mentor Quality Assurance)*  
-- Agil: <a href="https://www.linkedin.com/in/hedpodepaula/">Hédpo Silva De Paula</a>    
-- Product Manager: <a href="https://www.linkedin.com/in/guilhermeganhito/">Guilherme Ganhito</a>    
-- UX: <a href="https://www.linkedin.com/in/faelux/">Rafael Claudino</a> | <a href="https://linkedin.com/in/douglaspereira4">Douglas Pereira</a> | <a href="https://www.linkedin.com/in/wiliandev/">Wilian Nascimento da Silva</a>    
-- QA: <a href="https://www.linkedin.com/in/julissytocachelo/">Julissy Tocachelo</a>   
-- Backend: <a href="https://www.linkedin.com/in/attilamec">Attila M. de Abreu</a> | <a href="https://www.linkedin.com/in/danielmatuoka">Daniel Matuoka Kobayashi</a> | <a href="https://www.linkedin.com/in/rafaelmoraes03/">Rafael Moraes</a> | <a href="https://www.linkedin.com/in/danielmouradev">Daniel Moura</a>  
-- Frontend: <a href="https://www.linkedin.com/in/bdiasanalistadetecnologia/">Bruno Dias</a> | <a href="https://www.linkedin.com/in/analeeos/">Ana Leticia D.</a> | <a href="https://www.linkedin.com/in/marcoscarvalho45/">Marcos Carvalho</a>    
+- Mentores: [Paulo Pinheiro](https://www.linkedin.com/in/paru369/) *(Mentor Quality Assurance)* 
+- Agil: [Hédpo Silva De Paula](https://www.linkedin.com/in/hedpodepaula/) 
+- Product Manager: [Guilherme Ganhito](https://www.linkedin.com/in/guilhermeganhito/) 
+- UX: [Rafael Claudino](https://www.linkedin.com/in/faelux/) | [Douglas Pereira](https://linkedin.com/in/douglaspereira4) | [Wilian Nascimento da Silva](https://www.linkedin.com/in/wiliandev/) 
+- QA: [Julissy Tocachelo](https://www.linkedin.com/in/julissytocachelo/)  
+- Backend: [Attila M. de Abreu](https://www.linkedin.com/in/attilamec) | [Daniel Matuoka Kobayashi](https://www.linkedin.com/in/danielmatuoka) | [Rafael Moraes](https://www.linkedin.com/in/rafaelmoraes03/) | [Daniel Moura](https://www.linkedin.com/in/danielmouradev)
+- Frontend: [Bruno Dias](https://www.linkedin.com/in/bdiasanalistadetecnologia/) | [Ana Leticia D.](https://www.linkedin.com/in/analeeos/) | [Marcos Carvalho](https://www.linkedin.com/in/marcoscarvalho45/)   
 
 
 <hr/>
