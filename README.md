@@ -387,11 +387,11 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 **Equipe**:  
 - Frontend: [Rildo Bispo](https://www.linkedin.com/in/rilton-bispo-460069198/) | Aberlado | [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)
 - Backend: Thiago | [Maycon](https://www.linkedin.com/in/maycon-coutinho/)
-- UX/ UI: [Alynne Martins](https://www.linkedin.com/in/kerryalynnecmartins/) | [Jéssica Magalhães](https://www.linkedin.com/in/jessica-magalhãess)
+- UX/ UI: [Alynne Martins](https://www.linkedin.com/in/kerryalynnecmartins/) | [Jéssica Magalhães](https://www.linkedin.com/in/jessica-magalhãess) | [Francisco Cruz](https://www.linkedin.com/in/cisco-cruz-227a02217/)
 - Mentor: [Ricardo Lima](https://www.linkedin.com/in/ricardo-pereira-lima)
-- Agilista: 
+- Agilista: [Simone Andrade](https://www.linkedin.com/in/simoneandrade75/)
 - QA: [Julia Ferreira](https://www.linkedin.com/in/j%C3%BAlia-ferreira-38a881b9)
-- Product Manager: [Manuela Vinhas](https://www.linkedin.com/in/manuela-vinhas-87b6959b/) | [Susi Lima](www.linkedin.com/in/susidlima)
+- Product Manager: [Manuela Vinhas](https://www.linkedin.com/in/manuela-vinhas-87b6959b/)
 
 <hr/>
 
