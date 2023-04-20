@@ -238,11 +238,11 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 **Equipe**:  
 - Stakeholder: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota)  
 - Head de Produtos: [Vânessa Santana](https://www.linkedin.com/in/vanessa-patricia/)  
-- Agilista: [Carla Krause](https://www.linkedin.com/in/carlakrause07/)  
+- Agilista: [Sabrina Silva Brochetto](https://www.linkedin.com/in/sabrina-brochetto-5942b44a/)
 - Product Manager: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota/) | [Fê Oliveira](https://www.linkedin.com/in/eufeoliveira/)  
 - Frontend: [Renato Lacerda](https://www.linkedin.com/in/renato-ac-lacerda) | [Nicholas Pinheiro](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
 - Backend: [Jefferson Ricardo](https://www.linkedin.com/in/jricardo10/) | [Rodrigo Alencar](https://www.linkedin.com/in/rodrigo-s-alencar/)    
-- Mobile: [Suelen Cristina](https://www.linkedin.com/in/suelen-cristina-vaz-9527b8229/) | [Paulo Vitor](https://www.linkedin.com/in/paulo-vitor-de-oliveira-fonseca-659aa31bb/)  
+- Mobile: [Suelen Cristina](https://www.linkedin.com/in/suelen-cristina-vaz-9527b8229/)  
 - QA : [Janaína Andrade](https://www.linkedin.com/in/janaina-andrade/) | [Laiza Schumaker](https://www.linkedin.com/in/laizaschumaker)  
 - UX: [Marcelo José](https://www.linkedin.com/in/marcelojos%C3%A9/) | [Thais Medeiros](https://www.linkedin.com/in/thais-silva-7ab630186/) | [Naiara Antunes](https://www.linkedin.com/in/naiara-antunes-82a341190/)
 
