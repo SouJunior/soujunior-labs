@@ -171,15 +171,16 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 ## Animania
 **Repositório**: [Organização Animania Team](https://github.com/AnimaniaTeam)   
 **Responsável**: [Vítor Emanuel](https://www.linkedin.com/in/vitoremanuelqf)  
-**Descrição do projeto**: Aplicativo para listagem e organização de animes, contendo como principal funcionalidade o calendário de lançamentos da temporada, listagem de acompanhamento do usuário com o progresso e controle de episódios e temporadas assistidas, listagem completa de temporadas anteriores separadas por gênero. 
+**Descrição do projeto**:Aplicativo para listagem e organização de animes, contendo como principal funcionalidade o calendário de lançamentos da temporada, listagem de acompanhamento do usuário com o progresso e controle de episódios e temporadas assistidas, listagem completa de temporadas anteriores separadas por gênero.
 
 **Equipe**: 
+- QA: [Lucas Tiago](https://www.linkedin.com/in/lucas-tiago/) 
 - Agilista: [Sidnei Almeida](https://www.linkedin.com/in/product-owner-sidnei-almeida/) 
 - Product Manager: [Akira Shimazu](https://www.linkedin.com/in/akira-shimazu-2577b2192/)
 - Frontend: [Darlan Bomfim](https://www.linkedin.com/in/darlan-bomfim-903582260/) | [Maurício Bruno](https://www.linkedin.com/in/mauricio-bruno-da-silva/) 
-- Mobile: [Vítor Emanuel](https://www.linkedin.com/in/vitoremanuelqf) | [Otávio Bumaruf](https://www.linkedin.com/in/bumaruf/) 
-- Backend: [Mateus](https://www.linkedin.com/in/matteus-santos-backend/) 
-- UX/UI: [Pedro Henrique](https://www.linkedin.com/in/pedro-henrique-martins-75618720b/)
+- Mobile: [Vítor Emanuel](https://www.linkedin.com/in/vitoremanuelqf) | [João Santos](https://www.linkedin.com/in/joao-santos-32003b1b1/) 
+- Backend: [Mateus](https://www.linkedin.com/in/matteus-santos-backend/) | [Férrer](https://www.linkedin.com/in/)
+- UX/UI: [Ingrid Emanuelle](https://www.linkedin.com/in/ingridemanuelle/) | [João Accioly](https://https://www.linkedin.com/in/joaotioly/)
 
 <hr/>
 
@@ -237,11 +238,11 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 **Equipe**:  
 - Stakeholder: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota)  
 - Head de Produtos: [Vânessa Santana](https://www.linkedin.com/in/vanessa-patricia/)  
-- Agilista: [Carla Krause](https://www.linkedin.com/in/carlakrause07/)  
+- Agilista: [Sabrina Silva Brochetto](https://www.linkedin.com/in/sabrina-brochetto-5942b44a/)
 - Product Manager: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota/) | [Fê Oliveira](https://www.linkedin.com/in/eufeoliveira/)  
 - Frontend: [Renato Lacerda](https://www.linkedin.com/in/renato-ac-lacerda) | [Nicholas Pinheiro](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
 - Backend: [Jefferson Ricardo](https://www.linkedin.com/in/jricardo10/) | [Rodrigo Alencar](https://www.linkedin.com/in/rodrigo-s-alencar/)    
-- Mobile: [Suelen Cristina](https://www.linkedin.com/in/suelen-cristina-vaz-9527b8229/) | [Paulo Vitor](https://www.linkedin.com/in/paulo-vitor-de-oliveira-fonseca-659aa31bb/)  
+- Mobile: [Suelen Cristina](https://www.linkedin.com/in/suelen-cristina-vaz-9527b8229/)  
 - QA : [Janaína Andrade](https://www.linkedin.com/in/janaina-andrade/) | [Laiza Schumaker](https://www.linkedin.com/in/laizaschumaker)  
 - UX: [Marcelo José](https://www.linkedin.com/in/marcelojos%C3%A9/) | [Thais Medeiros](https://www.linkedin.com/in/thais-silva-7ab630186/) | [Naiara Antunes](https://www.linkedin.com/in/naiara-antunes-82a341190/)
 
@@ -386,11 +387,11 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 **Equipe**:  
 - Frontend: [Rildo Bispo](https://www.linkedin.com/in/rilton-bispo-460069198/) | Aberlado | [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)
 - Backend: Thiago | [Maycon](https://www.linkedin.com/in/maycon-coutinho/)
-- UX/ UI: [Alynne Martins](https://www.linkedin.com/in/kerryalynnecmartins/) | [Jéssica Magalhães](https://www.linkedin.com/in/jessica-magalhãess)
+- UX/ UI: [Alynne Martins](https://www.linkedin.com/in/kerryalynnecmartins/) | [Jéssica Magalhães](https://www.linkedin.com/in/jessica-magalhãess) | [Francisco Cruz](https://www.linkedin.com/in/cisco-cruz-227a02217/)
 - Mentor: [Ricardo Lima](https://www.linkedin.com/in/ricardo-pereira-lima)
-- Agilista: 
+- Agilista: [Simone Andrade](https://www.linkedin.com/in/simoneandrade75/)
 - QA: [Julia Ferreira](https://www.linkedin.com/in/j%C3%BAlia-ferreira-38a881b9)
-- Product Manager: [Manuela Vinhas](https://www.linkedin.com/in/manuela-vinhas-87b6959b/) | [Susi Lima](www.linkedin.com/in/susidlima)
+- Product Manager: [Manuela Vinhas](https://www.linkedin.com/in/manuela-vinhas-87b6959b/)
 
 <hr/>
 
