@@ -21,7 +21,6 @@
 - [Anota Aí](#anota-aí)
 - [LoryBlu](#loryblu)
 - [Connectattoo](#connectattoo)
-- [JobJR](#jobjr)
 - [Routinely](#routinely)
 - [TerceiroGestor](#terceirogestor)
 - [Care4You](#care4you)
@@ -265,20 +264,6 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 - QA: [Thamiris Arruda](http://www.linkedin.com/in/thamirisarruda)  
 - Mentor UX: [Marcos Paranhos](https://www.linkedin.com/in/marcosparanhos/)  
 - UX: [Matheus C.](https://www.linkedin.com/in/matheus-c-4b2aa6213/) | [Cezar Miranda](https://www.linkedin.com/in/cezarrmiranda)
-
-<hr/>
-
-## JobJR  
-**Repositório**: [JobJr](https://github.com/job-jr-sjl/job-jr)  
-**Responsável**: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
-**Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas.  
-
-**Equipe**:
-- Stakeholder: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
-- Agilista: [Igor Calmon](https://www.linkedin.com/in/igor-calmon/)  
-- Backend: [Max dos Santos Aguiar](https://www.linkedin.com/in/devaguiar/) | [Demian](https://www.linkedin.com/in/patrick-xavier-esteves-151649184/) | [Luciano da Silva Martins](https://www.linkedin.com/in/lucianodasilvamartins)
-- UX: [Felipe Cavalcanti](linkedin.com/in/felipe-cavalcanti-852b46140/)  
-- Product Manager: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
 
 <hr/>
 
