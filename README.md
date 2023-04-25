@@ -299,7 +299,7 @@ As instituições sociais carecem de um sistema de gestão que o acompanhe desde
  - FrontEnd: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/) | [Bruno Brito](https://www.linkedin.com/in/brunos-brito/)
  - Backend: [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/) | [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
  - DevOps: [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/) | [Juliano Inácio](https://www.linkedin.com/in/juliano-d-6b0815234/)
- - Data Science|Data Engineer: [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) | [Arturo Conte](https://www.linkedin.com/in/arturoconte/) 
+ - Data Science | Data Engineer: [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) | [Arturo Conte](https://www.linkedin.com/in/arturoconte/) 
 
 <hr/>
 
