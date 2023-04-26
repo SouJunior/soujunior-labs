@@ -17,7 +17,6 @@
 - [Cartão Fidelidade Digital](#cartão-fidelidade-digital)
 - [Animania](#animania)
 - [Minnemi](#minnemi)
-- [Terapia em Foco](#terapia-em-foco)
 - [Anota Aí](#anota-aí)
 - [LoryBlu](#loryblu)
 - [Connectattoo](#connectattoo)
@@ -197,20 +196,6 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 - UX/UI: [Gabriel Matheus](https://www.linkedin.com/in/gabrielmbarros/) 
 - QA: [Beatriz Franco](https://www.linkedin.com/in/beatriz-franco-testes)  
 - DevOps: [Hugo Lemos](https://www.linkedin.com/in/hugo-lemos-da-silva/)
-
-<hr/>
-
-## Terapia em Foco
-**Repositório**: [Terapia em Foco](https://github.com/terapiaemfoco)  
-**Responsável**: [Haline Dias](https://www.linkedin.com/in/haline-dias)  
-**Descrição do projeto**:A proposta é permitir unir pessoas que procuram terapia online a psicólogos que precisam preencher seus horários de atendimento. Além de permitir esse contato, o app deve ter uma permissão para o usuário acompanhar seus medicamentos (em caso de uso) e registrar seus pensamentos do dia (diário das emoções). Já o psicólogo deve ter acesso a um cadastro de pacientes e seus relatórios de atendimentos (privado).  
-
-**Equipe**: 
-- Product Manager: [Haline Dias](https://www.linkedin.com/in/haline-dias) | [Beatriz Sola](https://www.linkedin.com/in/beatrizsola)
-- Agilista: [Leila M](https://www.linkedin.com)
-- UX/UI: [Alana Araujo](https://www.linkedin.com/in/alanarss) | [Matheus Rios](https://www.linkedin.com/in/matheus-rios-farias/)
-- QA: [Bruno Henrique](https://www.linkedin.com/in/brunohsqa/)
-- Backend: [Guilherme Oliveira](https://www.linkedin.com/in/guilhermeoliveirawebdeveloper/) | [Gustavo Ferreira](https://www.linkedin.com/in/gustavoferreiraa/)
 
 <hr/>
 
