@@ -137,7 +137,7 @@
 <hr/>
 
 ## Bora Rachar
-**Organização**: [Organização BoraRachar](https://github.com/orgs/BoraRachar/repositories)  
+**Organização**: [BoraRachar](https://github.com/orgs/BoraRachar/repositories)  
 **Founder**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
 **Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.  
 
