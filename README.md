@@ -96,14 +96,14 @@
 <hr/>
 
 ## Anota Aí
-**Organização**: [Organização Anota Aí](https://github.com/Anota-Ai-2)  
+**Organização**: [Anota Aí](https://github.com/Anota-Ai-2)  
 **Founder**: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)  
 **Descrição do projeto**: Anota Aí é uma plataforma de anotações focada em estudos, que permite aos usuários registrar suas fontes de estudos, progresso, notas importantes e outras informações relevantes.
 
 <hr/>
 
 ## LoryBlu
-**Organização**: [Organização LoryBlu](https://github.com/loryblu)  
+**Organização**: [LoryBlu](https://github.com/loryblu)  
 **Founder**: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota)  
 **Descrição do projeto**: Aplicativo (com potencial para desktop) para crianças na primeira infância (Até 6 anos. O que não implica excluir crianças até os 11 anos), para ajudar no desenvolvimento neuro cognitivo de forma complementar a agenda de atividades (escola, terapia, psicoterapia, etc.).   
 
@@ -159,7 +159,7 @@
 
 
 ## TechRate
-**Organização**: [Repositórios TehcRate](https://github.com/orgs/TechRate-Lab/repositories)  
+**Organização**: [TehcRate](https://github.com/orgs/TechRate-Lab/repositories)  
 **Founder**: [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)  
 **Descrição do projeto**: Plataforma para avaliação de empresas na área tech. Visando passar informações sobre stacks utilizadas, principais áreas de atuação, cultura da empresa, plano de carreira e informações relevantes para possíveis candidatos, com avaliações de funcionários.    
 
