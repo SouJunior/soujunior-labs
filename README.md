@@ -24,7 +24,7 @@
 - [TerceiroGestor](#terceirogestor)
 - [Care4You](#care4you)
 - [Bora Rachar](#bora-rachar)
-- [Studyn'ON:](#studynon)
+- [Studyn'ON](#studynon)
 - [Spotistas](#spotistas)
 - [TechRate](#techrate)
 - [Onde é o rolé](#onde-é-o-rolé)
