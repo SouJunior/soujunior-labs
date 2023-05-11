@@ -29,6 +29,7 @@
 - [TechRate](#techrate)
 - [Onde é o rolé](#onde-é-o-rolé)
 - [Quest Finder](#quest-finder)
+- [Descubra Ilhabela] (#descubra-ilhabela)
 
 <hr/>
 
@@ -176,5 +177,13 @@
 **Organização**: [QuestFinder](https://github.com/orgs/Quest-Finder/repositories)      
 **Founder**: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/)       
 **Descrição do projeto**: A plataforma Quest Finder conecta jogadores e mestres de RPG, oferecendo suporte a organização de mesas online e presenciais, fichas de personagens e uma agenda. 
+
+<hr/>
+
+## Descubra Ilhabela
+
+**Organização**: [DescubraIlhabela](https://github.com/orgs/Descubra-Ilhabela/repositories)      
+**Founder**: [Paulo Sergio](https://www.linkedin.com/in/paulo-sergio-morais/)       
+**Descrição do projeto**: O nosso projeto web tem como objetivo ser um guia turístico completo da cidade de Ilhabela. A cidade foi escolhida para o projeto por ser uma ilha pitoresca com diversos pontos turísticos, atividades naturais e desafios para os visitantes. Através do nosso guia turístico online, os turistas podem explorar e descobrir as belezas de Ilhabela, incluindo suas praias paradisíacas, cachoeiras exuberantes, trilhas desafiadoras e muito mais. 
 
 <hr/>
