@@ -29,6 +29,7 @@
 - [TechRate](#techrate)
 - [Onde é o rolé](#onde-é-o-rolé)
 - [Quest Finder](#quest-finder)
+- [CollectEasy](#collecteasy)
 - [Descubra Ilhabela] (#descubra-ilhabela)
 
 <hr/>
@@ -180,10 +181,17 @@
 
 <hr/>
 
+## CollectEasy
+**Repositório**: [CollectEasy](https://github.com/CollectEasy)      
+**Responsável**: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/)       
+**Descrição do projeto**: O "CollectEasy" é uma aplicação que facilita a organização de coleções.
+
+<hr/>
+
 ## Descubra Ilhabela
 
-**Organização**: [DescubraIlhabela](https://github.com/orgs/Descubra-Ilhabela/repositories)      
+**Organização**: [DescubraIlhabela](https://github.com/orgs/Descubra-Ilhabela)      
 **Founder**: [Paulo Sergio](https://www.linkedin.com/in/paulo-sergio-morais/)       
-**Descrição do projeto**: O nosso projeto web tem como objetivo ser um guia turístico completo da cidade de Ilhabela. A cidade foi escolhida para o projeto por ser uma ilha pitoresca com diversos pontos turísticos, atividades naturais e desafios para os visitantes. Através do nosso guia turístico online, os turistas podem explorar e descobrir as belezas de Ilhabela, incluindo suas praias paradisíacas, cachoeiras exuberantes, trilhas desafiadoras e muito mais. 
+**Descrição do projeto**: O nosso projeto web tem como objetivo ser um guia turístico completo da cidade de Ilhabela. 
 
 <hr/>
