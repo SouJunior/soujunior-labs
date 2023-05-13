@@ -119,7 +119,8 @@
 <hr/>
 
 ## Routinely
-**Founder**: [Tharlles Kawã](https://www.linkedin.com/in/tharlles-kaw%C3%A3-671831230/)  
+**Organização**: [Routinely](https://github.com/RoutinelyOrganization)  
+**Founder**: [Vinicius Cosmo](https://www.linkedin.com/in/vinicius-cosmo-me/)  
 **Descrição do projeto**: A aplicação Routinely é uma ferramenta projetada para ajudar as pessoas a manter uma rotina saudável e equilibrada. 
 
 <hr/>
