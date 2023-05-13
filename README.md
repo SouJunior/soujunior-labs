@@ -183,5 +183,5 @@
 ## CollectEasy
 **Repositório**: [CollectEasy](https://github.com/CollectEasy)      
 **Responsável**: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/)       
-**Descrição do projeto**: O "CollectEasy" é uma aplicação que facilita a organização de coleções, permitindo adicionar informações sobre cada item e criar uma lista de compras para registrar preços e escolhas vantajosas, permitindo que os usuários se conetem entre si.
+**Descrição do projeto**: O "CollectEasy" é uma aplicação que facilita a organização de coleções.
 <hr/>
