@@ -30,6 +30,7 @@
 - [Onde é o rolé](#onde-é-o-rolé)
 - [Quest Finder](#quest-finder)
 - [CollectEasy](#collecteasy)
+- [Descubra Ilhabela] (#descubra-ilhabela)
 
 <hr/>
 
@@ -184,4 +185,13 @@
 **Repositório**: [CollectEasy](https://github.com/CollectEasy)      
 **Responsável**: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/)       
 **Descrição do projeto**: O "CollectEasy" é uma aplicação que facilita a organização de coleções.
+
+<hr/>
+
+## Descubra Ilhabela
+
+**Organização**: [DescubraIlhabela](https://github.com/orgs/Descubra-Ilhabela)      
+**Founder**: [Paulo Sergio](https://www.linkedin.com/in/paulo-sergio-morais/)       
+**Descrição do projeto**: O nosso projeto web tem como objetivo ser um guia turístico completo da cidade de Ilhabela. 
+
 <hr/>
