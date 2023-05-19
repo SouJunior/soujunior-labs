@@ -98,8 +98,8 @@
 <hr/>
 
 ## Anota Aí
-**Organização**: [Anota Aí](https://github.com/Anota-Ai-2)  
-**Founder**: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)  
+**Organização**: [Anota Aí](https://github.com/anota-ai-org)
+**Founder**: [Bruno Mateus](https://www.linkedin.com/in/bruno-mateus-1215281a7)  
 **Descrição do projeto**: Anota Aí é uma plataforma de anotações focada em estudos, que permite aos usuários registrar suas fontes de estudos, progresso, notas importantes e outras informações relevantes.
 
 <hr/>
