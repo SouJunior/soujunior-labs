@@ -24,13 +24,12 @@
 - [TerceiroGestor](#terceirogestor)
 - [Care4You](#care4you)
 - [Bora Rachar](#bora-rachar)
-- [Studyn'ON](#studynon)
 - [Spotistas](#spotistas)
 - [TechRate](#techrate)
 - [Onde é o rolé](#onde-é-o-rolé)
 - [Quest Finder](#quest-finder)
 - [CollectEasy](#collecteasy)
-- [Descubra Ilhabela] (#descubra-ilhabela)
+- [Descubra Ilhabela](#descubra-ilhabela)
 
 <hr/>
 
@@ -143,13 +142,6 @@
 **Organização**: [BoraRachar](https://github.com/orgs/BoraRachar/repositories)  
 **Founder**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
 **Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.  
-
-<hr/>
-
-## Studyn'ON: 
-**Organização**: [Organização Studyn'ON](https://github.com/orgs/StudynON/repositories)  
-**Founder**: [Lucas Nicolau](https://www.linkedin.com/in/lucasalvesnicolau)  
-**Descrição do projeto**: Aplicação para acompanhamento de estudos em diferentes plataformas.  
     
 <hr/>
 
