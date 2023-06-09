@@ -193,10 +193,12 @@
 
 ## Sistema de Gerenciamento de Projetos
 
-**Organização** : [ Sistema de Gerenciamento de Projetos ](https://github.com/Sistema-de-Gerenciamento-de-Projetos)      
+**Organização** : [Sistema de Gerenciamento de Projetos](https://github.com/Sistema-de-Gerenciamento-de-Projetos)      
 **Fundador**: [Aylla Scaglia](https://www.linkedin.com/in/aylla-scaglia/)       
 **Descrição do projeto** : O nosso projeto tem como finalidade o gerenciamento de tarefas e projetos.
+
 <hr/>
+
 ## Mentor Cycle
 
 **Organização**: [MentorCycle](https://github.com/Mentor-Cycle)      
