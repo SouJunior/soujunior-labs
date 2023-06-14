@@ -207,3 +207,9 @@
 
 <hr/>
 
+## Warmy
+**Organização**: [Warmy](https://github.com/warmy-project)  
+**Founder**: [Afonso Cardozo Cruz](https://www.linkedin.com/in/afonsocardz)    
+**Descrição do projeto**: Doação de agasalho com geolocalização 
+
+<hr/>
