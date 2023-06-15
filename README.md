@@ -33,6 +33,7 @@
 - [Sistema de Gerenciamento de Projetos](#sistema-de-gerenciamento-de-projetos)
 - [Mentor Cycle](#mentor-cycle)
 - [Warmy](#warmy)
+- [MenuExpresso](#menuexpresso)
 
 <hr/>
 
@@ -212,5 +213,14 @@
 **Organização**: [Warmy](https://github.com/warmy-project)  
 **Founder**: [Afonso Cardozo Cruz](https://www.linkedin.com/in/afonsocardz)    
 **Descrição do projeto**: Doação de agasalho com geolocalização, facilita e otimiza o processo para as arrecadações. Aumentando o incentivo para a sociedade.
+
+<hr/>
+
+<hr/>
+
+## MenuExpresso
+**Organização**: [MenuExpresso](https://github.com/MenuExpress-souJunior)  
+**Founder**: [Yan Castro](https://www.linkedin.com/in/cplx/)  
+**Descrição do projeto**: Somos um cardápio digital inovador que tem como objetivo transformar a maneira como as pessoas interagem e fazem pedidos em restaurantes. Combinando tecnologia avançada e uma interface intuitiva, proporcionamos uma experiência conveniente e personalizada para os clientes.
 
 <hr/>
