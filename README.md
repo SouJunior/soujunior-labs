@@ -74,7 +74,7 @@
 
 ## Findy    
 **Organização**: [Findy](https://github.com/Findy-U)  
-**Founder**: [Vitor Matias](https://www.linkedin.com/in/vitormatiasf/)  
+**Founder**: [Guilherme Davedovicz de Oliveira](https://www.linkedin.com/in/guilhermedvicz/)  
 **Descrição do projeto**: A empresa visa transformar o aprendizado de profissionais de tecnologia com uma plataforma colaborativa e inovadora. Conecta aprendizes, líderes de projeto e voluntários, promovendo desenvolvimento prático e facilitando o recrutamento no mercado. Parcerias e integrações ampliam alcance e eficácia.
 
 <hr/>
