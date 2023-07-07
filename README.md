@@ -34,6 +34,7 @@
 - [Mentor Cycle](#mentor-cycle)
 - [Warmy](#warmy)
 - [MenuExpresso](#menuexpresso)
+- [DeliveryAPP](#deliveryapp)
 
 <hr/>
 
@@ -216,11 +217,17 @@
 
 <hr/>
 
-<hr/>
-
 ## MenuExpresso
 **Organização**: [MenuExpresso](https://github.com/MenuExpress-souJunior)  
 **Founder**: [Yan Castro](https://www.linkedin.com/in/cplx/)  
 **Descrição do projeto**: Somos um cardápio digital inovador que tem como objetivo transformar a maneira como as pessoas interagem e fazem pedidos em restaurantes. Combinando tecnologia avançada e uma interface intuitiva, proporcionamos uma experiência conveniente e personalizada para os clientes.
+
+<hr/>
+
+## DeliveryAPP
+**Organização**: [DeliveryAPP](https://github.com/DeliveryAPP-Project)  
+**Founder**: [Igor Moura](https://www.linkedin.com/in/igor-moura-777b9917a/)  
+**Descrição do projeto**: O DeliveryAPP tem como objetivo ser um app de Delivery inovador e fácil de ser
+utilizado, proporcionando novas experiências ao usuário.
 
 <hr/>
