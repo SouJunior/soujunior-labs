@@ -28,6 +28,7 @@
 - [Warmy](#warmy)
 - [MenuExpresso](#menuexpresso)
 - [DeliveryAPP](#deliveryapp)
+- [Meme Battle](#meme-battle)
 
 <hr/>
 
@@ -170,5 +171,12 @@
 **Founder**: [Igor Moura](https://www.linkedin.com/in/igor-moura-777b9917a/)  
 **Descrição do projeto**: O DeliveryAPP tem como objetivo ser um app de Delivery inovador e fácil de ser
 utilizado, proporcionando novas experiências ao usuário.
+
+<hr/>
+
+## Meme Battle
+**Organização**: [Meme Battle](https://github.com/Meme-Battle)  
+**Founders**: [Lucas Costa Amaral](https://www.linkedin.com/in/lucasca/), [Marcus de Souza Marcos](https://www.linkedin.com/in/marcusouzaa/)  
+**Descrição do projeto**: Meme Battle é um jogo de browser online para reunir amigos e competir para ver quem consegue criar o melhor meme!
 
 <hr/>
