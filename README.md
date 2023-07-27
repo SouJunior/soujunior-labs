@@ -28,7 +28,6 @@
 - [TechRate](#techrate)
 - [Onde é o rolé](#onde-é-o-rolé)
 - [Quest Finder](#quest-finder)
-- [CollectEasy](#collecteasy)
 - [Descubra Ilhabela](#descubra-ilhabela)
 - [Mentor Cycle](#mentor-cycle)
 - [Warmy](#warmy)
@@ -175,13 +174,6 @@
 **Organização**: [QuestFinder](https://github.com/orgs/Quest-Finder/repositories)      
 **Founder**: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/)       
 **Descrição do projeto**: A plataforma Quest Finder conecta jogadores e mestres de RPG, oferecendo suporte a organização de mesas online e presenciais, fichas de personagens e uma agenda. 
-
-<hr/>
-
-## CollectEasy
-**Repositório**: [CollectEasy](https://github.com/CollectEasy)      
-**Responsável**: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/)       
-**Descrição do projeto**: O "CollectEasy" é uma aplicação que facilita a organização de coleções.
 
 <hr/>
 
