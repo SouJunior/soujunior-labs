@@ -26,7 +26,6 @@
 - [Bora Rachar](#bora-rachar)
 - [Spotistas](#spotistas)
 - [TechRate](#techrate)
-- [Onde é o rolé](#onde-é-o-rolé)
 - [Quest Finder](#quest-finder)
 - [Descubra Ilhabela](#descubra-ilhabela)
 - [Mentor Cycle](#mentor-cycle)
@@ -160,13 +159,6 @@
 **Organização**: [TehcRate](https://github.com/orgs/TechRate-Lab/repositories)  
 **Founder**: [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)  
 **Descrição do projeto**: Plataforma para avaliação de empresas na área tech. Visando passar informações sobre stacks utilizadas, principais áreas de atuação, cultura da empresa, plano de carreira e informações relevantes para possíveis candidatos, com avaliações de funcionários.    
-
-<hr/>
-
-## Onde é o rolé
-**Organização**: [OndeEORole](https://github.com/onde-e-o-role)  
-**Founder**: [Gabriel Rodrigues](https://www.linkedin.com/in/gabriel-souza-776723177/)  
-**Descrição do projeto**: O aplicativo Onde é o rolê tem como objetivo auxiliar o usuário a decidir em qual local, seja bar, restaurante, shows e eventos ele poderá ir.
 
 <hr/>
 
