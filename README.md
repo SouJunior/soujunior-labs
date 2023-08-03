@@ -26,7 +26,7 @@
 - [Bora Rachar](#bora-rachar)
 - [Spotistas](#spotistas)
 - [TechRate](#techrate)
-- [Quest Finder](#quest-finder)
+- [Tem Vaga Mestre?](#tem-vaga-mestre)
 - [Descubra Ilhabela](#descubra-ilhabela)
 - [Mentor Cycle](#mentor-cycle)
 - [Warmy](#warmy)
@@ -162,10 +162,10 @@
 
 <hr/>
 
-## Quest Finder
-**Organização**: [QuestFinder](https://github.com/orgs/Quest-Finder/repositories)      
+## Tem Vaga Mestre?
+**Organização**: [Tem Vaga Mestre](https://github.com/orgs/Quest-Finder/repositories)      
 **Founder**: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/)       
-**Descrição do projeto**: A plataforma Quest Finder conecta jogadores e mestres de RPG, oferecendo suporte a organização de mesas online e presenciais, fichas de personagens e uma agenda. 
+**Descrição do projeto**: A plataforma Tem Vaga Mestre? conecta jogadores e mestres de RPG, oferecendo suporte a organização de mesas online e presenciais, fichas de personagens e uma agenda. 
 
 <hr/>
 
