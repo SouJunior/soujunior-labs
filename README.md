@@ -3,4 +3,4 @@
 </h1>
 
 Este registro foi movido para a organização SouJunior Labs.  
-[Acesse clicando aqui](https://github.com/SouJunior-Labs/project-list)
+[Acesse clicando aqui.](https://github.com/SouJunior-Labs/project-list)
