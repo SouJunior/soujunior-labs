@@ -21,7 +21,6 @@
 - [LoryBlu](#loryblu)
 - [Connectattoo](#connectattoo)
 - [Routinely](#routinely)
-- [TerceiroGestor](#terceirogestor)
 - [Care4You](#care4you)
 - [Bora Rachar](#bora-rachar)
 - [Spotistas](#spotistas)
@@ -122,13 +121,6 @@
 **Organização**: [Routinely](https://github.com/RoutinelyOrganization)  
 **Founder**: [Vinicius Cosmo](https://www.linkedin.com/in/vinicius-cosmo-me/)  
 **Descrição do projeto**: A aplicação Routinely é uma ferramenta projetada para ajudar as pessoas a manter uma rotina saudável e equilibrada. 
-
-<hr/>
-
-## TerceiroGestor
-**Organização**: [TerceiroGestor](https://github.com/TerceiroGestor)  
-**Founder**: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)  
-**Descrição do projeto**: Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência.  
 
 <hr/>
 
