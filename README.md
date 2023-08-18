@@ -28,7 +28,6 @@
 - [TechRate](#techrate)
 - [Tem Vaga Mestre?](#tem-vaga-mestre)
 - [Descubra Ilhabela](#descubra-ilhabela)
-- [Mentor Cycle](#mentor-cycle)
 - [Warmy](#warmy)
 - [MenuExpresso](#menuexpresso)
 - [DeliveryAPP](#deliveryapp)
@@ -176,14 +175,6 @@
 **Descrição do projeto**: O nosso projeto web tem como objetivo ser um guia turístico completo da cidade de Ilhabela.
 
 <hr/> 
-
-## Mentor Cycle
-
-**Organização**: [MentorCycle](https://github.com/Mentor-Cycle)      
-**Founder**: [Leonardo Balsalobre](https://www.linkedin.com/in/leonardo-balsalobre/)       
-**Descrição do projeto**: O Mentor Cycle é um projeto open-source cujo objetivo é conectar pessoas na área de T.I que estão aprendendo, com profissionais com experiência de mercado. 
-
-<hr/>
 
 ## Warmy
 **Organização**: [Warmy](https://github.com/warmy-project)  
