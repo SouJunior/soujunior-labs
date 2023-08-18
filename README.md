@@ -23,7 +23,6 @@
 - [Routinely](#routinely)
 - [Care4You](#care4you)
 - [Bora Rachar](#bora-rachar)
-- [Spotistas](#spotistas)
 - [TechRate](#techrate)
 - [Tem Vaga Mestre?](#tem-vaga-mestre)
 - [Descubra Ilhabela](#descubra-ilhabela)
@@ -137,14 +136,6 @@
 **Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.  
     
 <hr/>
-
-## Spotistas
-**Organização**: [Spotistas](https://github.com/spotistas)    
-**Founder**: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)  
-**Descrição do projeto**: Spotistas é um projeto que visa fornecer aos usuários do Spotify uma maneira fácil e acessível de entender suas estatísticas de reprodução e dados de música.
- 
-<hr/>
-
 
 ## TechRate
 **Organização**: [TehcRate](https://github.com/orgs/TechRate-Lab/repositories)  
