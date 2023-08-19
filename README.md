@@ -14,7 +14,7 @@
 - [Pet Journal](#pet-journal)
 - [Controle de Corrida](#controle-de-corrida)
 - [Findy](#findy)
-- [Clubee](#cartão-fidelidade-digital)
+- [Clubee](#clubee)
 - [Animania](#animania)
 - [Minnemi](#minnemi)
 - [Anota Aí](#anota-aí)
