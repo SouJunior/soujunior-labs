@@ -14,7 +14,7 @@
 - [Pet Journal](#pet-journal)
 - [Controle de Corrida](#controle-de-corrida)
 - [Findy](#findy)
-- [Cartão Fidelidade Digital](#cartão-fidelidade-digital)
+- [Clubee](#cartão-fidelidade-digital)
 - [Animania](#animania)
 - [Minnemi](#minnemi)
 - [Anota Aí](#anota-aí)
@@ -74,8 +74,8 @@
 
 <hr/>
 
-## Cartão Fidelidade Digital  
-**Organização**: [Cartão Fidelidade Digital](https://github.com/cartao-fidelidade-digital)  
+## Clubee 
+**Organização**: [Clubee](https://github.com/cartao-fidelidade-digital)  
 **Founder**: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5/)  
 **Descrição do projeto**: O aplicativo (PWA) será um cartão de fidelidade digital, ou seja, várias lojas podem se cadastrar e dar pontos ou criar regras de pontuação para os clientes.
 
