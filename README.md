@@ -13,7 +13,6 @@
 - [Site Projetos Ativos](#site-projetos-ativos)
 - [Pet Journal](#pet-journal)
 - [Controle de Corrida](#controle-de-corrida)
-- [Findy](#findy)
 - [Clubee](#clubee)
 - [Animania](#animania)
 - [Minnemi](#minnemi)
@@ -64,13 +63,6 @@
 **Organização**: [Controle de corrida](https://github.com/controledecorrida)   
 **Founder**: [Attila Monteiro de Abreu](https://www.linkedin.com/in/attilamec)  
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
-
-<hr/>
-
-## Findy    
-**Organização**: [Findy](https://github.com/Findy-U)  
-**Founder**: [Guilherme Davedovicz de Oliveira](https://www.linkedin.com/in/guilhermedvicz/)  
-**Descrição do projeto**: A empresa visa transformar o aprendizado de profissionais de tecnologia com uma plataforma colaborativa e inovadora. Conecta aprendizes, líderes de projeto e voluntários, promovendo desenvolvimento prático e facilitando o recrutamento no mercado. Parcerias e integrações ampliam alcance e eficácia.
 
 <hr/>
 
