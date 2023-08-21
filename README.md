@@ -29,6 +29,7 @@
 - [MenuExpresso](#menuexpresso)
 - [DeliveryAPP](#deliveryapp)
 - [Meme Battle](#meme-battle)
+- [TechRoom](#techroom)
 
 <hr/>
 
@@ -180,3 +181,8 @@ utilizado, proporcionando novas experiências ao usuário.
 **Descrição do projeto**: Meme Battle é um jogo de browser online para reunir amigos e competir para ver quem consegue criar o melhor meme!
 
 <hr/>
+
+## TechRoom
+**Organização**: [TechRoom](https://github.com/TechRoomBR)  
+**Founders**: [Henricke Mendes](https://www.linkedin.com/in/henricke-mendes/)
+**Descrição do projeto**: O TechRoom será uma plataforma online que permitirá aos membros criar perfis profissionais, compartilhar experiências, habilidades e interesses. A ênfase principal será na conexão entre pessoas de diferentes áreas, visando promover o networking e a colaboração empresarial.
