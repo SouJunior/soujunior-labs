@@ -176,7 +176,7 @@ utilizado, proporcionando novas experiências ao usuário.
 
 ## Meme Battle
 **Organização**: [Meme Battle](https://github.com/Meme-Battle)  
-**Founders**: [Lucas Costa Amaral](https://www.linkedin.com/in/lucasca/), [Marcus de Souza Marcos](https://www.linkedin.com/in/marcusouzaa/)  
+**Founders**: [Lucas Costa Amaral](https://www.linkedin.com/in/lucasca/)
 **Descrição do projeto**: Meme Battle é um jogo de browser online para reunir amigos e competir para ver quem consegue criar o melhor meme!
 
 <hr/>
