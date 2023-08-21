@@ -34,7 +34,7 @@
 
 ## Wizer
 **Organização**: [Wizer Community](https://github.com/Wizer-Community)  
-**Founder**: [Simeone Johnson](https://www.linkedin.com/in/odilo-junior/) 
+**Founder**: [Odilo Junior](https://www.linkedin.com/in/odilo-junior/) 
 **Descrição do projeto**: Somos uma plataforma de Streaming Educacional, com conteúdo de qualidade disponibilizado de forma gratuita. Unimos educação e tecnologia, para transformar a forma de aprendizagem, tornando simples e acessível a todos que querem aprender.  
 
 <hr/>
