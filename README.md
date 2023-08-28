@@ -184,5 +184,5 @@ utilizado, proporcionando novas experiências ao usuário.
 
 ## TechRoom
 **Organização**: [TechRoom](https://github.com/TechRoomBR)  
-**Founders**: [Henricke Mendes](https://www.linkedin.com/in/henricke-mendes/)
+**Founders**: [Henricke Mendes](https://www.linkedin.com/in/henricke-mendes/)  
 **Descrição do projeto**: O TechRoom será uma plataforma online que permitirá aos membros criar perfis profissionais, compartilhar experiências, habilidades e interesses. A ênfase principal será na conexão entre pessoas de diferentes áreas, visando promover o networking e a colaboração empresarial.
