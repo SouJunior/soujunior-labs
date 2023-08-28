@@ -30,6 +30,7 @@
 - [DeliveryAPP](#deliveryapp)
 - [Meme Battle](#meme-battle)
 - [TechRoom](#techroom)
+- [MoradaApp](#moradaapp)
 
 <hr/>
 
@@ -186,3 +187,10 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [TechRoom](https://github.com/TechRoomBR)  
 **Founders**: [Henricke Mendes](https://www.linkedin.com/in/henricke-mendes/)  
 **Descrição do projeto**: O TechRoom será uma plataforma online que permitirá aos membros criar perfis profissionais, compartilhar experiências, habilidades e interesses. A ênfase principal será na conexão entre pessoas de diferentes áreas, visando promover o networking e a colaboração empresarial.
+
+<hr/>
+
+## MoradaApp
+**Organização**: [MoradaApp](https://github.com/MoradaApp)  
+**Founders**: [Jack](https://www.linkedin.com/in/jackvr/)  
+**Descrição do projeto**: Nossa plataforma será um sistema integrado que visa simplificar a gestão e a comunicação em condomínios residenciais. Através de um site responsivo e um aplicativo móvel intuitivo, oferecemos uma solução abrangente que atende às necessidades dos moradores, síndicos, administradores na vida condominial. 
