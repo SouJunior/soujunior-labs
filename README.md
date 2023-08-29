@@ -119,7 +119,7 @@
 <hr/>
 
 ## Care4You
-**Organização**:  [Care4You](https://github.com/care4you)  
+**Organização**:  [Care4You](https://github.com/Care-4-you)  
 **Founder**: [Samuel Carvalho](https://www.linkedin.com/in/samuel-silva-de-carvalho/)  
 **Descrição do projeto**: O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e profissionais de saúde. 
 
