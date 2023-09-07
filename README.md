@@ -25,7 +25,6 @@
 - [TechRate](#techrate)
 - [Tem Vaga Mestre?](#tem-vaga-mestre)
 - [Descubra Ilhabela](#descubra-ilhabela)
-- [Warmy](#warmy)
 - [MenuExpresso](#menuexpresso)
 - [DeliveryAPP](#deliveryapp)
 - [Meme Battle](#meme-battle)
@@ -153,13 +152,6 @@
 **Descrição do projeto**: O nosso projeto web tem como objetivo ser um guia turístico completo da cidade de Ilhabela.
 
 <hr/> 
-
-## Warmy
-**Organização**: [Warmy](https://github.com/warmy-project)  
-**Founder**: [Afonso Cardozo Cruz](https://www.linkedin.com/in/afonsocardz)    
-**Descrição do projeto**: Doação de agasalho com geolocalização, facilita e otimiza o processo para as arrecadações. Aumentando o incentivo para a sociedade.
-
-<hr/>
 
 ## MenuExpresso
 **Organização**: [MenuExpresso](https://github.com/MenuExpress-souJunior)  
