@@ -178,19 +178,19 @@ utilizado, proporcionando novas experiências ao usuário.
 
 ## TechRoom
 **Organização**: [TechRoom](https://github.com/TechRoomBR)  
-**Founders**: [Henricke Mendes](https://www.linkedin.com/in/henricke-mendes/)  
+**Founder**: [Henricke Mendes](https://www.linkedin.com/in/henricke-mendes/)  
 **Descrição do projeto**: O TechRoom será uma plataforma online que permitirá aos membros criar perfis profissionais, compartilhar experiências, habilidades e interesses. A ênfase principal será na conexão entre pessoas de diferentes áreas, visando promover o networking e a colaboração empresarial.
 
 <hr/>
 
 ## MoradaApp
 **Organização**: [MoradaApp](https://github.com/MoradaApp)  
-**Founders**: [Jack](https://www.linkedin.com/in/jackvr/)  
+**Founder**: [Jack](https://www.linkedin.com/in/jackvr/)  
 **Descrição do projeto**: Nossa plataforma será um sistema integrado que visa simplificar a gestão e a comunicação em condomínios residenciais. Através de um site responsivo e um aplicativo móvel intuitivo, oferecemos uma solução abrangente que atende às necessidades dos moradores, síndicos, administradores na vida condominial. 
 
 <hr/>
 
 ## Trilha Desenvolvimento XP
 **Organização**: [Trilha Desenvolvimento XP](https://github.com/TrilhaDesenvolvimento-XP)  
-**Founders**: [Gabriela Queiroz](https://www.linkedin.com/in/gabiqassis/)  
-**Descrição do projeto**: Será uma plataforma que oferece oportunidades desde iniciante ao avançado na aréa de tecnologia, disponibilizando projetos reais de varios niveis e prazos definidos com acesso ao um time de desenvolvimento, recrutamento para o mesmo e orientação de mentores da plataforma. 
+**Founder**: [Gabriela Queiroz](https://www.linkedin.com/in/gabiqassis/)  
+**Descrição do projeto**: Uma plataforma que oferece oportunidades desde iniciante ao avançado na aréa de tecnologia, disponibilizando projetos reais de varios niveis e prazos definidos com acesso ao um time de desenvolvimento, recrutamento para o mesmo e orientação de mentores da plataforma. 
