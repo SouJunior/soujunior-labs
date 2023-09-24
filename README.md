@@ -57,7 +57,7 @@
 
 ## Pet Journal
 **Organização**: [Pet Journal](https://github.com/PetJournal)  
-**Founder**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)    
+**Founder**: [Letícia Tavares](https://www.linkedin.com/in/leticiatrandrade/)    
 **Descrição do projeto**: Produto para registro e acompanhamento de informações referentes aos nossos pets. 
 
 <hr/>
