@@ -22,7 +22,6 @@
 - [Routinely](#routinely)
 - [Care4You](#care4you)
 - [Bora Rachar](#bora-rachar)
-- [TechRate](#techrate)
 - [Tem Vaga Mestre?](#tem-vaga-mestre)
 - [Descubra Ilhabela](#descubra-ilhabela)
 - [MenuExpresso](#menuexpresso)
@@ -130,13 +129,6 @@
 **Founder**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
 **Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.  
     
-<hr/>
-
-## TechRate
-**Organização**: [TechRate](https://github.com/orgs/TechRate-Lab/repositories)  
-**Founder**: [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)  
-**Descrição do projeto**: Plataforma para avaliação de empresas na área tech. Visando passar informações sobre stacks utilizadas, principais áreas de atuação, cultura da empresa, plano de carreira e informações relevantes para possíveis candidatos, com avaliações de funcionários.    
-
 <hr/>
 
 ## Tem Vaga Mestre?
