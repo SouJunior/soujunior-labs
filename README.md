@@ -26,7 +26,6 @@
 - [Descubra Ilhabela](#descubra-ilhabela)
 - [MenuExpresso](#menuexpresso)
 - [DeliveryAPP](#deliveryapp)
-- [TechRoom](#techroom)
 - [MoradaApp](#moradaapp)
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
 
@@ -160,12 +159,6 @@ utilizado, proporcionando novas experiências ao usuário.
 
 <hr/>
 
-## TechRoom
-**Organização**: [TechRoom](https://github.com/TechRoomBR)  
-**Founder**: [Henricke Mendes](https://www.linkedin.com/in/henricke-mendes/)  
-**Descrição do projeto**: O TechRoom será uma plataforma online que permitirá aos membros criar perfis profissionais, compartilhar experiências, habilidades e interesses. A ênfase principal será na conexão entre pessoas de diferentes áreas, visando promover o networking e a colaboração empresarial.
-
-<hr/>
 
 ## MoradaApp
 **Organização**: [MoradaApp](https://github.com/MoradaApp)  
