@@ -26,7 +26,6 @@
 - [Descubra Ilhabela](#descubra-ilhabela)
 - [MenuExpresso](#menuexpresso)
 - [DeliveryAPP](#deliveryapp)
-- [Meme Battle](#meme-battle)
 - [TechRoom](#techroom)
 - [MoradaApp](#moradaapp)
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
@@ -158,13 +157,6 @@
 **Founder**: [Igor Moura](https://www.linkedin.com/in/igor-moura-777b9917a/)  
 **Descrição do projeto**: O DeliveryAPP tem como objetivo ser um app de Delivery inovador e fácil de ser
 utilizado, proporcionando novas experiências ao usuário.
-
-<hr/>
-
-## Meme Battle
-**Organização**: [Meme Battle](https://github.com/Meme-Battle)  
-**Founder**: [Lucas Costa Amaral](https://www.linkedin.com/in/lucasca/)    
-**Descrição do projeto**: Meme Battle é um jogo de browser online para reunir amigos e competir para ver quem consegue criar o melhor meme!
 
 <hr/>
 
