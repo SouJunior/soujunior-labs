@@ -16,7 +16,6 @@
 - [Clubee](#clubee)
 - [Animania](#animania)
 - [Minnemi](#minnemi)
-- [Anota Aí](#anota-aí)
 - [LoryBlu](#loryblu)
 - [Connectattoo](#connectattoo)
 - [Routinely](#routinely)
@@ -84,13 +83,6 @@
 **Organização**: [Minnemi](https://github.com/orgs/Minnemi/repositories)  
 **Founder**: [Hugo Versiani](https://www.linkedin.com/in/hugoversiani)  
 **Descrição do projeto**: Uma plataforma web onde pessoas podem enviar "cartas" (que na verdade são e-mails) para si mesmas, porém definindo uma data especifica para receber-las no futuro, como se fosse uma "capsula do tempo".
-
-<hr/>
-
-## Anota Aí
-**Organização**: [Anota Aí](https://github.com/anota-ai-org)  
-**Founder**: [Bruno Mateus](https://www.linkedin.com/in/bruno-mateus-1215281a7)  
-**Descrição do projeto**: Anota Aí é uma plataforma de anotações focada em estudos, que permite aos usuários registrar suas fontes de estudos, progresso, notas importantes e outras informações relevantes.
 
 <hr/>
 
