@@ -8,7 +8,6 @@
 
 ## Lista de Projetos Ativos
 - [Lista de Projetos Ativos](#lista-de-projetos-ativos)
-- [Wizer](#wizer)
 - [Video4Me](#video4me)
 - [Site Projetos Ativos](#site-projetos-ativos)
 - [Pet Journal](#pet-journal)
@@ -27,13 +26,6 @@
 - [DeliveryAPP](#deliveryapp)
 - [MoradaApp](#moradaapp)
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
-
-<hr/>
-
-## Wizer
-**Organização**: [Wizer Community](https://github.com/Wizer-Community)  
-**Founder**: [Odilo Junior](https://www.linkedin.com/in/odilo-junior/)   
-**Descrição do projeto**: Somos uma plataforma de Streaming Educacional, com conteúdo de qualidade disponibilizado de forma gratuita. Unimos educação e tecnologia, para transformar a forma de aprendizagem, tornando simples e acessível a todos que querem aprender.  
 
 <hr/>
 
