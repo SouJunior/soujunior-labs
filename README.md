@@ -108,7 +108,7 @@
 
 ## Bora Rachar
 **Organização**: [BoraRachar](https://github.com/orgs/BoraRachar/repositories)  
-**Founder**: []()  
+**Founder**: [Gesane Caroline](https://www.linkedin.com/in/gesane-caroline) [Victoria Souza](https://www.linkedin.com/in/victoriamfsouza)  
 **Descrição do projeto**: Plataforma web e mobile que servirá de intermediadora de rateios.  
     
 <hr/>
