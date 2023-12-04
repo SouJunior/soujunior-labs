@@ -14,7 +14,6 @@
 - [Controle de Corrida](#controle-de-corrida)
 - [Clubee](#clubee)
 - [Animania](#animania)
-- [Minnemi](#minnemi)
 - [LoryBlu](#loryblu)
 - [Connectattoo](#connectattoo)
 - [Routinely](#routinely)
@@ -67,13 +66,6 @@
 **Organização**: [Organização Animania Team](https://github.com/AnimaniaTeam)   
 **Founder**: [Vítor Emanuel](https://www.linkedin.com/in/vitoremanuelqf)  
 **Descrição do projeto**: Aplicativo para listagem e organização de animes, contendo como principal funcionalidade o calendário de lançamentos da temporada, listagem de acompanhamento do usuário com o progresso e controle de episódios e temporadas assistidas, listagem completa de temporadas anteriores separadas por gênero.
-
-<hr/>
-
-## Minnemi
-**Organização**: [Minnemi](https://github.com/orgs/Minnemi/repositories)  
-**Founder**: [Hugo Versiani](https://www.linkedin.com/in/hugoversiani)  
-**Descrição do projeto**: Uma plataforma web onde pessoas podem enviar "cartas" (que na verdade são e-mails) para si mesmas, porém definindo uma data especifica para receber-las no futuro, como se fosse uma "capsula do tempo".
 
 <hr/>
 
