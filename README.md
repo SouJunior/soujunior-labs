@@ -22,7 +22,6 @@
 - [Bora Rachar](#bora-rachar)
 - [Tem Vaga Mestre?](#tem-vaga-mestre)
 - [Descubra Ilhabela](#descubra-ilhabela)
-- [MenuExpresso](#menuexpresso)
 - [DeliveryAPP](#deliveryapp)
 - [MoradaApp](#moradaapp)
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
@@ -127,13 +126,6 @@
 **Descrição do projeto**: O nosso projeto web tem como objetivo ser um guia turístico completo da cidade de Ilhabela.
 
 <hr/> 
-
-## MenuExpresso
-**Organização**: [MenuExpresso](https://github.com/MenuExpress-souJunior)  
-**Founder**: [Yan Castro](https://www.linkedin.com/in/cplx/)  
-**Descrição do projeto**: Somos um cardápio digital inovador que tem como objetivo transformar a maneira como as pessoas interagem e fazem pedidos em restaurantes. Combinando tecnologia avançada e uma interface intuitiva, proporcionamos uma experiência conveniente e personalizada para os clientes.
-
-<hr/>
 
 ## DeliveryAPP
 **Organização**: [DeliveryAPP](https://github.com/DeliveryAPP-Project)  
