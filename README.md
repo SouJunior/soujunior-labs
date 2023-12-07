@@ -24,6 +24,7 @@
 - [DeliveryAPP](#deliveryapp)
 - [MoradaApp](#moradaapp)
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
+- [GoLembrar](#golembrar)
 
 <hr/>
 
@@ -139,3 +140,11 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [Trilha Desenvolvimento XP](https://github.com/TrilhaDesenvolvimento-XP)  
 **Founder**: [Gabriela Queiroz](https://www.linkedin.com/in/gabiqassis/)  
 **Descrição do projeto**: Uma plataforma que oferece oportunidades desde iniciante ao avançado na aréa de tecnologia, disponibilizando projetos reais de varios niveis e prazos definidos com acesso ao um time de desenvolvimento, recrutamento para o mesmo e orientação de mentores da plataforma. 
+
+<hr/> 
+
+## GoLembrar
+**Organização**: [GoLembrar](https://github.com/GoLembrar)  
+**Founder**: [Jonathas David](https://www.linkedin.com/in/jonathas-david-59334721b/)  
+**Descrição do projeto**: O sistema GoLembrar é um sistema web inovador projetado para simplificar o processo de gerenciamento de lembretes, oferecendo aos usuários uma maneira eficaz de organizar suas tarefas diárias, compromissos e eventos importantes. Este sistema robusto integra funcionalidades intuitivas e automatizadas para proporcionar uma experiência de usuário fluida e eficiente. Contando com várias plataformas integradas para recebimento do lembrete como WhatsApp, E-mail, Telegram e Discord.
+
