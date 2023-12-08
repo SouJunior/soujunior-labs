@@ -24,6 +24,7 @@
 - [DeliveryAPP](#deliveryapp)
 - [MoradaApp](#moradaapp)
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
+- [Amigos dos Animais](#amigosdosanimais)
 
 <hr/>
 
@@ -139,3 +140,10 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [Trilha Desenvolvimento XP](https://github.com/TrilhaDesenvolvimento-XP)  
 **Founder**: [Gabriela Queiroz](https://www.linkedin.com/in/gabiqassis/)  
 **Descrição do projeto**: Uma plataforma que oferece oportunidades desde iniciante ao avançado na aréa de tecnologia, disponibilizando projetos reais de varios niveis e prazos definidos com acesso ao um time de desenvolvimento, recrutamento para o mesmo e orientação de mentores da plataforma. 
+
+<hr/>
+
+## Amigos dos Animais
+**Organização**: [Amigos dos Animais](https://github.com/amigosdosanimais)  
+**Founder**: [Frederico Espeschit](https://www.linkedin.com/in/fredericoespeschit/)  
+**Descrição do projeto**: A plataforma Ada ajuda organizações não governamentais que cuidam dos animais a gerenciar todas as suas atividades. Ela permite centralizar e controlar todas as informações importantes.
