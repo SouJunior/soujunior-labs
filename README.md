@@ -25,6 +25,7 @@
 - [MoradaApp](#moradaapp)
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
 - [GoLembrar](#golembrar)
+- [Amigos dos Animais](#amigos-dos-animais)
 
 <hr/>
 
@@ -148,3 +149,9 @@ utilizado, proporcionando novas experiências ao usuário.
 **Founder**: [Jonathas David](https://www.linkedin.com/in/jonathas-david-59334721b/)  
 **Descrição do projeto**: O sistema GoLembrar é um sistema web inovador projetado para simplificar o processo de gerenciamento de lembretes, oferecendo aos usuários uma maneira eficaz de organizar suas tarefas diárias, compromissos e eventos importantes. Este sistema robusto integra funcionalidades intuitivas e automatizadas para proporcionar uma experiência de usuário fluida e eficiente. Contando com várias plataformas integradas para recebimento do lembrete como WhatsApp, E-mail, Telegram e Discord.
 
+<hr/>
+
+## Amigos dos Animais
+**Organização**: [Amigos dos Animais](https://github.com/amigosdosanimais)  
+**Founder**: [Frederico Espeschit](https://www.linkedin.com/in/fredericoespeschit/)  
+**Descrição do projeto**: A plataforma Ada ajuda organizações não governamentais que cuidam dos animais a gerenciar todas as suas atividades. Ela permite centralizar e controlar todas as informações importantes.
