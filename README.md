@@ -26,6 +26,7 @@
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
 - [GoLembrar](#golembrar)
 - [Amigos dos Animais](#amigos-dos-animais)
+- [HubScribe](#HubScribe)
 
 <hr/>
 
@@ -155,3 +156,10 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [Amigos dos Animais](https://github.com/amigosdosanimais)  
 **Founder**: [Frederico Espeschit](https://www.linkedin.com/in/fredericoespeschit/)  
 **Descrição do projeto**: A plataforma Ada ajuda organizações não governamentais que cuidam dos animais a gerenciar todas as suas atividades. Ela permite centralizar e controlar todas as informações importantes.
+
+<hr/> 
+
+## HubScribe
+**Organização**: [HubScribe](https://github.com/Organizacao-HubScribe)  
+**Founder**: [João Moraes](https://www.linkedin.com/in/joaomoraes73/)  
+**Descrição do projeto**: Uma plataforma Open Source que oferece um ambiente colaborativo para documentação técnica e gerenciamento de projetos. Com recursos de edição colaborativa, permite a criação de páginas wiki, busca de artigos e suporte a markdown. Acessível e flexível para equipes que buscam uma solução de colaboração eficaz de código aberto.
