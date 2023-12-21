@@ -26,7 +26,8 @@
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
 - [GoLembrar](#golembrar)
 - [Amigos dos Animais](#amigos-dos-animais)
-- [HubScribe](#HubScribe)
+- [HubScribe](#hubscribe)
+- [Gym-progress](#gym-progress)
 
 <hr/>
 
@@ -163,3 +164,10 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [HubScribe](https://github.com/Organizacao-HubScribe)  
 **Founder**: [João Moraes](https://www.linkedin.com/in/joaomoraes73/)  
 **Descrição do projeto**: Uma plataforma Open Source que oferece um ambiente colaborativo para documentação técnica e gerenciamento de projetos. Com recursos de edição colaborativa, permite a criação de páginas wiki, busca de artigos e suporte a markdown. Acessível e flexível para equipes que buscam uma solução de colaboração eficaz de código aberto.
+
+<hr/> 
+
+## Gym-progress
+**Organização**: [Gym-progress](https://github.com/Gym-progress) <br>
+**Founder**: [Hugo Lemos](https://www.linkedin.com/in/hugo-lemos-da-silva/) <br>
+**Descrição do projeto**: Gym Progress será um aplicativo abrangente e intuitivo projetado para auxiliar os usuários no acompanhamento detalhado de seu progresso na academia. Com foco na praticidade e eficiência, o aplicativo permitirá a realização de anotações detalhadas, incluindo registros de carga, gráficos de desempenho e acompanhamento do tempo de treino.
