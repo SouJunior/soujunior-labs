@@ -26,8 +26,9 @@
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
 - [GoLembrar](#golembrar)
 - [Amigos dos Animais](#amigos-dos-animais)
-- [HubScribe](#HubScribe)
-- [Gym-progress](#Gym-progress)
+- [HubScribe](#hubscribe)
+- [Gym-progress](#gym-progress)
+
 <hr/>
 
 ## Video4Me  
