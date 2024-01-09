@@ -171,3 +171,9 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [Gym-progress](https://github.com/Gym-progress) <br>
 **Founder**: [Hugo Lemos](https://www.linkedin.com/in/hugo-lemos-da-silva/) <br>
 **Descrição do projeto**: Gym Progress será um aplicativo abrangente e intuitivo projetado para auxiliar os usuários no acompanhamento detalhado de seu progresso na academia. Com foco na praticidade e eficiência, o aplicativo permitirá a realização de anotações detalhadas, incluindo registros de carga, gráficos de desempenho e acompanhamento do tempo de treino.
+<hr/> 
+
+## QuickServices
+**Organização**: [QuickServices](https://github.com/Organization-QuickServices) <br>
+**Founder**: [Carlos Daniel](https://www.linkedin.com/in/carlos-daniel-silva/) <br>
+**Descrição do projeto**: O QuickServices é uma aplicação mobile para conectar prestadores de serviços a clientes/pessoas que tem tarefas a ser feitas. O que o diferencia de outros sites/aplicativos é que são serviços simples que geralmente não são encontrados em grandes plataformas.
