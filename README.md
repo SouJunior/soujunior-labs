@@ -28,6 +28,7 @@
 - [Amigos dos Animais](#amigos-dos-animais)
 - [HubScribe](#hubscribe)
 - [Gym-progress](#gym-progress)
+- [QuickServices](#quickservices)
 
 <hr/>
 
