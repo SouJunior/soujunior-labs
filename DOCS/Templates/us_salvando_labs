@@ -32,28 +32,3 @@ ________________________________________________________________________________
 **Informações Adicionais**
 Qualquer observação importante para melhorar o entendimento da User Story
 ___________________________________________________________________________________________________________
-
-**DoR - Definition of Ready**
-- [ ] O item ter sido refinado seguindo o modelo de User Story.
-
-- [ ] A User Story deverá ter pelo menos um critério de aceite.
-
-- [ ]  A User Story deverá ter pelo menos uma referência visual (Ex: Protótipo, Fluxograma e etc...).
-
-- [ ] A User Story deverá apresentar o seu módulo de referência: Mentor ou Mentorado.
-
-- [ ] Ter sido validado pelo mentor.
-___________________________________________________________________________________________________________
-
-**DoD - Definition of Done**
-- [ ] Documentar ferramentas, documentação e ambientes necessários para realização de teste.
-
-- [ ] Execução de testes unitários.
-
-- [ ] Revisão do código do Pull request validado pelo mentor e por outro membro do time de desenvolvimento.
-
-- [ ] Critérios de aceite verificados, testados e validado.
-
-- [ ] Teste de software criados, executados e validados pelo QA.
-
-- [ ] Garantir que todas as etapas planejadas foram atendidas/concluídas.
