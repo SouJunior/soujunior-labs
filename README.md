@@ -184,3 +184,8 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [hello-pets](https://github.com/monteroaurea/hello-pets.git) <br>
 **Founder**: [Aurea](https://www.linkedin.com/in/monteroaurea/) <br>
 **Descrição**: O aplicativo Hello Pets é uma plataforma para que tutores de pets possam se conectar, compartilhar informações e participar de eventos e encontros para promover a interação de seus animais de estimação na comunidade.
+
+## GameGuard
+**Organização**: [GameGuard](https://github.com/zGameGuard) <br>
+**Founder**: [Italo Araújo](https://www.linkedin.com/in/italoaraujodev) <br>
+**Descrição**: O GameGuard é uma inovadora plataforma web destinada a coletar e relatar condutas de jogadores em diversos jogos online, começando pelo popular League of Legends. Nosso objetivo é promover um ambiente de jogo mais saudável e justo, incentivando a comunidade a colaborar na identificação de comportamentos negativos e antiéticos.
